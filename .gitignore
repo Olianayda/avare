@@ -1,0 +1,8 @@
+# Логи сбора — локальные, в репозиторий не нужны
+*.log
+*.err.log
+node_modules/
+.DS_Store
+
+.webhook.local
+images/.DS_Store

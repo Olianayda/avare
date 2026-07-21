@@ -1,0 +1,10 @@
+{
+  "_comment": "RSS-источники для скаута. Добавляй и убирай свободно — скрипт молча пропустит недоступный фид и скажет об этом в отчёте.",
+  "feeds": [
+    { "name": "Beef Magazine", "url": "https://www.beefmagazine.com/rss.xml" },
+    { "name": "Farm Progress", "url": "https://www.farmprogress.com/rss.xml" },
+    { "name": "AgFunderNews", "url": "https://agfundernews.com/feed" },
+    { "name": "The Bullvine", "url": "https://www.thebullvine.com/feed/" },
+    { "name": "Progressive Dairy", "url": "https://www.agproud.com/rss/articles" }
+  ]
+}
