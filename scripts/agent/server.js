@@ -97,7 +97,7 @@ function render(){
       + (i.summary?'<div class="sum">'+esc(i.summary.slice(0,240))+'</div>':'')
       + '<div><a href="'+i.url+'" target="_blank" rel="noopener">Открыть источник ↗</a></div>'
       + '<div class="row">'
-      +   (i.status==='draft'?'<button class="act pri" data-a="write">Написать пост</button><button class="act" data-a="reject">Отклонить</button>':'')
+      +   (i.status==='draft'?'<button class="act pri" data-a="write">Написать вручную</button><button class="act" data-a="reject">Отклонить</button>':'')
       +   (i.status==='ready'?'<button class="act pri" data-a="approve">Одобрить</button><button class="act" data-a="edit">Править</button><button class="act" data-a="reject">Отклонить</button>':'')
       +   (i.status==='approved'?'<button class="act" data-a="edit">Править</button><button class="act" data-a="unapprove">Вернуть в правку</button>':'')
       +   (i.status==='posted'?'<button class="act pri" data-a="republish">Переопубликовать с правками</button><button class="act" data-a="edit">Посмотреть текст</button>':'')

@@ -31,14 +31,14 @@
     },
     {
       "id": 4,
-      "status": "ready",
+      "status": "approved",
       "headline": "Start Where It Hurts: How to Implement Dairy Technology That Scales",
       "url": "https://www.agproud.com/articles/63815-start-where-it-hurts-how-to-implement-dairy-technology-that-scales",
       "source": "Progressive Dairy",
       "category": "ai-livestock",
       "date": "2026-07-16",
       "post_text": "One dairy milked 4,500 cows on two rotary platforms. Its breeding team was ten people per milking.\n\nAfter installing automated sorting gates, that number dropped to two. Eight people moved to higher-value work. The herd did not shrink. The labor bill did.\n\nProgressive Dairy laid out how this actually happens this week, and the mechanics are worth reading. Sort gates route cows by rule, not by memory. Every cow between 95 and 120 days in milk goes to the hoof trimmer each Wednesday, automatically. Breeding cows and treatment cows separate in a single pass.\n\nThe piece makes a quieter point too. The farms that win with technology do not start big. They name their most expensive problem first, missed heats or slow milking or the labor crunch, and solve only that. Then they add one piece at a time, on the same cow IDs.\n\nMost technology is bought before the problem is named. That is the step everyone skips.\n\nWhat is the one problem you would automate first?\n\n#dairyfarming #precisionlivestock #herdmanagement #agritech",
-      "image_url": "'/Users/olianayda/Downloads/avare/pictures for publish/cows-avare.jpg'",
+      "image_url": "",
       "added": "2026-07-19T12:48:55.954Z",
       "summary": "The farms that get the most from technology start by naming their most expensive problem – missed heats, slow milking, undetected sick cows or the labor crunch – and solving that first."
     },
