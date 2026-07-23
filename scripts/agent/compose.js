@@ -43,7 +43,7 @@ const baseMime = base.toLowerCase().endsWith('.png') ? 'png' : base.toLowerCase(
 const esc = (s) => s.replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
 
 // Заголовок мелкий: масштабируем от ширины картинки.
-const fs_headline = Math.round(W * 0.026);
+const fs_headline = Math.round(W * 0.031);
 const logoW = Math.round(W * 0.17);
 const pad = Math.round(W * 0.035);
 

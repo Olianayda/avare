@@ -45,16 +45,17 @@
     },
     {
       "id": 5,
-      "status": "ready",
+      "status": "posted",
       "headline": "Many growers still find ‘no meaningful benefit’ from AI use on the farm: survey",
       "url": "https://agfundernews.com/many-growers-still-find-no-meaningful-benefit-from-ai-use-on-the-farm-survey",
       "source": "AgFunderNews",
       "category": "ai-livestock",
       "date": "2026-07-15",
-      "post_text": "AgFunderNews reported a survey this week. Many growers still find no meaningful benefit from AI on the farm.\n\nThat is worth sitting with rather than arguing about.\n\nThe technology is usually not the problem. Most of these tools work fine in a demo. They fail somewhere between the demo and Tuesday morning.\n\nA tool earns its place when it fits a routine that already exists. It loses that place when it asks the operation to build a new routine around it.\n\nThree things separate the tools that stay from the tools that get quietly dropped. They answer a question someone was already asking. They answer fast enough to change what happens that day. And they work in the conditions the work actually happens in.\n\nMost agritech fails the third one. Field conditions mean dust, cold hands, bad light and no signal. A tool that needs an office is not a field tool.\n\nWhat is one tool your operation actually kept using after the trial ended?\n\n#agritech #livestock #precisionlivestock #farmtech",
-      "image_url": "",
+      "post_text": "Purdue asked 400 farmers about AI on their operations. More than half, 52%, said the tools provide no meaningful benefit right now.\n\nThe detail underneath is sharper than the headline. Agtech usually sells AI as a labor saver. Only 14% of these farmers expected it to cut labor needs or cost. A slightly larger group, 22.8%, thought it would lift production.\n\nJennifer Marston, writing in AgFunderNews this week, quotes the barometer's lead economist Michael Langemeier. His read is plain. Most respondents simply have not figured out how these tools help their operation yet.\n\nHe points to what he calls facts on the ground. A tool can tell you to plant corn on a given day. Weather or a broken machine can make that day impossible.\n\nThat last point is the whole story. The barrier is rarely belief in the technology. It is whether the technology survives the conditions of a real working day.\n\nWhat would it take for a tool to earn a permanent place on your operation?\n\n#agritech #livestock #precisionag #farmtech",
+      "image_url": "https://raw.githubusercontent.com/Olianayda/avare/main/images/avare-ai-no-benefit-survey-202607.jpg",
       "added": "2026-07-19T12:48:56.048Z",
-      "summary": "Forty-two percent of farmers cite high input costs the biggest constraint to improving their farm's financial health. The post Many growers still find ‘no meaningful benefit’ from AI use on the farm: survey appeared first on AgFunderNews."
+      "summary": "Forty-two percent of farmers cite high input costs the biggest constraint to improving their farm's financial health. The post Many growers still find ‘no meaningful benefit’ from AI use on the farm: survey appeared first on AgFunderNews.",
+      "posted_date": "2026-07-23"
     },
     {
       "id": 6,
@@ -108,6 +109,12 @@
       "url": "https://www.agproud.com/articles/63815-start-where-it-hurts-how-to-implement-dairy-technology-that-scales",
       "headline": "Start Where It Hurts: How to Implement Dairy Technology That Scales",
       "posted_date": "2026-07-21",
+      "category": "ai-livestock"
+    },
+    {
+      "url": "https://agfundernews.com/many-growers-still-find-no-meaningful-benefit-from-ai-use-on-the-farm-survey",
+      "headline": "Many growers still find ‘no meaningful benefit’ from AI use on the farm: survey",
+      "posted_date": "2026-07-23",
       "category": "ai-livestock"
     }
   ],
