@@ -11,11 +11,39 @@
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const os = require('os');
+const util = require('util');
 const { execFile } = require('child_process');
+const execFileP = util.promisify(execFile);
 
 const DIR = __dirname;
 const QUEUE = path.join(DIR, 'queue.json');
 const PORT = 4321;
+
+// Накладывает дизайн (compose.js) и публикует картинку (add-image.sh),
+// возвращает публичный raw-URL.
+async function composeAndPublish(id, imageB64, ext, caption) {
+  const safeExt = /^(jpg|jpeg|png|webp)$/i.test(ext) ? ext.toLowerCase() : 'jpg';
+  const tmpBase = path.join(os.tmpdir(), `avare-in-${id}-${Date.now()}.${safeExt}`);
+  const tmpOut = path.join(os.tmpdir(), `avare-out-${id}-${Date.now()}.jpg`);
+  fs.writeFileSync(tmpBase, Buffer.from(imageB64, 'base64'));
+
+  await execFileP(process.execPath, [
+    path.join(DIR, 'compose.js'),
+    '--base', tmpBase,
+    '--headline', caption || '',
+    '--out', tmpOut,
+  ]);
+
+  const { stdout } = await execFileP('bash', [
+    path.join(DIR, 'add-image.sh'), tmpOut, `post${id}`,
+  ]);
+  const url = stdout.trim().split('\n').filter(Boolean).pop();
+
+  try { fs.unlinkSync(tmpBase); fs.unlinkSync(tmpOut); } catch {}
+  if (!/^https:\/\//.test(url)) throw new Error('add-image.sh не вернул ссылку: ' + url);
+  return url;
+}
 
 const load = () =>
   fs.existsSync(QUEUE) ? JSON.parse(fs.readFileSync(QUEUE, 'utf8')) : { items: [], log: [], nextId: 1 };
@@ -53,6 +81,14 @@ const PAGE = `<!doctype html>
   .wc.bad{color:#c0392b}
   .empty{color:var(--dim);padding:40px 0;text-align:center}
   .hide{display:none}
+  .imgbox{margin-top:12px;padding:12px;border:1px dashed var(--line);border-radius:8px}
+  .imgbox .lbl{font-size:12px;color:var(--dim);margin-bottom:7px}
+  .imgbox input[type=text]{width:100%;padding:8px 11px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);font-size:13px;margin-bottom:8px}
+  .imgbox .file{font-size:13px;margin-bottom:8px}
+  .thumb{margin-top:10px;max-width:100%;border-radius:6px;border:1px solid var(--line)}
+  .imgstate{font-size:12px;margin-top:8px}
+  .imgstate.busy{color:var(--accent)}.imgstate.done{color:#2f8f4e}.imgstate.err{color:#c0392b}
+  .curimg{margin-top:8px}.curimg img{max-width:100%;border-radius:6px;border:1px solid var(--line)}
 </style></head><body>
 <header>
   <h1>Отбор новостей · Avare BioTech</h1>
@@ -108,6 +144,14 @@ function render(){
       +   '<div class="wc'+(bad?' bad':'')+'">слов: '+wc+' · норма 120–180</div>'
       +   '<input type="url" placeholder="URL картинки (https://…)" value="'+(i.image_url||'')+'">'
       +   '<div class="row"><button class="act pri" data-a="save">Сохранить</button></div>'
+      +   '<div class="imgbox">'
+      +     '<div class="lbl">Картинка с фирменным дизайном</div>'
+      +     (i.image_url&&/^https/.test(i.image_url)?'<div class="curimg"><img src="'+esc(i.image_url)+'"><div class="lbl">текущая — уже с дизайном</div></div>':'')
+      +     '<input type="text" class="cap" placeholder="Подпись на картинке (внизу слева)" value="'+esc(i.image_caption||i.headline||'')+'">'
+      +     '<div class="file"><input type="file" class="pick" accept="image/*"></div>'
+      +     '<button class="act pri" data-a="compose">Наложить дизайн и прикрепить</button>'
+      +     '<div class="imgstate"></div>'
+      +   '</div>'
       + '</div>'
       + '</div>';
   }).join('');
@@ -119,9 +163,31 @@ function render(){
     const im=card.querySelector('input[type=url]');
     const wcEl=card.querySelector('.wc');
     if(ta) ta.oninput=()=>{const w=words(ta.value);wcEl.textContent='слов: '+w+' · норма 120–180';wcEl.classList.toggle('bad',w<120||w>180)};
+    const cap=card.querySelector('.cap');
+    const pick=card.querySelector('.pick');
+    const imgstate=card.querySelector('.imgstate');
     card.querySelectorAll('[data-a]').forEach(b=>b.onclick=()=>{
       const a=b.dataset.a;
       if(a==='write'||a==='edit'){ ed.classList.toggle('hide'); return }
+      if(a==='compose'){
+        const f=pick&&pick.files&&pick.files[0];
+        if(!f){ imgstate.className='imgstate err'; imgstate.textContent='Сначала выбери файл картинки'; return }
+        const cn=cap?cap.value.trim():'';
+        imgstate.className='imgstate busy'; imgstate.textContent='Накладываю дизайн и публикую… (несколько секунд)';
+        const rd=new FileReader();
+        rd.onload=async ()=>{
+          const b64=String(rd.result).split(',')[1];
+          const ext=(f.name.split('.').pop()||'jpg').toLowerCase();
+          try{
+            const r=await fetch('/api/compose',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id,imageB64:b64,ext,caption:cn})});
+            const j=await r.json();
+            if(j.ok){ imgstate.className='imgstate done'; imgstate.textContent='Готово, картинка прикреплена'; data=j.queue||data; render(); }
+            else{ imgstate.className='imgstate err'; imgstate.textContent='Ошибка: '+(j.error||'не удалось'); }
+          }catch(e){ imgstate.className='imgstate err'; imgstate.textContent='Ошибка сети: '+e.message; }
+        };
+        rd.readAsDataURL(f);
+        return;
+      }
       if(a==='save')      return api('/api/save',{id,post_text:ta.value,image_url:im.value});
       if(a==='approve')   return api('/api/status',{id,status:'approved'});
       if(a==='unapprove') return api('/api/status',{id,status:'ready'});
@@ -164,6 +230,21 @@ http
       const d = await body(req);
       const item = q.items.find((i) => i.id === d.id);
       if (!item) return json(q);
+
+      if (req.url === '/api/compose') {
+        try {
+          const url = await composeAndPublish(d.id, d.imageB64, d.ext, d.caption);
+          // перечитываем очередь: add-image.sh делал git commit, но queue.json он не трогает
+          const q2 = load();
+          const it2 = q2.items.find((i) => i.id === d.id);
+          it2.image_url = url;
+          it2.image_caption = d.caption || '';
+          save(q2);
+          return json({ ok: true, url, queue: q2 });
+        } catch (e) {
+          return json({ ok: false, error: e.message });
+        }
+      }
 
       if (req.url === '/api/save') {
         item.post_text = d.post_text || '';
