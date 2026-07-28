@@ -73,7 +73,7 @@
     },
     {
       "id": 7,
-      "status": "ready",
+      "status": "approved",
       "headline": "Holstein’s 60-Inch Rule: Why Breeders Are Backing It With 53%-vs-21% Math",
       "url": "https://www.thebullvine.com/genetics-breeding/holstein-stature-penalty-heritability/",
       "source": "The Bullvine",
@@ -81,7 +81,7 @@
       "summary": "Two weeks after the May 2026 stature penalty, breeders answered back with heritability math: 53% vs 21%.",
       "date": "2026-07-20",
       "post_text": "Two weeks after Holstein USA's new stature penalty landed, docking cows over 60 inches, the sharpest response wasn't outrage. It was a heritability lesson. Andrew Hunt, writing in The Bullvine this week, traces how one comment reframed the debate.\n\nQuebec breeder Emeric Lebacle made the point almost in passing: stature runs about 53% heritable by Lactanet's numbers, while feet and legs sit around 21% for the major score. Push hard on a low-heritability trait and progress crawls. Stature responds roughly 2.5 times more reliably to selection.\n\nThe penalty bites gradually: no deduction at 60 inches, minus 0.15 at 61, climbing to minus 3.45 at 70. Taller cows tend to exit the herd earlier, and an early cull costs roughly $2,000 per replacement heifer.\n\nFeet and legs stay weak even in today's top GTPI bulls, and the penalty doesn't fix that directly. A short cow once denied an \"Excellent\" score became one of Wisconsin's highest lifetime milk producers.\n\nWhere would you draw the line between structural durability and chasing a number on paper?\n\n#genetics #Holstein #dairybreeding #heritability #cattlegenetics",
-      "image_url": "",
+      "image_url": "https://www.thebullvine.com/wp-content/uploads/2026/07/Genetic_Math_Changing_Cow_Stature-2048x1143.jpg",
       "added": "2026-07-21T09:59:56.009Z"
     },
     {
@@ -170,5 +170,5 @@
       "category": "ai-livestock"
     }
   ],
-  "nextId": 13
+  "nextId": 14
 }

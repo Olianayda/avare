@@ -98,13 +98,17 @@ const PAGE = `<!doctype html>
 <main id="list"></main>
 <script>
 const STATUSES=[['draft','Черновики'],['ready','С текстом'],['approved','Одобрено'],['posted','Опубликовано'],['rejected','Отклонено']];
-let data={items:[]}, filter='draft';
+let data={items:[]}, inbox=[], filter='inbox';
 
 async function api(path,body){
   const r=await fetch(path,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
-  data=await r.json(); render();
+  const j=await r.json();
+  if(j.items) data=j;
+  if(j.inbox) inbox=j.inbox;
+  await refreshInbox(); render();
 }
-async function loadData(){ data=await (await fetch('/api/queue')).json(); render(); }
+async function refreshInbox(){ try{ inbox=await (await fetch('/api/inbox')).json(); }catch(e){} }
+async function loadData(){ data=await (await fetch('/api/queue')).json(); await refreshInbox(); render(); }
 
 function words(t){ return t.trim()?t.trim().split(/\\s+/).length:0 }
 
@@ -114,12 +118,16 @@ function render(){
   document.getElementById('counts').textContent =
     STATUSES.filter(([s])=>counts[s]).map(([s,n])=>n+': '+counts[s]).join(' · ') || 'пусто';
 
-  document.getElementById('tabs').innerHTML = STATUSES
-    .map(([s,n])=>'<button class="tab'+(filter===s?' on':'')+'" data-s="'+s+'">'+n+' '+(counts[s]||0)+'</button>').join('');
+  const allTabs=[['inbox','Входящие '+inbox.length]].concat(STATUSES.map(([s,n])=>[s,n+' '+(counts[s]||0)]));
+  document.getElementById('tabs').innerHTML = allTabs
+    .map(([s,label])=>'<button class="tab'+(filter===s?' on':'')+'" data-s="'+s+'">'+label+'</button>').join('');
   document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{filter=b.dataset.s;render()});
 
-  const items=data.items.filter(i=>i.status===filter);
   const el=document.getElementById('list');
+
+  if(filter==='inbox'){ renderInbox(el); return }
+
+  const items=data.items.filter(i=>i.status===filter);
   if(!items.length){ el.innerHTML='<div class="empty">Здесь пусто.</div>'; return }
 
   el.innerHTML=items.map(i=>{
@@ -200,6 +208,26 @@ function render(){
     });
   });
 }
+function renderInbox(el){
+  if(!inbox.length){ el.innerHTML='<div class="empty">Новых неразобранных новостей нет. Бот собирает их каждый день.</div>'; return }
+  el.innerHTML='<div class="empty" style="padding:10px 0;text-align:left">Собрано ботом, ещё не отобрано — '+inbox.length+' шт. Возьми в работу то, что подходит темам Avare.</div>'
+    + inbox.map((x,idx)=>'<div class="card" data-idx="'+idx+'">'
+      + '<div class="meta">'+esc(x.source||'')+(x.author?' · '+esc(x.author):'')+' · '+(x.date||x.collected||'')+'</div>'
+      + '<p class="hl">'+esc(x.headline||'')+'</p>'
+      + (x.summary?'<div class="sum">'+esc(x.summary.slice(0,220))+'</div>':'')
+      + '<div><a href="'+esc(x.url)+'" target="_blank" rel="noopener">Открыть источник ↗</a></div>'
+      + '<div class="row">'
+      +   '<button class="act pri" data-ia="add">Взять в работу</button>'
+      +   '<button class="act" data-ia="hide">Скрыть</button>'
+      + '</div></div>').join('');
+  el.querySelectorAll('.card').forEach(card=>{
+    const x=inbox[+card.dataset.idx];
+    card.querySelectorAll('[data-ia]').forEach(b=>b.onclick=()=>{
+      if(b.dataset.ia==='add')  return api('/api/inbox-add',{url:x.url});
+      if(b.dataset.ia==='hide') return api('/api/inbox-hide',{url:x.url});
+    });
+  });
+}
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
 loadData();
 </script></body></html>`;
@@ -225,9 +253,57 @@ http
     }
     if (req.url === '/api/queue') return json(load());
 
+    if (req.url === '/api/inbox') {
+      const q = load();
+      const inboxFile = path.join(DIR, 'inbox.json');
+      const ib = fs.existsSync(inboxFile) ? JSON.parse(fs.readFileSync(inboxFile, 'utf8')) : { items: [] };
+      const seen = new Set([...q.items, ...(q.log || [])].map((i) => i.url));
+      const dismissed = new Set(q.dismissed || []);
+      // Только свежее: собранное за последние 5 дней. Старое неактуально.
+      const cutoff = new Date(Date.now() - 5 * 864e5).toISOString().slice(0, 10);
+      const fresh = ib.items
+        .filter((x) => x.url && !seen.has(x.url) && !dismissed.has(x.url))
+        .filter((x) => (x.collected || x.date || '') >= cutoff)
+        .sort((a, b) => (b.date || b.collected || '').localeCompare(a.date || a.collected || ''));
+      return json(fresh);
+    }
+
     if (req.method === 'POST') {
       const q = load();
       const d = await body(req);
+
+      // Входящие адресуются по url, а не по id — обрабатываем до поиска item.
+      if (req.url === '/api/inbox-hide') {
+        q.dismissed = q.dismissed || [];
+        if (d.url && !q.dismissed.includes(d.url)) q.dismissed.push(d.url);
+        save(q);
+        return json(q);
+      }
+      if (req.url === '/api/inbox-add') {
+        const inboxFile = path.join(DIR, 'inbox.json');
+        const ib = fs.existsSync(inboxFile) ? JSON.parse(fs.readFileSync(inboxFile, 'utf8')) : { items: [] };
+        const src = ib.items.find((x) => x.url === d.url);
+        if (!src) return json(q);
+        if (q.items.some((i) => i.url === d.url) || (q.log || []).some((l) => l.url === d.url)) return json(q);
+        if (!q.nextId) q.nextId = Math.max(0, ...q.items.map((i) => i.id)) + 1;
+        q.items.push({
+          id: q.nextId++,
+          status: 'draft',
+          headline: src.headline,
+          url: src.url,
+          source: src.source || '',
+          author: src.author || '',
+          category: src.category || '',
+          summary: src.summary || '',
+          date: src.date || src.collected || '',
+          post_text: '',
+          image_url: '',
+          added: new Date().toISOString(),
+        });
+        save(q);
+        return json(q);
+      }
+
       const item = q.items.find((i) => i.id === d.id);
       if (!item) return json(q);
 
