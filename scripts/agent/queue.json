@@ -109,6 +109,45 @@
       "post_text": "A replacement dairy heifer now costs $3,010, up from $1,140 in April 2019. Top auction prices in California and Minnesota have crossed $4,000.\n\nAndrew Hunt, writing in The Bullvine this week, makes the case that keeping an old cow in the herd is no longer sentimental, it is math. The national average is 2.7 lactations. Gillette Emperor Smurf EX-91, a Holstein now in her 18th lactation, has produced 478,163 pounds of milk in her lifetime, a Guinness World Record.\n\nOn a 200-cow herd, moving the average from 2.7 to 3.7 lactations saves roughly $60,000 a year, about 20 fewer heifers to raise. USDA counted only 3.914 million replacement heifers on hand this January, the lowest number since 1978.\n\nHunt names four pillars behind that extra lactation: transition nutrition, udder health, foot care, and reproductive health, specifically clearing uterine infections across consecutive cycles. The fourth pillar is where fertility work quietly pays for itself.\n\nWhat's the oldest cow still earning her keep in your herd, and what's actually keeping her there?\n\n#reproduction #dairyfarming #cattlebreeding #cowlongevity #dairyeconomics",
       "image_url": "",
       "added": "2026-07-24T09:35:10.444Z"
+    },
+    {
+      "id": 10,
+      "status": "ready",
+      "headline": "Does delaying conception improve profitability?",
+      "url": "https://www.agproud.com/articles/63551-does-delaying-conception-improve-profitability",
+      "source": "Progressive Dairy",
+      "category": "reproduction",
+      "summary": "Study on dry period length and days open: intermediate-length dry periods gave higher milk production and better fertility; questions whether delaying conception in high-producing modern Holsteins improves profitability.",
+      "date": "2026-07-28",
+      "post_text": "More than 109,000 Holstein cows. 60 US dairy herds. That is the dataset behind a retrospective study by Overton and Eicker, reported this week by Alvaro Garcia in Progressive Dairy.\n\nThe question: does delaying conception pay off in high-producing herds? Modern Holsteins hold their lactation curve longer than cows a generation ago, so some producers wondered if longer days open would squeeze out more milk before pregnancy takes its toll.\n\nThe data said otherwise. Longer days open in one lactation raised replacement risk in the next. Dry period length followed a curve, not a line. Both too short and too long raised early-removal risk. Roughly 60 days produced the best outcomes. Cows that conceived earlier and kept a traditional dry period made more milk through 90 days and got pregnant sooner next lactation. Even top producers were not protected once days open ran too long.\n\nGarcia's conclusion: reproductive efficiency is not a pregnancy checkbox. It is a long-term driver of survivability and profit.\n\nWhere is your herd's dry period landing right now, and does it match what the cow's transition actually needs?\n\n#dairy #reproduction #cattle #fertility #herdhealth",
+      "image_url": "",
+      "added": "2026-07-28T09:32:55.876Z"
+    },
+    {
+      "id": 11,
+      "status": "ready",
+      "headline": "New technology, new possibilities: How to introduce artificial intelligence into your dairy",
+      "url": "https://www.agproud.com/articles/63554-new-technology-new-possibilities-how-to-introduce-artificial-intelligence-into-your-dairy",
+      "source": "Progressive Dairy",
+      "category": "ai-livestock",
+      "summary": "CATTLEytics founder Shari van de Pol explains how AI helps producers with data analytics, breeding schedules, nutrition, disease diagnosis and employee management on dairies of any size.",
+      "date": "2026-07-28",
+      "post_text": "\"You can have all the information in the world, but if you're not actually making any changes, what's the point?\" That is Shari van de Pol, a computer engineer turned large-animal vet, speaking on the Progressive Dairy Podcast in a piece by Patryce Eldredge LeFevre this week.\n\nVan de Pol founded CATTLEytics, an ag-tech company built around one problem: dairies collect enormous data and still struggle to act on it. Her advice is unglamorous. Open ChatGPT, Copilot or Perplexity. Ask a real question about your operation. If the answer feels off, push back and ask it to refine. Start with one problem, not the whole farm.\n\nShe is clear about limits too. AI does not replace the nutritionist or the vet. It fills gaps and spots patterns across feed, breeding and health records. Van de Pol also sees it as a leveler, giving smaller operations the kind of analysis only large dairies could previously afford.\n\nThe tool is only as useful as the question you bring it. What is the one recurring decision on your operation you would hand to AI first?\n\n#dairy #AI #agtech #dataanalytics #cattle",
+      "image_url": "",
+      "added": "2026-07-28T09:33:05.770Z"
+    },
+    {
+      "id": 12,
+      "status": "ready",
+      "headline": "Orbem begins US rollout of MRI-based in-ovo sexing tech",
+      "url": "https://agfundernews.com/orbem-begins-us-rollout-of-mri-based-in-ovo-sexing-tech",
+      "source": "AgFunderNews",
+      "category": "agritech-deals",
+      "summary": "German startup Orbem, backed by 55.5M euro Series B, deploys MRI+AI system determining chick sex in-ovo with 99.5% accuracy in under a second; first US hatchery system live, second in mid-August; in-ovo sexing already covers 40% of EU commercial layer flock.",
+      "date": "2026-07-27",
+      "post_text": "99.5% accuracy, in under a second. That is the claim behind Orbem's in-ovo sexing system, now running at its first US hatchery, according to AgFunderNews this week.\n\nOrbem is a Munich-founded startup with a Texas office since 2025. Its system, \"Genus Focus,\" pairs an MRI scanner with AI that identifies a chick's developing reproductive organs before hatching, around day 11 to 12 of incubation. A second US installation is scheduled for mid-August, a third for 2027. Jennifer Volz, the company's head of global business development, says a major US retailer will announce its own rollout soon.\n\nThe technology is already established in Europe. In-ovo sexing covers 40% of the EU's commercial layer flock. More than 281 million female chicks have been selected this way since 2021. Orbem runs the system as pay-per-use rather than selling hardware, and reports being already profitable after a 55.5 million euro Series B round this January.\n\nSex determination before birth, at near-perfect accuracy, keeps showing up as the economics driver across species. Where else in animal agriculture is this kind of precision still missing?\n\n#agritech #genetics #AI #innovation #poultry",
+      "image_url": "",
+      "added": "2026-07-28T09:33:05.890Z"
     }
   ],
   "log": [
@@ -131,5 +170,5 @@
       "category": "ai-livestock"
     }
   ],
-  "nextId": 10
+  "nextId": 13
 }
