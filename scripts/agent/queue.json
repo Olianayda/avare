@@ -148,6 +148,32 @@
       "post_text": "99.5% accuracy, in under a second. That is the claim behind Orbem's in-ovo sexing system, now running at its first US hatchery, according to AgFunderNews this week.\n\nOrbem is a Munich-founded startup with a Texas office since 2025. Its system, \"Genus Focus,\" pairs an MRI scanner with AI that identifies a chick's developing reproductive organs before hatching, around day 11 to 12 of incubation. A second US installation is scheduled for mid-August, a third for 2027. Jennifer Volz, the company's head of global business development, says a major US retailer will announce its own rollout soon.\n\nThe technology is already established in Europe. In-ovo sexing covers 40% of the EU's commercial layer flock. More than 281 million female chicks have been selected this way since 2021. Orbem runs the system as pay-per-use rather than selling hardware, and reports being already profitable after a 55.5 million euro Series B round this January.\n\nSex determination before birth, at near-perfect accuracy, keeps showing up as the economics driver across species. Where else in animal agriculture is this kind of precision still missing?\n\n#agritech #genetics #AI #innovation #poultry",
       "image_url": "",
       "added": "2026-07-28T09:33:05.890Z"
+    },
+    {
+      "id": 14,
+      "status": "ready",
+      "headline": "Creating pregnancies in the heat with Ben Dickman",
+      "url": "https://www.agproud.com/articles/63885-podcast-transcript-creating-pregnancies-in-the-heat-with-ben-dickman",
+      "source": "Progressive Dairy",
+      "category": "reproduction",
+      "summary": "Podcast transcript: Arizona dairy Dickman and Sons raised its summer 21-day pregnancy rate from the low teens to about 20% after a four-year cooling system investment, using CowManager activity monitoring, an 80-day voluntary waiting period, sexed and beef semen, and genomic culling.",
+      "date": "2026-07-29",
+      "post_text": "A dairy in Coolidge, Arizona pushed its summer 21-day pregnancy rate from the low teens up to roughly 20%, with nights still in the high 90s to triple digits.\n\nBen Dickman, third-generation owner of Dickman and Sons Dairy, told Progressive Dairy editor Matti McBride cooling had to start in March this year after the farm hit 105°F that early. The 3,600-cow dairy runs exit lane drenches, flip fans and manger drenchers tied to humidity, dew point and wind. Four years in, the system paid for itself in a year and a half, not the projected three.\n\nReproduction runs on an 80-day voluntary waiting period and CowManager activity monitoring, aiming for sеmen into every cow by 99 days in milk. Genomics decide who stays: low scorers get culled, sexed sеmen goes to heifers, beef sеmen to second-lactation-plus cows, and the bottom 20% is sold every six months.\n\nMost heat-stress conversations focus on the animal in the moment. Dickman's numbers point somewhere else: an infrastructure bet made years before the heat arrived.\n\nWhat payback horizon does your dairy budget for cooling investments?\n\n#dairyreproduction #hеatstress #cattlebreeding #genomics #dairyfarming",
+      "image_url": "",
+      "added": "2026-07-29T12:46:28.922Z"
+    },
+    {
+      "id": 15,
+      "status": "ready",
+      "headline": "Exclusive: Calysta hires new CEO, seeks new capital as JV partner ends financial support",
+      "url": "https://agfundernews.com/exclusive-calysta-hires-new-ceo-seeks-new-capital-as-jv-partner-ends-financial-support",
+      "source": "AgFunderNews",
+      "category": "agritech-deals",
+      "summary": "Gas fermentation firm Calysta brought in new CEO Berend Jan Kingma after its China JV partner Adisseo ended financial support and halted production at the Chongqing single-cell protein plant; Calysseo 2025 unaudited results show $78.7M assets, $63.9M liabilities, $710k revenue and a $15.5M net loss.",
+      "date": "2026-07-28",
+      "post_text": "Calysseo, the joint venture between gas-fermentation company Calysta and animal nutrition group Adisseo, has halted production at its single-cell protein plant in Chongqing, China.\n\nElaine Watson, writing in AgFunderNews, reported that Adisseo told the Shanghai Stock Exchange on June 18 it would not renew a loan to the venture after a failed bid for outside financing, citing a \"severe shortage of working capital\" and warning that the plant needed \"substantial and sustainable financial support\" to resume upgrades. Calysseo's unaudited 2025 numbers: $78.7 million in assets, $63.9 million in liabilities, $710,000 in revenue, and a $15.5 million net loss.\n\nCalysta has brought in a new CEO, Berend Jan Kingma, formerly of InspiraFarms, FirstWave Group and Miro Forestry, while cofounder Alan Shaw, now non-executive chair, told AgFunderNews the focus is \"debottlenecking downstream processing\" to raise the capital the plant needs.\n\nTurning methane into feed protein for aquaculture and petfood was a capital-intensive bet. This is the cost of finding out whether the science scales before the balance sheet runs out.\n\nWhat's your read: does the science need more time, or more money?\n\n#agritechdeals #alternativeprotein #feedtech #agtechfunding #startups",
+      "image_url": "",
+      "added": "2026-07-29T12:46:38.715Z"
     }
   ],
   "log": [
@@ -170,5 +196,5 @@
       "category": "ai-livestock"
     }
   ],
-  "nextId": 14
+  "nextId": 16
 }
