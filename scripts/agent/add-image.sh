@@ -9,7 +9,9 @@
 
 set -euo pipefail
 
-REPO_DIR="/Users/olianayda/avare-agent"
+# Корень репозитория — от расположения самого скрипта (scripts/agent/add-image.sh),
+# а не жёстким путём: панель может быть запущена из любого каталога.
+REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 IMG_DIR="$REPO_DIR/images"
 BRANCH="main"
 RAW_BASE="https://raw.githubusercontent.com/Olianayda/avare/$BRANCH/images"
@@ -42,6 +44,11 @@ fname="avare-${clean}-$(date +%Y%m).${ext}"
 if [[ -f "$IMG_DIR/$fname" ]]; then
   fname="avare-${clean}-$(date +%Y%m)-$(date +%H%M%S).${ext}"
 fi
+
+# Сначала убеждаемся, что перед нами репозиторий, и только потом что-то создаём:
+# иначе mkdir насоздаёт каталогов там, где их быть не должно, а git упадёт позже и невнятно.
+git -C "$REPO_DIR" rev-parse --git-dir >/dev/null 2>&1 \
+  || die "Не репозиторий: $REPO_DIR. Картинки публикуются коммитом, без git отправлять некуда."
 
 mkdir -p "$IMG_DIR"
 cp "$SRC" "$IMG_DIR/$fname"

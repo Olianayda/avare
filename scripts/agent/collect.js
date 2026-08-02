@@ -46,4 +46,26 @@ execFile(process.execPath, [path.join(DIR, 'scout.js'), '--days', '3', '--json']
 
   fs.writeFileSync(INBOX, JSON.stringify(inbox, null, 2) + '\n');
   log(`новых: ${added}, всего во входящих: ${inbox.items.length}` + (broken?.length ? `, недоступны: ${broken.join('; ')}` : ''));
+
+  // Разбором занимается облачная рутина Claude Code, а она видит только git.
+  // Без пуша агент читал бы вчерашние входящие. Пушим лишь когда что-то добавилось.
+  if (added > 0) push(added);
 });
+
+function push(added) {
+  const git = (args, done) =>
+    execFile('git', ['-C', path.join(DIR, '..', '..'), ...args], (err, stdout, stderr) =>
+      done(err, (stdout || '') + (stderr || ''))
+    );
+
+  git(['add', 'scripts/agent/inbox.json'], (e1, o1) => {
+    if (e1) return log(`git add не прошёл: ${o1.trim()}`);
+    const msg = `Collect: ${added} new in inbox`;
+    git(['-c', 'user.name=Avare Collector', '-c', 'user.email=olianayda@gmail.com', 'commit', '-q', '-m', msg], (e2, o2) => {
+      if (e2) return log(`коммит не прошёл: ${o2.trim()}`);
+      git(['push', '-q', 'origin', 'main'], (e3, o3) =>
+        log(e3 ? `пуш не прошёл: ${o3.trim()}` : 'входящие отправлены в репозиторий')
+      );
+    });
+  });
+}

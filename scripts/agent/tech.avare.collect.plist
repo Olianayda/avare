@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>tech.avare.collect</string>
+
+  <!-- Путь к node абсолютный: у launchd нет пользовательского PATH.
+       Если homebrew-node пропадёт, здесь же лежит запасной: /Users/olianayda/.local/node/bin/node -->
+  <key>ProgramArguments</key>
+  <array>
+    <string>/opt/homebrew/bin/node</string>
+    <string>/Users/olianayda/Projects/avare-agent/scripts/agent/collect.js</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/olianayda/Projects/avare-agent/scripts/agent</string>
+
+  <!-- Каждый день в 08:30. Если Mac спал, launchd догонит задание при пробуждении. -->
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>8</integer>
+    <key>Minute</key>
+    <integer>30</integer>
+  </dict>
+
+  <!-- При входе в систему не запускать: сбор идёт по расписанию, а не на каждый логин. -->
+  <key>RunAtLoad</key>
+  <false/>
+
+  <!-- Сюда падает то, что напечатал скрипт: пусто при удачном прогоне, трассировка при падении.
+       Свой журнал collect.log скрипт ведёт сам, рядом с собой. -->
+  <key>StandardOutPath</key>
+  <string>/Users/olianayda/Projects/avare-agent/scripts/agent/launchd.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/olianayda/Projects/avare-agent/scripts/agent/launchd.log</string>
+</dict>
+</plist>
