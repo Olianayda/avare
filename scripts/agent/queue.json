@@ -175,6 +175,34 @@
       "post_text": "A single-cell protein plant that booked $710,000 in revenue and a $15.5 million loss has stopped production.\n\nIt belongs to Calysseo, the joint venture between gas-fermentation company Calysta and animal nutrition group Adisseo, in Chongqing, China. Elaine Watson, writing in AgFunderNews, reported that Adisseo told the Shanghai Stock Exchange on June 18 it would not renew a loan to the venture after a failed bid for outside financing, citing a \"severe shortage of working capital.\"\n\nAdisseo warned the plant needed \"substantial and sustainable financial support\" to resume upgrades. Calysseo's unaudited 2025 numbers: $78.7 million in assets, $63.9 million in liabilities.\n\nCalysta has a new CEO, Berend Jan Kingma, formerly of InspiraFarms, FirstWave Group and Miro Forestry. Cofounder Alan Shaw, now non-executive chair, told AgFunderNews the focus is \"debottlenecking downstream processing\" to raise the capital the plant needs.\n\nTurning methane into feed protein for aquaculture and petfood was a capital-intensive bet. This is what it costs to learn whether the science scales before the money runs out.\n\nDoes the science need more time, or more money?\n\n#agritechdeals #alternativeprotein #feedtech #agtechfunding #startups",
       "image_url": "",
       "added": "2026-07-29T12:46:38.715Z"
+    },
+    {
+      "id": 16,
+      "status": "ready",
+      "headline": "New genetic tools could match bulls to your farm's environment",
+      "url": "https://www.farmprogress.com/cattle-news/new-genetic-tools-could-match-bulls-to-your-farm-s-environment",
+      "source": "Farm Progress",
+      "category": "genetics",
+      "summary": "University of Tennessee beef specialist Troy Rowan and land-grant researchers, with the American Angus Association, are developing genetic-by-environment (GxE) tools and adaptive indicator traits like hair shedding scores, aiming to rebuild EPDs with satellite climate data so bull genetics match local heat and forage conditions instead of an assumed average.",
+      "date": "2026-07-31",
+      "post_text": "A top bull's genetics do not perform the same in Florida and in Montana, and most breeding tools still assume they do.\n\nRaney Rapp writes about this in Farm Progress this week. Researchers are studying genetic by environment interaction, or GxE: the idea that a sire's genetic value shifts with climate and management.\n\nUniversity of Tennessee beef specialist Troy Rowan put it plainly. Average environments don't exist and average management doesn't exist.\n\nArtificial insemination made elite genetics available everywhere. It also erased traits that helped cattle handle heat or poor forage at home. One early fix already works: hair shedding scores that gauge heat and fescue tolerance.\n\nLand grant universities and the American Angus Association are going further. They are rebuilding expected progeny differences, the scorecards breeders use to pick sires. The new versions will add satellite climate data and real farm records.\n\nSelection tools are moving past breed and carcass numbers, toward genetics matched to the farm they will actually work on.\n\nWould knowing your bull's GxE profile change which sire you buy next?\n\n#cattlegenetics #beefcattle #EPD #genomics #cattlebreeding",
+      "image_url": "",
+      "added": "2026-08-02T12:21:02.000Z",
+      "author": "Raney Rapp"
+    },
+    {
+      "id": 17,
+      "status": "ready",
+      "headline": "The $1,300 Gap Between the Bull You Want and the Bull You Should Buy",
+      "url": "https://www.thebullvine.com/genetics-breeding/lpi-subindexes-health-gap/",
+      "source": "The Bullvine",
+      "category": "genetics",
+      "summary": "Bullvine analysis of Canada's 20 most-used Holstein sires found some rank 96th percentile for overall LPI but only 31st for Health & Welfare, which is just 8% of the index; Lactanet Pro$ data and a US DWP$ validation put the gap at roughly $1,300 in lifetime profit per daughter, driven by differences in lameness and mastitis rates.",
+      "date": "2026-07-31",
+      "post_text": "A 96th-percentile LPI bull can rank 31st for health, a $1,300 gap per daughter.\n\nMurray Hunt writes about it in The Bullvine this week. LPI is Lactanet's genetic merit index for Holstein sires in Canada. Hunt checked the country's 20 most-used sires against its six new subindexes. Some bulls sat at the 96th percentile overall but ranked only 31st for Health and Welfare.\n\nHealth and Welfare carries 8% of the total score, next to Production at 40% and Longevity and Type at 32%. Top-quartile sires for health keep 7.4% more daughters at six years, worth $1,300 more per daughter. Their daughters show 15.9 points less lameness and 14.9 points less mastitis.\n\nHunt calls the composite score a flattering headshot: one number, easy to post and sell. He says the subindexes are the scan that shows where the joint is failing.\n\nA composite score is built to average. Averaging is what hides the one weak trait that costs the most later.\n\nHow many of your last sire purchases would survive a look at their subindexes alone?\n\n#Holstein #dairygenetics #cattlebreeding #geneticselection #Lactanet",
+      "image_url": "",
+      "added": "2026-08-02T12:21:02.000Z",
+      "author": "Murray Hunt"
     }
   ],
   "log": [
@@ -203,5 +231,5 @@
       "category": "genetics"
     }
   ],
-  "nextId": 16
+  "nextId": 18
 }
