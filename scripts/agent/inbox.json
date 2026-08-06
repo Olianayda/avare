@@ -1,114 +1,6 @@
 {
   "items": [
     {
-      "headline": "July 19, 2026 Progressive Dairy digital magazine",
-      "url": "https://www.agproud.com/articles/63840-july-19-2026-progressive-dairy-digital-magazine",
-      "summary": "The latest issue of Progressive Dairy magazine is available. To view, make sure you're logged into your agproud.com account. If you do not have access, click \"Subscribe\" in the top-right corner of agproud.com to add permission to view.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-07-19",
-      "collected": "2026-07-19"
-    },
-    {
-      "headline": "Pick up the tissue paper",
-      "url": "https://www.agproud.com/blogs/1-progressive-dairy-from-the-editor/post/63724-pick-up-the-tissue-paper",
-      "summary": "You can often tell the dairies that have pride in their operation based on how they treat the appearance of the dairy.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-07-19",
-      "collected": "2026-07-19"
-    },
-    {
-      "headline": "Dairywoman and artist Caitlin Leline Hatch finds creativity in agriculture",
-      "url": "https://www.agproud.com/articles/63650-dairywoman-and-artist-caitlin-leline-hatch-finds-creativity-in-agriculture",
-      "summary": "For Caitlin Leline Hatch, agriculture and art are not separate pursuits but are deeply intertwined. Hatch helps manage a unique seasonal grazing dairy while also building a successful career as an artist whose work celebrates rural life, agriculture and Western culture.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-07-19",
-      "collected": "2026-07-19"
-    },
-    {
-      "headline": "Just Dropping By: The freedom ship of America",
-      "url": "https://www.agproud.com/blogs/6-progressive-dairy-just-dropping-by/post/63633-just-dropping-by-the-freedom-ship-of-america",
-      "summary": "For 250 years, the freedom ship of America has sailed unscathed over the murky shark-infested waters of the world. This proverbial ship had her beginnings long before the Founding Fathers took pen in hand to write the immortal Declaration of Independence.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-07-19",
-      "collected": "2026-07-19"
-    },
-    {
-      "headline": "The Milk House: For fries’ sake",
-      "url": "https://www.agproud.com/blogs/4-progressive-dairy-the-milk-house/post/63606-the-milk-house-for-fries-sake",
-      "summary": "I ate a lot of fries in my childhood, but only because I ate a lot of hamburgers. It sounds like the dream diet for a child, except that there’s a difference in taste between burgers and fries that are baked as opposed to deep fried.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-07-19",
-      "collected": "2026-07-19"
-    },
-    {
-      "headline": "The Courage to Evolve: Going the wrong way",
-      "url": "https://www.agproud.com/blogs/37-progressive-dairy-the-courage-to-evolve/post/63668-the-courage-to-evolve-going-the-wrong-way",
-      "summary": "Sometimes lessons come to us in the strangest ways.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-07-19",
-      "collected": "2026-07-19"
-    },
-    {
-      "headline": "This Week in Agribusiness, July 18, 2026",
-      "url": "https://www.beefmagazine.com/market-news/this-week-in-agribusiness-july-18-2026",
-      "summary": "Soybean advocacy, disease alerts, renewable fuel opportunities, and upcoming field day are featured this week.",
-      "source": "Beef Magazine",
-      "author": "",
-      "date": "2026-07-18",
-      "collected": "2026-07-19"
-    },
-    {
-      "headline": "This Week in Agribusiness, July 18, 2026",
-      "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-july-18-2026",
-      "summary": "Soybean advocacy, disease alerts, renewable fuel opportunities, and upcoming field day are featured this week.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-07-18",
-      "collected": "2026-07-19"
-    },
-    {
-      "headline": "FFA Chapter Tribute: Allyson Rietcheck",
-      "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-chapter-tribute-allyson-rietcheck",
-      "summary": "Allyson Rietcheck, former Kansas State FFA sentinel and first-generation FFA member, is now pursuing a career in professional agriculture.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-07-18",
-      "collected": "2026-07-19"
-    },
-    {
-      "headline": "Young farmer builds operation by upgrading old equipment",
-      "url": "https://www.farmprogress.com/farming-equipment/young-farmer-builds-operation-by-upgrading-old-equipment",
-      "summary": "Iowa farmer Ryan Wolf expands acreage with Facebook finds and family ingenuity.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-07-18",
-      "collected": "2026-07-19"
-    },
-    {
-      "headline": "Canada proposes aligning feed ban with U.S. requirements",
-      "url": "https://www.beefmagazine.com/market-news/canada-proposes-aligning-feed-ban-with-u-s-requirements",
-      "summary": "SRMs will remain prohibited for ruminant feed, but lower-risk materials could be allowed in non-ruminant feed, pet food and fertilizer.",
-      "source": "Beef Magazine",
-      "author": "Industry Release",
-      "date": "2026-07-17",
-      "collected": "2026-07-19"
-    },
-    {
-      "headline": "Cooler than normal fall ahead? What might that mean for harvest?",
-      "url": "https://www.beefmagazine.com/farm-business-management/cooler-than-normal-fall-ahead-what-might-that-mean-for-harvest-",
-      "summary": "LIVE STREAM TUESDAY, JULY 21 AT 1 PM CT - What does the remainder of this summer on into fall hold and what might that mean for crop and livestock producers?",
-      "source": "Beef Magazine",
-      "author": "",
-      "date": "2026-07-17",
-      "collected": "2026-07-19"
-    },
-    {
       "headline": "House introduces legislation aimed at meat packers",
       "url": "https://www.beefmagazine.com/policy/house-introduces-legislation-aimed-at-meat-packers",
       "summary": "Companion to Schumer’s bill wants to break up monopolies by making it unlawful for a major packer to control more than one type of meat.",
@@ -3473,6 +3365,240 @@
       "author": "Elaine Watson",
       "date": "2026-08-03",
       "collected": "2026-08-05"
+    },
+    {
+      "headline": "Cotton jassid: the invasive pest shocking U.S. cotton",
+      "url": "https://www.farmprogress.com/cotton/cotton-jassid-the-invasive-pest-shocking-u-s-cotton",
+      "summary": "Join experts for a webinar on cotton jassid threats in the Southeast. Learn about the invasive leafhopper's spread, impact and outlook for this season.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-08-26",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Heat stress in the pasture",
+      "url": "https://www.beefmagazine.com/livestock-management/heat-stress-in-the-pasture",
+      "summary": "Water access, shade placement and fly control help reduce bunching and overheating in grazing livestock during extreme summer temperatures.",
+      "source": "Beef Magazine",
+      "author": "University of Nebraska-Lincoln",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Should your calves stay or should they go?",
+      "url": "https://www.beefmagazine.com/livestock-management/should-your-calves-stay-or-should-they-go-",
+      "summary": "How the price slide shapes post-weaning and backgrounding decisions.",
+      "source": "Beef Magazine",
+      "author": "University of Georgia",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Ground beef prices rising fastest",
+      "url": "https://www.beefmagazine.com/market-news/ground-beef-prices-rising-fastest",
+      "summary": "Wholesale costs for 85% lean ground beef climb faster than premium cuts as nonfed beef supply shrinks and consumer demand for affordable options grows.",
+      "source": "Beef Magazine",
+      "author": "Derrell Peel",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Mary Ann Ledger: Iowa Master Farm Homemaker with a caregiver’s heart",
+      "url": "https://www.farmprogress.com/names-in-the-news/mary-ann-ledger-iowa-master-farm-homemaker-with-a-caregiver-s-heart",
+      "summary": "Whether it’s on the farm, in the community or with family, devotion to others defines Mary Ann Ledger as a 2026 Iowa Master Farm Homemaker.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "1 fire, 600 lost jobs show resilience of rural America",
+      "url": "https://www.farmprogress.com/farm-life/1-fire-600-lost-jobs-reveal-the-resilience-of-rural-america",
+      "summary": "From plant fires to immigration raids, Postville, Iowa, knows crisis. When flames consumed Agri Star on July 28, an entire community responded.",
+      "source": "Farm Progress",
+      "author": "Rachel Schutte",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Learn lasting legacies of these Farm Progress Show luminaries",
+      "url": "https://www.farmprogress.com/farm-progress-show/learn-lasting-legacies-of-these-farm-progress-show-luminaries",
+      "summary": "Farm Progress Show: Orion Samuelson, Jerry Ecklund, Troy Tessendorf and Bob Deiss have all positively impacted the Farm Progress Show over the years.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "4 steps to collecting a quality soil sample",
+      "url": "https://www.farmprogress.com/soil-health/4-steps-to-collecting-a-quality-soil-sample",
+      "summary": "From the Field: Collecting consistent and accurate soil samples ensures you have a clear snapshot of nutrient levels, guiding more informed decisions. Here’s where you can start.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "3 daily habits to stay pain-free during harvest season",
+      "url": "https://www.farmprogress.com/harvest/3-daily-habits-to-stay-pain-free-during-harvest-season",
+      "summary": "These stretches can help farmers avoid back pain without leaving the cab.",
+      "source": "Farm Progress",
+      "author": "Elizabeth Hodges",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Processors bullish on biofuels boom seek bigger hills of beans",
+      "url": "https://www.farmprogress.com/soybean/processors-bullish-on-biofuels-boom-seek-bigger-hills-of-beans",
+      "summary": "Soybean Outlook: ADM and other big soybean processors are ramping up crushing capacity to serve a growing biofuels demand. Is it an unqualified “win” for farmers?",
+      "source": "Farm Progress",
+      "author": "Bruce Blythe",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Basics of writing a successful farm grant proposal",
+      "url": "https://www.farmprogress.com/farm-business/basics-of-writing-a-successful-farm-grant-proposal",
+      "summary": "Writing a grant for a new farm venture doesn’t take a professional. Here’s what to include in a strong application.",
+      "source": "Farm Progress",
+      "author": "Mindy Ward",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Costs, mental health among Southern farmers’ greatest challenges",
+      "url": "https://www.farmprogress.com/farm-life/costs-mental-health-among-southern-farmers-greatest-challenges",
+      "summary": "Farmers at the Southern Peanut Growers Conference were asked about their biggest expenses and challenges this season. Also, a conference speaker emphasized the importance of confronting mental health challenges.",
+      "source": "Farm Progress",
+      "author": "Shelley E. Huguley",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Scout for spotted hemlock in Dakotas",
+      "url": "https://www.farmprogress.com/weeds/watch-for-spotted-hemlock-in-dakotas",
+      "summary": "North Dakota State University Extension warns farmers and ranchers to seek out poisonous weed before cutting hay.",
+      "source": "Farm Progress",
+      "author": "Sarah McNaughton-Peterson",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Rural ingenuity turns pasture into pulling track for a cause",
+      "url": "https://www.farmprogress.com/farm-life/rural-ingenuity-turns-pasture-into-pulling-track-for-a-cause",
+      "summary": "Cow Patty Paradise Pulling Track started with an empty pasture and a neighbor’s dream. It ended with thousands raised for the local fire department and families who didn’t have to leave town for Friday night fun.",
+      "source": "Farm Progress",
+      "author": "Raney Rapp",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Grab a cold one at Husker Harvest Days",
+      "url": "https://www.farmprogress.com/husker-harvest-days/grab-a-cold-one-at-husker-harvest-days",
+      "summary": "Wyffels Watering Hole and Hy-Vee offer alcoholic drinks inside the 2026 Husker Harvest Days showgrounds.",
+      "source": "Farm Progress",
+      "author": "Mindy Ward",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Diversification lets South Carolina farmer thrive",
+      "url": "https://www.farmprogress.com/crops/diversification-lets-south-carolina-farmer-thrive",
+      "summary": "Field Check: Jeff Wilson shifts focus from cotton to specialty crops such as sweet corn and strawberries for better profit margins.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Step up for Nebraska wheat",
+      "url": "https://www.farmprogress.com/wheat/step-up-for-nebraska-wheat",
+      "summary": "LEAD Comment: A Nebraska Wheat Board member explains how Nebraska LEAD has affected her role in agriculture.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "AGROLEITE 2026 | Jersey Show",
+      "url": "https://www.thebullvine.com/show-reports/agroleite-2026-jersey-show/",
+      "summary": "Date: August 5th and 6th 2026Judge: Kelly Barbee, NC, USA 🥇 Junior ChampionJADE TOBEFAMOUS REALExhibitor: Mariana Monteiro Boeng Pelegrini – Braço do Norte, SCBreeder: Vilson and Mariana Boeng – Braço do Norte, SC 🥈 Reserve Junior ChampionTHA LIA KID ROCK 398 DM KNIESSExhibitor/Breeder: Marcio and Mario Kniess – Braço do Norte, SC 🥉 Honorable MentionLAILA CANADIAN REALExhibitor/Breeder: Vilson ",
+      "source": "The Bullvine",
+      "author": "Andrew Hunt",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Easing the weaning transition with synthetic calming substance",
+      "url": "https://www.agproud.com/articles/63844-easing-the-weaning-transition-with-synthetic-calming-substance",
+      "summary": "It could be said that weaning is a turning point in beef calves' lives as they’re isolated from their mothers, cut off from milk and forced through a wave of new pressures, including up-close-and-personal human handling and contact, vaccination, transportation, auction yards and feedlot entry. Add unfamiliar feed and new social groups, and the stress quickly mounts, weakening immunity and leaving ",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Questions from the Kitchen Table: Easing into partnership and asking the hard questions",
+      "url": "https://www.agproud.com/articles/63790-questions-from-the-kitchen-table-easing-into-partnership-and-asking-the-hard-questions",
+      "summary": "I came home to the dairy eight years ago, and a few years back, Mom and Dad made me a partner. The problem is, it still doesn't feel like anything's changed.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-06",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "U.S. meat exports resilient as trade barriers get resolved",
+      "url": "https://www.beefmagazine.com/market-news/u-s-meat-exports-resilient-as-trade-barriers-get-resolved",
+      "summary": "Beef exports to China remain minimal due to plant suspensions, residue testing uncertainty; Mexico pork variety meat restrictions hit June numbers.",
+      "source": "Beef Magazine",
+      "author": "U.S. Meat Export Federation",
+      "date": "2026-08-05",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Packers, people and ‘the market’",
+      "url": "https://www.beefmagazine.com/market-news/packers-people-and-the-market-",
+      "summary": "Market participants have differing levels of knowledge, experience, insight and emotion, and that can create lots of variation in any given week.",
+      "source": "Beef Magazine",
+      "author": "Nevil Speer",
+      "date": "2026-08-05",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "COOL: Bad math makes for bad business",
+      "url": "https://www.beefmagazine.com/market-news/cool-bad-math-makes-for-bad-business",
+      "summary": "While some claim the cost of the program is “just pennies per pound,” those pennies add up – to nearly $30/head.",
+      "source": "Beef Magazine",
+      "author": "Nevil Speer",
+      "date": "2026-08-05",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Beyond Meat leans into Europe, Canada, as US sales continue to slide",
+      "url": "https://agfundernews.com/beyond-meat-leans-into-europe-canada-as-us-sales-continue-to-slide",
+      "summary": "Beyond Meat's playbook deploys athletes such as basketball player Josh Hart \"who understand the superpowers of plants and what they can do to build, fuel, and restore the body,\" says CEO Ethan Brown. The post Beyond Meat leans into Europe, Canada, as US sales continue to slide appeared first on AgFunderNews.",
+      "source": "AgFunderNews",
+      "author": "Elaine Watson",
+      "date": "2026-08-05",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Black Sheep Foods bets on ‘TVP 2.0’ as hybrid meat gains traction",
+      "url": "https://agfundernews.com/black-sheep-foods-bets-on-tvp-2-0-as-hybrid-meat-gains-traction",
+      "summary": "Black Sheep Foods has reinvented itself as a B2B supplier of next-gen TVP that can be blended with meat or alt meat at high inclusion rates. The post Black Sheep Foods bets on ‘TVP 2.0’ as hybrid meat gains traction appeared first on AgFunderNews.",
+      "source": "AgFunderNews",
+      "author": "Elaine Watson",
+      "date": "2026-08-05",
+      "collected": "2026-08-06"
+    },
+    {
+      "headline": "Class III and IV move toward alignment in July milk prices",
+      "url": "https://www.agproud.com/articles/63921-class-iii-and-iv-move-toward-alignment-in-july-milk-prices",
+      "summary": "As market headwinds are developing for U.S. dairy, in terms of production output, dairy products demand and price competition from other global players, the Class III and Class IV milk prices are inching closer to equilibrium.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-05",
+      "collected": "2026-08-06"
     }
   ]
 }
