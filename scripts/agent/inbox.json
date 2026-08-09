@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "headline": "Scholarships promote next generation in agriculture",
-      "url": "https://www.farmprogress.com/names-in-the-news/scholarships-promote-next-generation-in-agriculture",
-      "summary": "Minnesota Minute: State’s youth are rewarded for pursuing agricultural majors and participating in livestock showing at the Minnesota State Fair.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-07-21",
-      "collected": "2026-07-21"
-    },
-    {
       "headline": "How bad will corn sweat be this summer?",
       "url": "https://www.farmprogress.com/farm-business/how-bad-will-corn-sweat-be-this-summer-",
       "summary": "Meteorologist provides insights into humidity and heat this season.",
@@ -3599,6 +3590,15 @@
       "author": "Elaine Watson",
       "date": "2026-08-07",
       "collected": "2026-08-08"
+    },
+    {
+      "headline": "New FCC proposal could ‘retroactively ban’ some existing ag spray drones, warns DJI",
+      "url": "https://agfundernews.com/new-fcc-proposal-could-retroactively-ban-some-existing-ag-spray-drones-warns-dji",
+      "summary": "The proposal would mean that selected ag spray drones already cleared for the US market could no longer be imported or sold, says DJI. The post New FCC proposal could ‘retroactively ban’ some existing ag spray drones, warns DJI appeared first on AgFunderNews.",
+      "source": "AgFunderNews",
+      "author": "Elaine Watson",
+      "date": "2026-08-07",
+      "collected": "2026-08-09"
     }
   ]
 }
