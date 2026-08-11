@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "headline": "Farmers face tough choices as equipment prices stay high",
-      "url": "https://www.farmprogress.com/farming-equipment/farmers-face-tough-choices-as-equipment-prices-stay-high",
-      "summary": "Ag Equipment Outlook: Geopolitical pressures and declining farm income create uncertainty.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-07-21",
-      "collected": "2026-07-21"
-    },
-    {
-      "headline": "South Central: Proper intake is critical when feeding loose mineral or tubs",
-      "url": "https://www.agproud.com/articles/63764-south-central-proper-intake-is-critical-when-feeding-loose-mineral-or-tubs",
-      "summary": "For mineral supplements and other feed additives to work effectively, it is critical that cattle consume the targeted amount on a regular basis.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-07-22",
-      "collected": "2026-07-22"
-    },
-    {
-      "headline": "West: Evaluate your vaccination program before weaning",
-      "url": "https://www.agproud.com/articles/63785-west-evaluate-your-vaccination-program-before-weaning",
-      "summary": "A well-designed vaccination program, combined with good nutrition, sound biosecurity and low-stress management practices helps reduce disease, improve animal performance and strengthen the profitability of your operation.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-07-22",
-      "collected": "2026-07-22"
-    },
-    {
-      "headline": "Rising Sun Ranch: Managing for grass, wildlife and generations",
-      "url": "https://www.agproud.com/articles/63758-rising-sun-ranch-managing-for-grass-wildlife-and-generations",
-      "summary": "A land ethic rooted in devotion continues to shape a ranch where stewardship, fire and grazing guide every decision.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-07-22",
-      "collected": "2026-07-22"
-    },
-    {
-      "headline": "Increased stocking density calls for smart stall and manure management",
-      "url": "https://www.agproud.com/articles/63455-increased-stocking-density-calls-for-smart-stall-and-manure-management",
-      "summary": "As herd sizes grow, dairies’ systems are put to the test, often revealing where adjustments can unlock greater efficiency and consistency. More cows mean more manure, more bedding and more volume moving through systems that may not have been designed for that load.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-07-22",
-      "collected": "2026-07-22"
-    },
-    {
       "headline": "Disease-spotting AI is moving to the phone in your pocket",
       "url": "https://www.beefmagazine.com/farm-business-management/disease-spotting-ai-is-moving-to-the-phone-in-your-pocket",
       "summary": "On-device models can flag lameness, cough or off-feed animal from a short video, even when the barn has no signal.",
@@ -3599,6 +3554,51 @@
       "author": "",
       "date": "2026-08-10",
       "collected": "2026-08-10"
+    },
+    {
+      "headline": "Four pillars lay the foundation for profitable parasite control",
+      "url": "https://www.agproud.com/articles/63891-four-pillars-lay-the-foundation-for-profitable-parasite-control",
+      "summary": "With no new classes of dewormers on the horizon, maintaining the effectiveness of existing tools requires a more strategic approach. That’s where the four pillars of sustainable deworming come into play: diagnostics, combination treatment, refugia and overall management.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-11",
+      "collected": "2026-08-11"
+    },
+    {
+      "headline": "‘Slow is fast’: How Green Hill Dairy keeps pace for back-to-back NMC Platinum awards",
+      "url": "https://www.agproud.com/articles/63862-slow-is-fast-how-green-hill-dairy-keeps-pace-for-back-to-back-nmc-platinum-awards",
+      "summary": "What does a dairy that averages 83,000 somatic cell count (SCC) and holds Platinum honors from NMC for two consecutive years do to achieve these standards? Not unlike other dairy producers, the Janssens of Green Hill Dairy are committed to managing at the cow level.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-11",
+      "collected": "2026-08-11"
+    },
+    {
+      "headline": "The dry period: Not your average all-inclusive vacation",
+      "url": "https://www.agproud.com/articles/63796-the-dry-period-not-your-average-all-inclusive-vacation",
+      "summary": "Speaking to a nutritionist to discuss properly balanced diets and timelines in which some of these dietary strategies should be introduced will be best practice to ensure ease of transition and to minimize disruption during this very critical time of a cow’s reproductive life.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-11",
+      "collected": "2026-08-11"
+    },
+    {
+      "headline": "Colostrum Q's and cues: Shifts in colostrum benchmarks",
+      "url": "https://www.agproud.com/articles/63792-colostrum-qs-and-cues-shifts-in-colostrum-benchmarks",
+      "summary": "While the benchmark in feeding colostrum historically been about 200 grams of IgG, some colostrum scientists have suggested 300 or 400 grams of IgG. During a presentation at the Growing the Modern Calf Workshop, Bethany Dado-Senn explained some ways we can increase the amount of IgGs given to the calf.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-11",
+      "collected": "2026-08-11"
+    },
+    {
+      "headline": "2026 dairy exports on record pace despite hiccup in June",
+      "url": "https://www.agproud.com/articles/63945-2026-dairy-exports-on-record-pace-despite-hiccup-in-june",
+      "summary": "To little surprise, June 2026 dairy product exports were down in milk solid equivalent terms as year-ago exports were uncommonly strong, and this summer’s global demand of other U.S. dairy products has been tested with product availability and elevated prices compared to other global suppliers.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-10",
+      "collected": "2026-08-11"
     }
   ]
 }
