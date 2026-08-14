@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "status": "draft",
+      "status": "rejected",
       "headline": "The 18% Trap: One Pregnancy Rate, Two Completely Different Diseases",
       "url": "https://www.thebullvine.com/farm-economics-management/21-day-pregnancy-rate-two-herds/",
       "source": "The Bullvine",
@@ -59,7 +59,7 @@
     },
     {
       "id": 6,
-      "status": "draft",
+      "status": "rejected",
       "headline": "Why Cow Family Beats a +3000 GTPI Calf: The $12,000 Embryo Math Every Breeder Should Run",
       "url": "https://www.thebullvine.com/genetics-breeding/cow-family-breeding-embryo-math/",
       "source": "The Bullvine",
@@ -87,7 +87,7 @@
     },
     {
       "id": 8,
-      "status": "ready",
+      "status": "posted",
       "headline": "Increase breeding results with synch protocols and estrus detection aids",
       "url": "https://www.agproud.com/articles/63646-increase-breeding-results-with-synch-protocols-and-estrus-detection-aids",
       "source": "Progressive Dairy",
@@ -95,8 +95,10 @@
       "summary": "Latest synchronization protocols and estrus detection aids for greater reproductive success.",
       "date": "2026-07-20",
       "post_text": "Half or more of your cows can be noncycling when a synch protocol starts.\n\nThat number comes from Jordan Thomas, writing in Progressive Cattle this week, and it gets worse after a long calving season. A synchronized cow that never shows heat is a wasted shot.\n\nThe Beef Reproduction Task Force publishes validated protocol sheets every year. For heifers not yet cycling, longer progestin protocols like the 14-day CIDR-prostaglandin give more time to reach puberty. For cows, the classic is 7-day Cosynch plus CIDR, with a newer 7 & 7 Synch variant adding an extra prostaglandin dose.\n\nBreeding indicator patches add a decision layer on top. If 50% or more of the patch ink rubs off, that female is a strong candidate for sexed sеmen. Less than half, and conventional sеmen may be safer.\n\nSo much of this rides on what happens before insemination. Detection is what tells you whether the protocol worked at all.\n\nAre estrus detection aids underused on your operation, or already standard?\n\n#reproduction #cattlebreeding #ArtificialInsemination #sеmen #dairygenetics",
-      "image_url": "",
-      "added": "2026-07-21T09:59:56.106Z"
+      "image_url": "https://raw.githubusercontent.com/Olianayda/avare/main/images/avare-post8-202608-143058.jpg",
+      "added": "2026-07-21T09:59:56.106Z",
+      "image_caption": "Half or more of your cows can be noncycling when a synch protocol starts.",
+      "posted_date": "2026-08-06"
     },
     {
       "id": 9,
@@ -201,7 +203,16 @@
       "headline": "Holstein’s 60-Inch Rule: Why Breeders Are Backing It With 53%-vs-21% Math",
       "posted_date": "2026-07-31",
       "category": "genetics"
+    },
+    {
+      "url": "https://www.agproud.com/articles/63646-increase-breeding-results-with-synch-protocols-and-estrus-detection-aids",
+      "headline": "Increase breeding results with synch protocols and estrus detection aids",
+      "posted_date": "2026-08-06",
+      "category": "reproduction"
     }
   ],
-  "nextId": 16
+  "nextId": 16,
+  "dismissed": [
+    "https://www.beefmagazine.com/livestock-management/k-state-watershed-specialists-livestock-experts-emphasize-importance-of-water-sources"
+  ]
 }

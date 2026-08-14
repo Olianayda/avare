@@ -137,8 +137,14 @@ function render(){
       + '<div class="meta"><span class="badge">'+(i.category||'—')+'</span>'
       + i.source + (i.author?' · '+i.author:'') + ' · ' + (i.date||'')
       + (i.republish_count?' · <b>переопубликация №'+i.republish_count+'</b>':'') + '</div>'
-      + '<p class="hl">'+esc(i.headline)+'</p>'
-      + (i.summary?'<div class="sum">'+esc(i.summary.slice(0,240))+'</div>':'')
+      // Пока текста нет, показываем заголовок статьи. Как только он написан,
+      // на первый план выходит наша первая строка: именно её увидят в ленте,
+      // а заголовок статьи уходит вниз как справка об источнике.
+      + (i.post_text
+          ? '<p class="hl">'+esc(i.post_text.split('\\n')[0])+'</p>'
+            + '<div class="sum">по статье: '+esc(i.headline)+'</div>'
+          : '<p class="hl">'+esc(i.headline)+'</p>'
+            + (i.summary?'<div class="sum">'+esc(i.summary.slice(0,240))+'</div>':''))
       + '<div><a href="'+i.url+'" target="_blank" rel="noopener">Открыть источник ↗</a></div>'
       + '<div class="row">'
       +   (i.status==='draft'?'<button class="act pri" data-a="write">Написать вручную</button><button class="act" data-a="reject">Отклонить</button>':'')
