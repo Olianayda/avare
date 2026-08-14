@@ -175,6 +175,19 @@
       "post_text": "A single-cell protein plant that booked $710,000 in revenue and a $15.5 million loss has stopped production.\n\nIt belongs to Calysseo, the joint venture between gas-fermentation company Calysta and animal nutrition group Adisseo, in Chongqing, China. Elaine Watson, writing in AgFunderNews, reported that Adisseo told the Shanghai Stock Exchange on June 18 it would not renew a loan to the venture after a failed bid for outside financing, citing a \"severe shortage of working capital.\"\n\nAdisseo warned the plant needed \"substantial and sustainable financial support\" to resume upgrades. Calysseo's unaudited 2025 numbers: $78.7 million in assets, $63.9 million in liabilities.\n\nCalysta has a new CEO, Berend Jan Kingma, formerly of InspiraFarms, FirstWave Group and Miro Forestry. Cofounder Alan Shaw, now non-executive chair, told AgFunderNews the focus is \"debottlenecking downstream processing\" to raise the capital the plant needs.\n\nTurning methane into feed protein for aquaculture and petfood was a capital-intensive bet. This is what it costs to learn whether the science scales before the money runs out.\n\nDoes the science need more time, or more money?\n\n#agritechdeals #alternativeprotein #feedtech #agtechfunding #startups",
       "image_url": "",
       "added": "2026-07-29T12:46:38.715Z"
+    },
+    {
+      "id": 16,
+      "status": "ready",
+      "headline": "Key performance areas to focus on with automated milking systems",
+      "url": "https://www.agproud.com/articles/63736-key-performance-areas-to-focus-on-with-automated-milking-systems",
+      "source": "Progressive Dairy",
+      "category": "ai-livestock",
+      "date": "2026-08-13",
+      "post_text": "A robotic milking herd's ideal average is 145 to 160 days in milk, and only strong breeding keeps it there.\n\nJason French, Commercial Portfolio Manager at DeLaval North America, laid out the math in Progressive Dairy this week.\n\nAutomated milking performance splits into two sides. On the cow side, producers set traffic rules: cows in their first 100 days of lactation get more robot visits, cows nearing dry-off get fewer. Hitting that 145 to 160 day window needs strong reproductive performance behind it.\n\nActivity monitors and progesterone testing feed that side, sharpening heat detection and breeding accuracy so fresh cows keep entering the herd on schedule.\n\nOn the robot side, French sets his own bar: incomplete milkings should stay in the low single digits, and higher peak milk flow should keep box time short, since box time caps how many cows a robot handles daily.\n\nThe two dashboards rarely get read together, though they track the same herd.\n\nWhich one gets checked more often on your farm, the cow numbers or the robot numbers?\n\n#dairyfarming #automatedmilking #reproduction #precisionlivestock #dairytech",
+      "image_url": "",
+      "added": "2026-08-14T06:36:50.000Z",
+      "author": "Jason French"
     }
   ],
   "log": [
@@ -203,5 +216,5 @@
       "category": "genetics"
     }
   ],
-  "nextId": 16
+  "nextId": 17
 }
