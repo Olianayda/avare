@@ -1,42 +1,6 @@
 {
   "items": [
     {
-      "headline": "Nebraska Farmer staff writer receives ACN President’s Award",
-      "url": "https://www.farmprogress.com/names-in-the-news/nebraska-farmer-staff-writer-receives-acn-president-s-award",
-      "summary": "Elizabeth Hodges, staff writer for Nebraska Farmer and Farm Progress, received the coveted ACN President’s Award at the recent Ag Media Summit in St. Louis.",
-      "source": "Farm Progress",
-      "author": "Curt Arens",
-      "date": "2026-07-27",
-      "collected": "2026-07-27"
-    },
-    {
-      "headline": "Midwest crops advance despite disease, weather challenges",
-      "url": "https://www.farmprogress.com/crops/midwest-crops-advance-despite-disease-weather-challenges",
-      "summary": "Midwest Crop Report: Corn and soybeans show strong ratings across the region as southern rust and tar spot emerge; mixed rainfall creates variable conditions from Iowa to Ohio.",
-      "source": "Farm Progress",
-      "author": "Holly Spangler",
-      "date": "2026-07-27",
-      "collected": "2026-07-27"
-    },
-    {
-      "headline": "Put safety in focus this harvest season",
-      "url": "https://www.farmprogress.com/harvest/put-safety-in-focus-this-harvest-season",
-      "summary": "Hoosier Perspectives: Taking some extra steps to ensure the safety of yourself and those around you is time well spent.",
-      "source": "Farm Progress",
-      "author": "Allison Lynch",
-      "date": "2026-07-27",
-      "collected": "2026-07-27"
-    },
-    {
-      "headline": "Shop for official Farm Progress Show merchandise",
-      "url": "https://www.farmprogress.com/farm-progress-show/shop-for-official-farm-progress-show-merchandise",
-      "summary": "Farm Progress Show: You’ll find myriad Farm Progress Show merch in the Hospitality Tent from Sept. 1-3 in Boone, Iowa.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-07-27",
-      "collected": "2026-07-27"
-    },
-    {
       "headline": "July 2026 USDA WASDE report",
       "url": "https://www.agproud.com/articles/63847-july-2026-usda-wasde-report",
       "summary": "The July World Agricultural Supply and Demand Estimates report (WASDE) showed this month’s 2026-27 U.S. corn outlook is for smaller supplies, greater exports and reduced ending stocks. Corn beginning stocks are cut 125 million bushels to 2 billion, reflecting an increase in feed and residual use that is partly offset by a reduction in corn used for ethanol for 2025-26.",
@@ -3599,6 +3563,42 @@
       "author": "Elaine Watson",
       "date": "2026-08-13",
       "collected": "2026-08-15"
+    },
+    {
+      "headline": "Et si vos décisions sur la hauteur des plantes au pâturage déterminait combien de lait - et d'argent — vous laissiez dans votre prairie?",
+      "url": "https://www.agproud.com/articles/63739-et-si-vos-decisions-sur-la-hauteur-des-plantes-au-paturage-determinait-combien-de-lait-et-dargent-vous-laissiez-dans-votre-prairie",
+      "summary": "« Mesurer pour mieux gérer » demeure essentiel pour les fermes laitières qui souhaitent rester rentables et améliorer leur performance dans les systèmes de pâturage.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-16",
+      "collected": "2026-08-16"
+    },
+    {
+      "headline": "This Week in Agribusiness, Aug. 15, 2026",
+      "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-aug-15-2026",
+      "summary": "",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-08-15",
+      "collected": "2026-08-16"
+    },
+    {
+      "headline": "FFA Tribute: T. Wayne Williams",
+      "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-tribute-t-wayne-williams",
+      "summary": "FFA national officer shares journey from shy freshman to southern region vice president.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-08-15",
+      "collected": "2026-08-16"
+    },
+    {
+      "headline": "American-made ag drones are catching up — fast",
+      "url": "https://www.farmprogress.com/farming-equipment/american-made-ag-drones-are-catching-up-fast",
+      "summary": "Farmer Iron: Semiconductor breakthroughs are closing the gap with Chinese competitors, promising spot-spraying precision and farm-wide monitoring within reach of every operation.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-08-15",
+      "collected": "2026-08-16"
     }
   ]
 }
