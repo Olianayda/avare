@@ -128,15 +128,15 @@
     },
     {
       "id": 11,
-      "status": "ready",
+      "status": "approved",
       "headline": "New technology, new possibilities: How to introduce artificial intelligence into your dairy",
       "url": "https://www.agproud.com/articles/63554-new-technology-new-possibilities-how-to-introduce-artificial-intelligence-into-your-dairy",
       "source": "Progressive Dairy",
       "category": "ai-livestock",
       "summary": "CATTLEytics founder Shari van de Pol explains how AI helps producers with data analytics, breeding schedules, nutrition, disease diagnosis and employee management on dairies of any size.",
       "date": "2026-07-28",
-      "post_text": "Start with one problem, not the whole farm. That is how a large-animal vet says to put AI to work on a dairy.\n\nThat is Shari van de Pol, a computer engineer turned vet, on the Progressive Dairy Podcast in a piece by Patryce Eldredge LeFevre this week. \"You can have all the information in the world, but if you're not actually making any changes, what's the point?\"\n\nVan de Pol founded CATTLEytics around exactly that gap: dairies collect enormous amounts of data and still struggle to act on it. Her method is unglamorous. Open ChatGPT, Copilot or Perplexity. Ask a real question about your operation. If the answer feels off, push back and ask it to refine.\n\nShe is clear about the limits. AI does not replace the nutritionist or the vet. It fills gaps and spots patterns across feed, breeding and health records. She also sees it as a leveler, giving smaller operations analysis only large dairies could afford before.\n\nWhat is the one recurring decision you would hand to AI first?\n\n#dairy #AI #agtech #dataanalytics #cattle",
-      "image_url": "",
+      "post_text": "The dairy AI problem is not collecting data but acting on it, and the fix starts with one question, not the whole farm.\n\nThat is Shari van de Pol, a computer engineer turned large-animal vet, on the Progressive Dairy Podcast in a piece by Patryce Eldredge LeFevre this week. \"You can have all the information in the world, but if you're not actually making any changes, what's the point?\"\n\nVan de Pol founded CATTLEytics around exactly that gap. Her method is unglamorous. Open ChatGPT, Copilot or Perplexity. Ask a real question about your operation. If the answer feels off, push back and ask it to refine.\n\nShe is clear about the limits. AI does not replace the nutritionist or the vet. It fills gaps and spots patterns across feed, breeding and health records. She also sees it as a leveler, giving smaller operations analysis only large dairies could afford.\n\nThe tool is only as useful as the question you bring it.\n\nWhat is the one recurring decision you would hand to AI first?\n\n#dairy #AI #agtech #dataanalytics #cattle",
+      "image_url": "/Users/olianayda/Projects/avare-agent/images/dairy-farm-avare.jpg",
       "added": "2026-07-28T09:33:05.770Z"
     },
     {
