@@ -46,6 +46,8 @@ function extract(html) {
         .replace(/<(nav|header|footer|aside|form)[\s\S]*?<\/\1>/gi, ' ')
         .replace(/<[^>]+>/g, ' ')
     )
+      .replace(/We use cookies[\s\S]{0,300}?Cookie Policy\s*\.?/i, ' ')
+      .replace(/(?:\bAdvertisement\b\s*){2,}/gi, ' ')
       .replace(/[ \t]+/g, ' ')
       .replace(/\s*\n\s*/g, '\n')
       .replace(/\n{3,}/g, '\n\n')
@@ -84,7 +86,21 @@ async function fetchArticle(url) {
     if (!r.ok) return { error: `HTTP ${r.status}` };
     const html = await r.text();
     const text = extract(html);
-    if (text.length < 600) return { error: `текст ${text.length} симв — похоже на пайволл или заглушку` };
+    if (text.length < 600) return { error: `текст ${text.length} симв — похоже на заглушку` };
+
+    // Проверка на длину пайволл не ловит: страница-заглушка набирает те же
+    // несколько тысяч символов из cookie-баннера, меню и рекламных врезок.
+    // Ловим по формулировкам, которыми издания просят подписаться.
+    const wall = [
+      /only for registered users/i,
+      /looking to read the full article/i,
+      /subscribe today/i,
+      /this content is (?:only )?available to subscribers/i,
+      /sign in to continue reading/i,
+      /become a member to read/i,
+    ].find((re) => re.test(text));
+    if (wall) return { error: 'пайволл' };
+
     return { text: text.slice(0, 20000) };
   } catch (e) {
     return { error: e.name === 'AbortError' ? 'таймаут' : e.message };
