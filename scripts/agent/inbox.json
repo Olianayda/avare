@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "headline": "Forage production revenue insurance program deadline set for Sept. 30",
-      "url": "https://www.farmprogress.com/forage/forage-production-revenue-insurance-program-deadline-set-for-sept-30",
-      "summary": "A webinar to educate producers and crop insurance agents prior to Sept. 30 sales closing date will be held Aug. 11.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "Neeralta demos grain-bagging system at Husker Harvest Days",
-      "url": "https://www.farmprogress.com/husker-harvest-days/neeralta-demos-grain-bagging-system-at-husker-harvest-days",
-      "summary": "Producers can see firsthand how the storage solution addresses harvest challenges, from fluctuating temperatures to tight timelines.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "Unique places that offer funding for women in agriculture",
-      "url": "https://www.farmprogress.com/farm-business/unique-places-that-offer-funding-for-women-in-agriculture",
-      "summary": "From government to private organizations, there are opportunities for loans or grants for female farmers.",
-      "source": "Farm Progress",
-      "author": "Mindy Ward",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "6 options to clean crop seed and save money",
-      "url": "https://www.farmprogress.com/crops/6-options-to-clean-crop-seed-and-save-money",
-      "summary": "Field Fodder: Learn about equipment options and considerations for cleaning your own seed on the farm.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "4 ways to control fly population in cattle pens",
-      "url": "https://www.farmprogress.com/animal-health/4-tips-to-control-fly-population-in-cattle-pens",
-      "summary": "Prevention and sanitation give you and your cattle the best start to a pest-free season.",
-      "source": "Farm Progress",
-      "author": "Sarah McNaughton-Peterson",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "How to find fall harvest help",
-      "url": "https://www.farmprogress.com/farm-business-planning/how-to-find-fall-harvest-help",
-      "summary": "Profit Planners: There are students, retirees and shift workers out there to help bring the crop in. But finding them hinges on your efforts to be flexible and pay well.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
       "headline": "Mississippi cotton farmers launch campaign to promote U.S. cotton",
       "url": "https://www.farmprogress.com/cotton/mississippi-cotton-farmers-launch-campaign-to-promote-u-s-cotton",
       "summary": "Where Ag Is: Mississippi farmers are spreading the word about U.S. cotton’s advantages over synthetic fibers on the sides of trailers driving the across the Midsouth.",
@@ -3599,6 +3545,60 @@
       "author": "Charlyn Fargo Ware",
       "date": "2026-08-22",
       "collected": "2026-08-23"
+    },
+    {
+      "headline": "Advantages of managing heifer growth when replacement dairy heifer numbers are tight and expensive",
+      "url": "https://www.agproud.com/articles/63972-advantages-of-managing-heifer-growth-when-replacement-dairy-heifer-numbers-are-tight-and-expensive",
+      "summary": "In a tight replacement market, younger calving only pays when heifers have the size and appropriate development to perform after freshening. The strongest programs start with weight targets based on regular weight checks, calf health records and replacement forecasts.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "The inconvenient reality of AI use",
+      "url": "https://www.agproud.com/blogs/14-progressive-cattle-from-the-editor/post/63922-the-inconvenient-reality-of-ai-use",
+      "summary": "When the popular AI large language models (LLMs) launched a few years ago, there was the predictable amounts of uncertainty and curiosity in the cultural landscape. How will it be used? Who creates this information? Will it be accurate and reliable? Will my kids now just cheat on their homework?",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Engineered microbes could cut nitrogen costs, sharpen crop efficiency and ease environmental strain",
+      "url": "https://www.agproud.com/articles/63903-engineered-microbes-could-cut-nitrogen-costs-sharpen-crop-efficiency-and-ease-environmental-strain",
+      "summary": "Synthetic nitrogen changed farming, but its volatility and environmental costs persist. Engineered microbes offer a steadier, cleaner way to deliver nitrogen right at the root.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Improving human-animal relationship in cattle production",
+      "url": "https://www.agproud.com/articles/63781-improving-human-animal-relationship-in-cattle-production",
+      "summary": "In cattle production systems, the human-animal relationship is a critical, yet often underestimated, component of animal welfare and productivity. Producers have an essential role in recognizing and modulating the impacts of human behaviour on cattle welfare and productivity.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Matière à ruminer : Les voisins et le café du bureau de l’étable",
+      "url": "https://www.agproud.com/blogs/34-l-epandeur-a-fumier/post/63793-matiere-a-ruminer-les-voisins-et-le-cafe-du-bureau-de-letable",
+      "summary": "L'odeur des cafés lattes à la citrouille épicée, de l'ensilage de maïs fraîchement haché et du dernier épandage de fumier de l'année flotte, lourde, dans l'air. C'est ma période préférée de l'année.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Cows are not the climate villains they are made out to be",
+      "url": "https://www.agproud.com/articles/62985-cows-are-not-the-climate-villains-they-are-made-out-to-be",
+      "summary": "While the purpose is to achieve a net zero dairy, where milk production leaves no greenhouse gas (GHG) footprint, the collateral effect is another.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
     }
   ]
 }
