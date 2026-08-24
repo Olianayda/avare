@@ -12,6 +12,7 @@
 const { execFile } = require('child_process');
 const fs = require('fs');
 const path = require('path');
+const article = require('./article');
 
 const DIR = __dirname;
 const INBOX = path.join(DIR, 'inbox.json');
@@ -47,10 +48,59 @@ execFile(process.execPath, [path.join(DIR, 'scout.js'), '--days', '3', '--json']
   fs.writeFileSync(INBOX, JSON.stringify(inbox, null, 2) + '\n');
   log(`новых: ${added}, всего во входящих: ${inbox.items.length}` + (broken?.length ? `, недоступны: ${broken.join('; ')}` : ''));
 
-  // Разбором занимается облачная рутина Claude Code, а она видит только git.
-  // Без пуша агент читал бы вчерашние входящие. Пушим лишь когда что-то добавилось.
-  if (added > 0) push(added);
+  if (added === 0) return;
+  grabArticles(inbox, fresh).then(() => push(added));
 });
+
+/**
+ * Скачивает тексты новых статей рядом с входящими.
+ *
+ * Разбирающий агент живёт в облаке без интернета: egress-прокси песочницы
+ * пропускает только api.anthropic.com, npm, pypi и github. Ни curl, ни
+ * WebFetch оттуда наружу не ходят. Значит статью должна скачать эта машина,
+ * и приехать к агенту она может только через git.
+ *
+ * Часть изданий отдаёт 403 на серверный запрос. Это их право, обходить не
+ * пытаемся: агенту велено пропускать статью, которую не удалось прочитать,
+ * а не сочинять факты по заголовку.
+ */
+async function grabArticles(inbox, fresh) {
+  const urls = fresh.map((f) => f.url);
+  const items = inbox.items.filter((i) => urls.includes(i.url) && !i.body_file);
+  if (!items.length) return;
+
+  fs.mkdirSync(article.DIR, { recursive: true });
+
+  let ok = 0;
+  const failed = {};
+  // По три за раз: не выстраиваем очередь на десять минут и не долбим издание.
+  for (let i = 0; i < items.length; i += 3) {
+    await Promise.all(
+      items.slice(i, i + 3).map(async (it) => {
+        const r = await article.fetchArticle(it.url);
+        if (r.error) {
+          const host = new URL(it.url).hostname.replace(/^www\./, '');
+          failed[host] = (failed[host] || 0) + 1;
+          return;
+        }
+        const name = article.nameFor(it.url);
+        fs.writeFileSync(path.join(article.DIR, name), r.text);
+        it.body_file = 'articles/' + name;
+        ok++;
+      })
+    );
+  }
+
+  const pruned = article.prune();
+  fs.writeFileSync(INBOX, JSON.stringify(inbox, null, 2) + '\n');
+
+  const miss = Object.entries(failed).map(([h, n]) => `${h}:${n}`).join(', ');
+  log(
+    `текстов скачано: ${ok} из ${items.length}` +
+      (miss ? `, не отдали: ${miss}` : '') +
+      (pruned ? `, вычищено старше ${article.KEEP_DAYS} дн.: ${pruned}` : '')
+  );
+}
 
 function push(added) {
   const git = (args, done) =>
@@ -58,7 +108,7 @@ function push(added) {
       done(err, (stdout || '') + (stderr || ''))
     );
 
-  git(['add', 'scripts/agent/inbox.json'], (e1, o1) => {
+  git(['add', 'scripts/agent/inbox.json', 'scripts/agent/articles'], (e1, o1) => {
     if (e1) return log(`git add не прошёл: ${o1.trim()}`);
     const msg = `Collect: ${added} new in inbox`;
     git(['-c', 'user.name=Avare Collector', '-c', 'user.email=olianayda@gmail.com', 'commit', '-q', '-m', msg], (e2, o2) => {
