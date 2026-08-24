@@ -1,96 +1,6 @@
 {
   "items": [
     {
-      "headline": "Mississippi cotton farmers launch campaign to promote U.S. cotton",
-      "url": "https://www.farmprogress.com/cotton/mississippi-cotton-farmers-launch-campaign-to-promote-u-s-cotton",
-      "summary": "Where Ag Is: Mississippi farmers are spreading the word about U.S. cotton’s advantages over synthetic fibers on the sides of trailers driving the across the Midsouth.",
-      "source": "Farm Progress",
-      "author": "Brent Murphree",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "Livestock lovers have plenty to see at Farm Progress Show",
-      "url": "https://www.farmprogress.com/farm-progress-show/livestock-lovers-have-plenty-to-see-at-farm-progress-show",
-      "summary": "A host of livestock exhibitors are on tap for both the Farm Progress Show and Husker Harvest Days. Mouth-watering ribeye sandwiches will be available from the Boone County Cattlemen.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "Reused tailwater shows significant water savings in rice production",
-      "url": "https://www.farmprogress.com/rice/reused-tailwater-shows-significant-water-savings-in-rice-production",
-      "summary": "Mississippi researchers’ tailwater recirculation system in rice production reduces water usage by about 30% compared with traditionally grown rice.",
-      "source": "Farm Progress",
-      "author": "Bonnie Coblentz",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "How to recognize life-threatening heat-related illnesses",
-      "url": "https://www.farmprogress.com/farm-life/how-to-recognize-life-threatening-heat-related-illnesses",
-      "summary": "Heat-related illnesses are a major concern in the summer, especially for farmers who spend hours outside every day. Identifying and treating symptoms of heat exhaustion and heatstroke can save a life.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "AGROLEITE 2026 | Red & White Holstein",
-      "url": "https://www.thebullvine.com/show-reports/agroleite-2026-red-white-holstein/",
-      "summary": "Date: August 4th and 5th 2026Judge: Aaron Eaton, NY, USA Junior Champion The final heifer class of the Red & White young cattle show belonged entirely to Raphael Cornelis Hoogerheide of Carambeí, who brought the only two entries in the division. Champion — RCH JANNY 2955 ALTITUDE RED TE Reserve — RCH MALHADA 2944 ALTITUDE […] The post AGROLEITE 2026 | Red & White Holstein first appeared on The Bul",
-      "source": "The Bullvine",
-      "author": "Andrew Hunt",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "Healthy coping, healthy farms",
-      "url": "https://www.agproud.com/articles/63835-healthy-coping-healthy-farms",
-      "summary": "During times of long-term stress, physical and mental exhaustion, it is understandable that some may look for ways to find temporary relief. Continual research has shown that chronic stress can increase the likelihood of using alcohol or other substances to cope.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "Implant strategies for longer days on feed",
-      "url": "https://www.agproud.com/articles/63890-implant-strategies-for-longer-days-on-feed",
-      "summary": "By aligning implant timing with extended finishing endpoints, producers can optimize outcomes.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "Farm safety: Are you exercising due diligence?",
-      "url": "https://www.agproud.com/articles/63860-farm-safety-are-you-exercising-due-diligence",
-      "summary": "A key factor in proving due diligence is having documentation for all health and safety-related actions. It is important to remember that due diligence is demonstrated through actions taken before an incident, not after.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "The nuances of raising 4- to 6-month-old dairy heifers",
-      "url": "https://www.agproud.com/articles/63812-the-nuances-of-raising-4-to-6-month-old-dairy-heifers",
-      "summary": "Calves at 4 to 6 months old often get far less attention. These heifers are past weaning, not yet close to reproduction and can easily be thought of as doing fine. Yet this age is a valuable time for body development and is one we can strongly influence through feeding and management.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
-      "headline": "Redéfinir les caractères de fertilité : utilisons-nous les meilleurs outils disponibles ?",
-      "url": "https://www.agproud.com/articles/63777-redefinir-les-caracteres-de-fertilite-utilisons-nous-les-meilleurs-outils-disponibles",
-      "summary": "« Quand il s'agit de sélection génétique pour la fertilité, ce n'est pas simple. C'est assez lent comparativement à des caractères plus directs comme la production laitière ou la teneur en gras ou en protéines. C'est complexe », a souligné Christine Baes au Western Canadian Dairy Seminar.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-05",
-      "collected": "2026-08-05"
-    },
-    {
       "headline": "Cattle groups urge Senate to pass bill delisting gray wolf",
       "url": "https://www.beefmagazine.com/policy/cattle-groups-urge-senate-to-pass-bill-delisting-gray-wolf",
       "summary": "Legislation would reissue 2020 rule and return management authority to the states",
@@ -3499,7 +3409,8 @@
       "source": "Progressive Dairy",
       "author": "",
       "date": "2026-08-21",
-      "collected": "2026-08-22"
+      "collected": "2026-08-22",
+      "body_file": "articles/8589a849abbee0c8.txt"
     },
     {
       "headline": "Healthy soil and its ability to utilize less water for growing crops",
@@ -3553,7 +3464,8 @@
       "source": "Progressive Dairy",
       "author": "",
       "date": "2026-08-24",
-      "collected": "2026-08-24"
+      "collected": "2026-08-24",
+      "body_file": "articles/93c46608e93cf3c6.txt"
     },
     {
       "headline": "The inconvenient reality of AI use",
@@ -3562,7 +3474,8 @@
       "source": "Progressive Dairy",
       "author": "",
       "date": "2026-08-24",
-      "collected": "2026-08-24"
+      "collected": "2026-08-24",
+      "body_file": "articles/b86664f58384e784.txt"
     },
     {
       "headline": "Engineered microbes could cut nitrogen costs, sharpen crop efficiency and ease environmental strain",
@@ -3571,7 +3484,8 @@
       "source": "Progressive Dairy",
       "author": "",
       "date": "2026-08-24",
-      "collected": "2026-08-24"
+      "collected": "2026-08-24",
+      "body_file": "articles/5e718fa0e732cc6f.txt"
     },
     {
       "headline": "Improving human-animal relationship in cattle production",
@@ -3580,7 +3494,8 @@
       "source": "Progressive Dairy",
       "author": "",
       "date": "2026-08-24",
-      "collected": "2026-08-24"
+      "collected": "2026-08-24",
+      "body_file": "articles/67882653599200c0.txt"
     },
     {
       "headline": "Matière à ruminer : Les voisins et le café du bureau de l’étable",
@@ -3589,7 +3504,8 @@
       "source": "Progressive Dairy",
       "author": "",
       "date": "2026-08-24",
-      "collected": "2026-08-24"
+      "collected": "2026-08-24",
+      "body_file": "articles/dabb88180d575378.txt"
     },
     {
       "headline": "Cows are not the climate villains they are made out to be",
@@ -3597,6 +3513,97 @@
       "summary": "While the purpose is to achieve a net zero dairy, where milk production leaves no greenhouse gas (GHG) footprint, the collateral effect is another.",
       "source": "Progressive Dairy",
       "author": "",
+      "date": "2026-08-24",
+      "collected": "2026-08-24",
+      "body_file": "articles/a1651736f669ad3d.txt"
+    },
+    {
+      "headline": "Will supply concerns trigger higher corn, bean and wheat prices?",
+      "url": "https://www.farmprogress.com/marketing/will-supply-concerns-trigger-higher-corn-bean-and-wheat-prices-",
+      "summary": "Ag Marketing IQ: Strong demand and weather-reduced production are driving U.S. grain stocks lower, offering hope for rallies in early 2027. Pay attention to stocks-to-use ratios.",
+      "source": "Farm Progress",
+      "author": "Naomi Blohm",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Midwest flooding threatens corn and soybean yields",
+      "url": "https://www.farmprogress.com/crops/midwest-flooding-threatens-corn-and-soybean-yields",
+      "summary": "Midwest Crop Report: Heavy August storms brought over 12 inches of rain to Illinois and Indiana, causing lodged crops and saturated fields as farmers monitor harvest prospects.",
+      "source": "Farm Progress",
+      "author": "Farm Progress staff",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Get social at Husker Harvest Days",
+      "url": "https://www.farmprogress.com/husker-harvest-days/get-social-at-husker-harvest-days",
+      "summary": "Use #HHD26 to share your show experiences on all social media platforms, and follow Farm Progress editors throughout the show.",
+      "source": "Farm Progress",
+      "author": "Mindy Ward",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "What Switzerland gets right about farm succession",
+      "url": "https://www.farmprogress.com/farm-business-planning/what-switzerland-gets-right-about-farm-succession",
+      "summary": "Business Basics: Swiss law takes an unusual approach to keeping farms intact and putting agricultural land in the hands of farmers.",
+      "source": "Farm Progress",
+      "author": "Wesley Tucker",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Arkansas farmers hope to diversify harvest with sunflowers",
+      "url": "https://www.farmprogress.com/crops/arkansas-farmers-hope-to-diversify-harvest-with-sunflowers",
+      "summary": "Through a contract with Seven Sundays cereal company, Adam Chappell and Taylor Herren are growing sunflowers for the first time. They eagerly anticipate harvest, hoping to see greater profits and improved soil health.",
+      "source": "Farm Progress",
+      "author": "Whitney Shannon",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Discover agronomic champs at new Agronomy Zone",
+      "url": "https://www.farmprogress.com/farm-progress-show/discover-agronomic-champs-at-new-agronomy-zone",
+      "summary": "Farm Progress Show: Farm Progress has partnered with Brian and Darren Hefty of Ag PhD to create professionally managed research and demonstration plots featuring different seed, nutrient and crop protection products.",
+      "source": "Farm Progress",
+      "author": "Rod Swoboda",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Don’t overcomplicate diversity: Lean into farming strengths",
+      "url": "https://www.farmprogress.com/farm-business/don-t-overcomplicate-diversity-lean-into-farming-strengths",
+      "summary": "See how this Indiana farming family tapped into their shared skill set to diversify the operation with the tools already available.",
+      "source": "Farm Progress",
+      "author": "Allison Lynch",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Estate planning: 5 steps for agricultural families",
+      "url": "https://www.farmprogress.com/farm-business-planning/estate-planning-5-steps-for-agricultural-families",
+      "summary": "Estate planning is crucial for agricultural families, but creating a plan can feel daunting. Extension ag law specialist Tiffany Lashmet offers advice on how to build a living estate plan.",
+      "source": "Farm Progress",
+      "author": "Shelley E. Huguley",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Hairy vetch shows promise for Palmer amaranth control",
+      "url": "https://www.farmprogress.com/weeds/hairy-vetch-shows-promise-for-palmer-amaranth-control",
+      "summary": "Nebraska researchers say termination timing is crucial for maximizing benefits for the cash crop.",
+      "source": "Farm Progress",
+      "author": "Elizabeth Hodges",
+      "date": "2026-08-24",
+      "collected": "2026-08-24"
+    },
+    {
+      "headline": "Your complete guide to Farm Progress Show services",
+      "url": "https://www.farmprogress.com/farm-progress-show/your-complete-guide-to-farm-progress-show-services",
+      "summary": "Farm Progress Show: Airport transportation, first aid, lost and found, and other services are available.",
+      "source": "Farm Progress",
+      "author": "Dena Morgan",
       "date": "2026-08-24",
       "collected": "2026-08-24"
     }
