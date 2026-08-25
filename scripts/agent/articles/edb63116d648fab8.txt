@@ -1,0 +1,103 @@
+Thursday morning, the trailer backed up to the door, and she's sound and bred back. The check is $2,340. Her replacement runs $3,500-plus into a heifer market at a 20-year low.
+E636 That cull cow brings $2,340. Her replacement | RSS.com
+That $1,160 gap is the whole story of the 2026 dairy cull cow decision — and it runs opposite to twenty years of culling habit. The reflex that used to be free money is now the expensive side of the trade.
+More stalls to fill, fewer heifers to fill them with. That's the arithmetic behind the squeeze: USDA counted 3.90 million dairy replacement heifers on January 1, down slightly year over year and roughly a 20-year low by CoBank's read, while the milking herd climbed to 9.57 million head.
+Third lactation, milking just under herd average. Not a wreck. Not a star. For twenty years she was an obvious load. Now she's a math problem.
+The cull check is real. So is the replacement bill.
+Southern Plains cull cow auction prices climbed to almost $180/cwt in late April 2026 , up about $15/cwt since January, according to Southern Ag Today. Two caveats before you count that check. Leaner 85–90% cows were running closer to $167/cwt earlier in the year, so check your own grade and basis before assuming the top of the market. And this year's seasonal increase has been smaller than normal — worth knowing if you're timing a sale.
+On a 1,300-pound cow at the top of that market, the salvage math is simple:
+13 cwt x $180/cwt = $2,340
+The other side has moved just as hard. USDA reported an average U.S. replacement dairy heifer price of $3,110/head in October 2025 — a record, up $100 (3%) from July 2025 and up $510 (16%) from October 2024. Dairy Star reported replacements running $3,000–$4,000/head through late 2025 as inventories tightened. By mid-2026, USDA's January report showed the ratio of dairy heifers expected to calve had tightened to a record-low 26.1%, pushing replacement values into territory the industry hasn't priced before.
+CoBank tracked the run-up. Lead dairy economist Corey Geiger put replacement values at $1,140/head in April 2019, $2,660 by January 2025, then a record $3,010 in July 2025 — a 164% climb.¹ The bank's models show dairy replacement inventories for the milking herd not rebounding until 2027.
+So the swap, stated plainly:
+Salvage check today:  $2,340
+Replacement heifer, current market:  $3,500+
+Purchase-price gap:  $1,160
+$3,500 – $2,340 =$1,160.00
+Call that what it is — a purchase-price gap, not a verdict. It doesn't yet include the milk she'd have shipped, her feed, her health costs, or her pregnancy status. Those are farm-specific, and they're where the real answer lives.
+What this means for your operation: if the cull candidate is bred, sound, and carrying no chronic health costs, the burden of proof shifts onto the cull decision. You have to show her replacement returns more than the $1,160 gap plus the margin she'd have earned. That's a higher bar than "she's below average."
+Why the heifer pipeline got thin
+Every cow bred to beef produces a valuable calf and no dairy replacement. During 2023–24 that trade was rational — beef-cross calves paid real money the day they hit the ground, Holstein bull calves didn't, and milk was weak.
+The bill came due three years later. CoBank's August 2025 analysis, authored by Geiger, put replacement heifer inventories at a 20-year low just as processors were committing to historic plant expansions. As heifer values climbed, the report noted, producers began culling fewer cows to keep milk flowing.
+Bullvine's own reporting on that analysis tracked a structural deficit of 438,844 heifers against the 2026 requirement, locked in by 2023 breeding decisions. Biology's 30-month timeline means there's no quick fix — only adaptation. We ran the full pipeline arithmetic when the deficit first showed up , including the forward inventory formula for calculating annual replacement need.
+The pain isn't evenly spread. USDA ERS put 2021 production cost at $42.71/cwt for herds under 50 cows against $19.14/cwt for herds of 2,000-plus. And per USDA ERS Amber Waves (February 2026), the number of licensed U.S. dairy herds fell 63%, from 66,825 in 2004 to 24,811 in 2024. A $3,500 replacement lands differently on a 60-cow dairy than on a 1,500-cow one.
+When is a below-average cow still worth keeping?
+Penn State Extension puts replacement animals at 15–20% of total milk production cost, ranking them the second- or third-largest production cost on most dairies, behind feed and possibly labor. When that line item roughly doubles, the threshold for shipping a cow moves with it.
+Here's the honest version of the calculation. A cow finishing a 22,000-pound lactation represents real gross milk revenue, but the retained margin depends on your milk price, ration cost, days in milk remaining, health status, and whether she's settled. There's no universal number, and anyone who hands you one is guessing. Run it against your own cost of production.
+The direction isn't in question. USDA's ERS forecast the 2026 all-milk price at $18.25/cwt as of January 2026. Against a $3,500-plus replacement, a settled cow milking modestly below herd average can pencil better than the heifer you'd buy to take her stall — but that depends on your milk price, her remaining days in milk, and her health costs.
+This is not a keep-every-cow rule. Chronic mastitis, repeat lameness, long withdrawal periods, genuine reproductive failure, cows eating cash — those still ship, and shipping them into a record cull market is good business. The mistake is treating every below-average cow as a replacement you can buy back cheaply. You can't right now.
+Does the math work the same in Canada?
+The biology travels. The market doesn't.
+Metric United States Canada Heifer inventory 3.90M head — roughly a 20-year low Cattle inventories up year over year, Jan 1 2026 Cost to raise to first calving 15–20% of total production cost (Penn State Extension) C$4,822 (Lactanet, 2021) to C$4,870 ± 757 (Canadian Journal of Animal Science) Milk price exposure Open market; ERS forecast US$18.25/cwt for 2026 Supply-managed; CDC farmgate +2.3255% effective Feb 1 2026 Where to price cows USDA AMS regional auction reports Brussels Livestock (ON); Les Producteurs de bovins du Québec weekly cull report Current cull trade Southern Plains near $180/cwt , late Apr 2026 Good Holsteins C$215–$234/cwt; medium C$200–$214/cwt (Brussels, summer 2026) Heifers expected to calve Record-low 26.1% ratio (USDA, Jan 2026) Not published on the same basis — verify provincially
+Three notes on the Canadian column. The rearing-cost figures come from two separate studies — Lactanet's 2021 analysis put it at C$4,822 per heifer to first calving, while a Canadian Journal of Animal Science study calculated C$4,870 ± 757 — and both skew toward Quebec herds, so verify against your own province. The February 2026 farmgate increase of 2.3255% came from the National Pricing Formula, which weighs producer cost of production against the consumer price index. And don't import U.S. auction prices into a supply-managed operation; the quota cushion changes how milk revenue behaves when you hold a cow an extra lactation.
+One practical note on Canadian cull values: Ontario's Brussels Livestock has been reporting good Holstein cows in the $215–$234/cwt range and medium Holsteins at $200–$214/cwt this summer. Springer and fresh-cow pricing moves separately from cull trade, so get a current quote before you budget a replacement purchase.
+The transferable part: at roughly C$4,800–C$4,900 to raise a replacement to first calving, a sound settled cow carries more value than her rank in the herd average suggests.
+Planning examples: the same decision at two herd sizes
+These are planning examples with stated inputs, not case studies from documented farms. Substitute your own numbers.
+250-cow herd — five convenience culls this quarter
+Sound, bred cows shipped mainly for sitting at the bottom of the rolling herd average
+Replaced at $3,500–$5,000 each
+Purchase-price gap alone:  $5,800 to $13,300
+Lost production not included
+The cost surfaces later, when the heifer pen comes up short
+60-cow herd — three forced replacement purchases
+At $3,500 each:  $10,500 in gross purchase cash
+Not a projected loss — a check you write
+A 1,500-cow dairy absorbs it. A 60-cow dairy feels every dollar
+Same decision, same market. The difference is whether your operation has the scale to absorb the cash requirement.
+Is your cull list a plan or a habit?
+Pull the current list and sort it into two piles: cows that are genuine cash drains, and cows that are merely below average. Those are different animals with different economics, and only one pile belongs on a trailer in this market.
+Cow profile Cull check @ $180/cwt Replacement cost Purchase-price gap Verdict 3rd lactation, confirmed pregnant, 8% below herd average, no health events $2,340 (1,300 lb) $3,500 –$1,160 KEEP — below average is not a cash drain 5th lactation, open 180+ days, 3 failed breedings, milking herd average $2,610 (1,450 lb) $3,500 –$890 SHIP — no pregnancy, no next lactation 2nd lactation, third clinical mastitis case, chronic high SCC $2,250 (1,250 lb) $3,500 –$1,250 SHIP — treatment cost and dumped milk outrun the gap 4th lactation, settled, mild recurring lameness, 12% below herd average $2,520 (1,400 lb) $3,500 –$980 HOLD & TREAT — decide after hoof work, not at the trailer
+Then check whether your pipeline can cover the departures. Divide heifers expected to freshen in the next 12 months by cows expected to leave over the same period. There's no industry-standard threshold here — the honest test is whether that ratio covers your farm's projected replacement need, given your cull rate and heifer survival. If it doesn't, your herd won't refill itself, and every voluntary cull becomes a purchase decision.
+Want the structured version? Lay your heifers out by age band and run them against your cull rate — that walkthrough also pulls in your 12-month 21-day pregnancy rate, which is what determines whether the pipeline holds.
+Options and trade-offs
+Option 1 — Run the three-gate cull test
+Timeline: complete within 30 days
+Before any cow goes on the trailer, run her through three gates:
+Will she breed back?
+Is she a genuine cash drain, or just below herd average?
+Can your heifer pipeline absorb losing her stall?
+Then reconcile the pipeline:
+Match cows likely to leave against confirmed heifers due to calving
+Set the maximum number of voluntary culls your pipeline can actually cover
+Hold the cull list to that number until the pipeline recovers
+Works on: every herd, right now. Requires: honest health and repro records. Fails when: sentiment creeps in and genuine money-losers stay on the list. Open cows and chronic problems still ship.
+Option 2 — Cap beef-on-dairy by counting backward
+Timeline: before the next breeding cycle
+Start from replacement need, not the calf check. Work the steps in order:
+Calculate annual replacement need from your cull rate — a 250-cow herd culling at 32% needs roughly 80 replacements a year
+Add your own heifer loss rate to get the true springer requirement
+Build your calf-to-springer conversion from your own records: sex ratio, calf mortality, heifer mortality, age at first calving, conception losses
+Work backward to the number of breedings genuinely free for beef semen
+Set the cap — and for herds that ran beef semen well above 40% during the boom, a lower cap is the defensible position until the pipeline recovers
+Any single industry conversion factor is a farm-specific assumption, not a constant. Build it from your records.
+Works on: herds that pushed hard into beef-cross. Requires: accurate cull and loss rates. Fails when: you surrender calf revenue without a real pipeline deficit to justify it.
+Option 3 — Stretch productive cows, not problem cows
+Extending herd life on sound, fertile, productive cows avoids replacement purchases at current prices. Bullvine's estimate of the per-cow annual value of added longevity is a directional calculation built from CoBank replacement-cost figures and University of Wisconsin longevity research — our math, not theirs, and not a guaranteed return.
+Works on: short or tight pipelines. Requires: sharper repro and hoof health. Fails when: you hold cows past their useful window and trade a shortage problem for a hospital-pen problem.
+Option 4 — Secure heifer supply before you're forced to buy
+Contract growing can price below a spot-market springer when a herd is caught short, particularly in deficit regions like Texas, Kansas, California, and Idaho. Specific contract terms vary by grower, region, and duration — get current quotes in writing rather than working from reported ranges.
+Works on: deficit regions with thin local heifer supply. Requires: an honest replacement forecast first. Fails when: you over-contract and end up long on heifers you can't house.
+Key Takeaways
+If a cow will breed back, isn't a genuine cash drain, and your pipeline can't replace her, keep her off the voluntary cull list.
+If your projected heifer inventory doesn't cover projected departures, treat every voluntary cull as a purchase decision — because that's what it is.
+If beef semen exceeded roughly 40% of your breedings during the boom, rebuild your cap from your own replacement need before the next breeding cycle.
+If you're budgeting replacement purchases through 2027, use at least $3,500 per bred heifer and verify against current local auction reports.
+If you milk under 100 cows, weight the cash requirement harder — three forced purchases is a five-figure check with no scale to absorb it.
+If you milk in Canada, use Canadian inventory, rearing-cost, and quota economics. The U.S. price column doesn't transfer.
+Replacement availability stays constrained by breeding decisions already locked into the pipeline, and the pace of any rebuild depends on future dairy-semen use, heifer survival, and culling behavior across the industry — not on anyone's forecast. CoBank's models don't show a meaningful recovery before 2027.
+So the question isn't whether heifers stay tight. It's whether the cows on your list this month are genuinely costing you money, or whether you're about to sell a productive cow into a record market and buy her replacement into a hotter one. Pull your heifer inventory against projected departures this week and see which pile your cull candidates actually land in. And when you're ready to put real dollars on a specific cow rather than a market average, the full hold-versus-cull breakeven is where that math lives — replacement cost, longevity value, and the per-cow case for keeping a sound old cow.
+Executive Summary: A 1,300-pound cull cow at $180/cwt brings $2,340 right now, and her replacement will run $3,500 or more — a $1,160 purchase-price gap before you count a single day of her lost lactation. USDA's January 1, 2026 Cattle report put dairy replacement heifers at 3.90 million head, roughly a 20-year low per CoBank, while milk cows climbed 2% to 9.57 million, the largest U.S. herd since 1993. That's the squeeze: more stalls to fill, fewer heifers to fill them, and USDA's October 2025 national average already at a record $3,110/head. The pain scales down, not up — a 250-cow herd shipping five convenience culls this quarter is out $5,800 to $13,300 on the swaps alone, and a 60-cow dairy needing three forced buys has to find $10,500 in cash a 1,500-cow operation would barely notice. CoBank's models don't show replacements rebounding until 2027, and 2023 breeding decisions locked in the 438,844-head deficit, so there's no waiting this one out. None of that means keeping every cow — chronic mastitis, repeat lameness, and genuine repro failure still ship, and shipping them into a record cull market is good business. The decision worth 30 minutes this week is sorting your list into cows that actually drain cash versus cows that sit at the bottom of the rolling herd average, then checking whether your heifer pipeline can even cover the departures.
+Run Your Numbers
+R/C Snapshot — This article tells you to divide heifers freshening by cows leaving. The R/C Snapshot does it in 90 seconds and tells you which band you land in: short, tight, balanced, or long. Under 1.5 and your herd shrinks whether you meant it to or not.
+Editor's note: The barn scenario below is a composite, modeled from multiple Midwest and Northeast operations facing the same cull-versus-replace decision in 2026. The market data is sourced and dated; the producer is a representative planning example, not a documented individual. Dollar figures are in USD unless marked CAD.
+¹ On replacement price series: This article uses the USDA/Geiger national-average series — $1,140/head (April 2019) to $3,010/head (July 2025), alongside USDA's $3,110 October 2025 national average. Some earlier Bullvine coverage cites a $1,720-to-$4,100+ range, which reflects top-end auction clearing prices rather than national averages. Both are defensible; national averages are the conservative basis for budgeting.
+Learn More
+Replacement Heifer Cost vs. Cow Longevity: How Extending Herd Life by 1.2 Months Yields $84/Cow/Year — Arms you with farm-level calculations to quantify the hidden financial return of retaining sound mature cows, translating marginal herd-life gains into an immediate $84 per cow annual savings.
+Beef on Dairy’s $3,000 Trap: 800,000 Missing Heifers and Who Pays the Bill  — Exposes the multi-year macro timeline driving current replacement scarcity, detailing how crossbreeding excess drained national pipelines and showing producers how to model forward calving intervals against market demand.
+Gene Editing in Modern Dairy Breeding: Where the Real ROI Lies  — Breaks down emerging genetic technologies and precision reproductive tools designed to accelerate female replacement generation, bypassing traditional heifer pipeline constraints without sacrificing beef-cross calf premiums.
+The Sunday Read Dairy Professionals Don't Skip.
+Every week, thousands of producers, breeders, and industry insiders open Bullvine Weekly for genetics insights, market shifts, and profit strategies they won't find anywhere else. One email. Five minutes. Smarter decisions all week.
+NewsSubscribe
+Name
+First
