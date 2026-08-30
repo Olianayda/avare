@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "headline": "Equipment Hub: Planning for packing",
-      "url": "https://www.agproud.com/articles/63899-equipment-hub-planning-for-packing",
-      "summary": "Modern choppers can fill a bunker in hours – but without matching packing weight and time, you’re setting up shrink, heating and spoilage before winter even arrives.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-11",
-      "collected": "2026-08-12"
-    },
-    {
-      "headline": "From sampling to cattle performance",
-      "url": "https://www.agproud.com/articles/63902-from-sampling-to-cattle-performance",
-      "summary": "When cattle don’t perform the way your forage report says they should, the culprit is often hiding in the sampling process.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-14",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Don’t guess; test: Using forage analysis to stretch winter feed dollars",
-      "url": "https://www.agproud.com/articles/63833-dont-guess-test-using-forage-analysis-to-stretch-winter-feed-dollars",
-      "summary": "As grazing season begins to wind down, many cattle producers are already thinking about winter feed inventories. Hay barns are filling, silage piles are covered, and haylage is fermenting, but one important management step is often overlooked before winter feeding begins: forage testing.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-14",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Comment gérer les blessures critiques et non critiques à la ferme",
-      "url": "https://www.agproud.com/articles/63750-comment-gerer-les-blessures-critiques-et-non-critiques-a-la-ferme",
-      "summary": "Même si aucune blessure ne survient lors d'un incident évité de justesse, il est important de le signaler à titre de mesure préventive pour éviter de futures blessures.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-14",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Key performance areas to focus on with automated milking systems",
-      "url": "https://www.agproud.com/articles/63736-key-performance-areas-to-focus-on-with-automated-milking-systems",
-      "summary": "Performance can mean different things depending on the goals of the operation, but generally there are two ways to view success with automated milking – herd production and functionality of the automated system.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-14",
-      "collected": "2026-08-14"
-    },
-    {
       "headline": "Hidden drivers of feed efficiency",
       "url": "https://www.agproud.com/articles/63697-hidden-drivers-of-feed-efficiency",
       "summary": "Differences in amino acid utilization and fatty acid metabolism may play an important role in determining feed efficiency, opening new opportunities for nutritionists and producers to improve performance for all cows.",
@@ -3637,6 +3592,52 @@
       "date": "2026-08-28",
       "collected": "2026-08-29",
       "body_file": "articles/000a669e6b63249f.txt"
+    },
+    {
+      "headline": "Traiter toutes les mammites ou n’en traiter aucune?",
+      "url": "https://www.agproud.com/articles/63766-traiter-toutes-les-mammites-ou-nen-traiter-aucune",
+      "summary": "J'étais au Canadian Dairy XPO cette année et j'ai eu d'excellentes conversations sur la mammite avec des producteurs progressistes. Dans mon échantillon biaisé d'interactions, il y avait généralement deux stratégies lorsque je demandais comment ils traitaient la mammite : soit traiter tout le monde, soit ne traiter personne. Les deux approches sont compréhensibles, mais aucune n'est optimale.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-30",
+      "collected": "2026-08-30"
+    },
+    {
+      "headline": "This Week in Agribusiness, Aug. 29, 2026",
+      "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-aug-29-2026",
+      "summary": "Beef imports, biofuel refinery exemptions, Mike Naig and Brooke Rollins at FPS, Farm Progress Show setup and biologicals to break down corn stover are highlighted this week.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-08-29",
+      "collected": "2026-08-30"
+    },
+    {
+      "headline": "FFA Tribute: Ethan Petersilie",
+      "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-tribute-ethan-petersilie",
+      "summary": "Kansas state FFA officer continues family legacy of agricultural leadership",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-08-29",
+      "collected": "2026-08-30"
+    },
+    {
+      "headline": "One Ring, Three Dynasties: The 1989 World Dairy Expo Class That Rewrote Holstein History",
+      "url": "https://www.thebullvine.com/show-reports/world-dairy-expo/1989-world-dairy-expo-class/",
+      "summary": "At the 1989 World Dairy Expo, three Senior Two-Year-Olds came back into the Madison ring after milking. The ribbons settled one afternoon. The consequences are still turning up in pedigrees around the world. E640 One Ring, Three Dynasties: The 1989 World Dai | RSS.com The 1989 Class at a Glance The milk had come down, […] The post One Ring, Three Dynasties: The 1989 World Dairy Expo Class That Rew",
+      "source": "The Bullvine",
+      "author": "Andrew Hunt",
+      "date": "2026-08-29",
+      "collected": "2026-08-30",
+      "body_file": "articles/58073a9090363ea2.txt"
+    },
+    {
+      "headline": "This grain rally is no time to sit on your hands",
+      "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "summary": "Morning Market Analysis: Corn futures regained upside momentum overnight and hit a fresh three-year high above $5.40, with soybeans and wheat also surging.",
+      "source": "Farm Progress",
+      "author": "Bruce Blythe",
+      "date": "2026-08-28",
+      "collected": "2026-08-30"
     }
   ]
 }
