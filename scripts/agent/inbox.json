@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "headline": "Hidden drivers of feed efficiency",
-      "url": "https://www.agproud.com/articles/63697-hidden-drivers-of-feed-efficiency",
-      "summary": "Differences in amino acid utilization and fatty acid metabolism may play an important role in determining feed efficiency, opening new opportunities for nutritionists and producers to improve performance for all cows.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-14",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Tyson reducing beef business footprint",
-      "url": "https://www.beefmagazine.com/market-news/tyson-reducing-beef-business-footprint",
-      "summary": "Dakota City, Holcomb and Amarillo will be the anchor facilities for beef operations.",
-      "source": "Beef Magazine",
-      "author": "Industry Release",
-      "date": "2026-08-13",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Manager of bovine A.I. firm pleads guilty to bid rigging",
-      "url": "https://www.beefmagazine.com/policy/manager-of-bovine-a-i-firm-pleads-guilty-to-bid-rigging",
-      "summary": "Herbert Lutz is first to be charged and plead guilty in conspiracy to rig bids during sales of cattle used for artificial insemination purposes.",
-      "source": "Beef Magazine",
-      "author": "U.S. Department of Justice",
-      "date": "2026-08-13",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Improving leptospirosis diagnostics in cattle",
-      "url": "https://www.beefmagazine.com/livestock-management/improving-leptospirosis-diagnostics-in-cattle",
-      "summary": "Project will home in on proteins that better match current circulating strains of the bacteria; goal is a single test that uses just one or two proteins to identify infected animals.",
-      "source": "Beef Magazine",
-      "author": "University of Connecticut",
-      "date": "2026-08-13",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Top Tips: WASDE played a hot hand – what’s next?",
-      "url": "https://www.farmprogress.com/management/top-tips-wasde-played-a-hot-hand-what-s-next-",
-      "summary": "Experts take a look at some ongoing factors that could affect grain prices moving forward.",
-      "source": "Farm Progress",
-      "author": "Ben Potter, Bruce Blythe",
-      "date": "2026-08-13",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "2026 Farm Progress Show preview",
-      "url": "https://www.farmprogress.com/farm-progress-show/2026-farm-progress-show-preview",
-      "summary": "Video: The Farm Progress Show in Boone, Iowa, Sept. 1-3, debuts new Agronomy Zone, FAA-approved Drone Zone, field demos, and exhibitor previews.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-13",
-      "collected": "2026-08-14"
-    },
-    {
       "headline": "NDSU opens Bolley Agricultural Laboratory",
       "url": "https://www.farmprogress.com/farm-business/ndsu-opens-bolley-agricultural-laboratory",
       "summary": "New lab marks major milestone for agriculture research and education on North Dakota State University campus in Fargo, N.D.",
@@ -3638,6 +3584,65 @@
       "author": "Bruce Blythe",
       "date": "2026-08-28",
       "collected": "2026-08-30"
+    },
+    {
+      "headline": "Cattle markets continue adding value to dairy operations",
+      "url": "https://www.agproud.com/articles/63967-cattle-markets-continue-adding-value-to-dairy-operations",
+      "summary": "Thus far in 2026, cattle and beef markets continued the strong markets that began in late 2022. Tight cattle supplies and strong beef demand remain the dominant market fundamentals, and the overall trajectory of the industry has not changed.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-31",
+      "collected": "2026-08-31",
+      "body_file": "articles/d16439d8371f23b8.txt"
+    },
+    {
+      "headline": "When culture breaks down: How to spot and address misalignment early",
+      "url": "https://www.agproud.com/articles/63933-when-culture-breaks-down-how-to-spot-and-address-misalignment-early",
+      "summary": "We know that culture does not usually break down overnight. It weakens gradually through missed conversations, unclear expectations, inconsistent behavior, silence and unresolved frustration. But the good news is that those same areas can also become the starting point for realignment.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-31",
+      "collected": "2026-08-31",
+      "body_file": "articles/9cf993da1ac07130.txt"
+    },
+    {
+      "headline": "Irons in the Fire: Wendell’s paint horse",
+      "url": "https://www.agproud.com/blogs/9-irons-in-the-fire/post/63936-irons-in-the-fire-wendells-paint-horse",
+      "summary": "Wendell was a big man, well over 6 feet tall, broad-shouldered and thick-built with a mildly stooped and lumbering gait when he walked. He was about the same age as my father, and his kids were around my age, so I always considered him kind of an old guy.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-31",
+      "collected": "2026-08-31",
+      "body_file": "articles/fb7fafbb4b0577db.txt"
+    },
+    {
+      "headline": "The Good Dirt: Camping with cows",
+      "url": "https://www.agproud.com/blogs/20-ag-proud-idaho-guest-blog/post/63918-the-good-dirt-camping-with-cows",
+      "summary": "I reckon any form of farming or ranching connects us to elements of yesteryear, but Idaho’s cow camps are a living link to the past. Maybe in half a century, when the Alder Creek Cow Camp sign is weathered and faded, the following generations will be there to refurbish and spruce it up. I sure hope so.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-31",
+      "collected": "2026-08-31",
+      "body_file": "articles/9a0638fc5da891f7.txt"
+    },
+    {
+      "headline": "More grazing days start in the fall",
+      "url": "https://www.agproud.com/articles/63912-more-grazing-days-start-in-the-fall",
+      "summary": "Cover crops deliver the most value when they’re planted with a clear purpose in mind.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-08-31",
+      "collected": "2026-08-31",
+      "body_file": "articles/fdffcecc637c1233.txt"
+    },
+    {
+      "headline": "Navigating rising farm input costs in 2027",
+      "url": "https://www.beefmagazine.com/farm-business-management/navigating-rising-farm-input-costs-in-2027",
+      "summary": "LIVE STREAM THURSDAY, SEPTEMBER 3 AT 1 PM CT - The rising cost of farm inputs in 2027 is one of the most pressing challenges facing agricultural producers.",
+      "source": "Beef Magazine",
+      "author": "",
+      "date": "2026-08-30",
+      "collected": "2026-08-31"
     }
   ]
 }
