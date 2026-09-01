@@ -115,8 +115,15 @@ function words(t){ return t.trim()?t.trim().split(/\\s+/).length:0 }
 function render(){
   const counts={};
   data.items.forEach(i=>counts[i.status]=(counts[i.status]||0)+1);
-  document.getElementById('counts').textContent =
-    STATUSES.filter(([s])=>counts[s]).map(([s,n])=>n+': '+counts[s]).join(' · ') || 'пусто';
+  let line = STATUSES.filter(([s])=>counts[s]).map(([s,n])=>n+': '+counts[s]).join(' · ') || 'пусто';
+  const countsEl = document.getElementById('counts');
+  countsEl.style.color='';
+  if(data.last_collected){
+    const days = Math.floor((Date.now() - new Date(data.last_collected+'T12:00:00'))/864e5);
+    if(days>=2){ line += ' · ⚠️ сбор молчит ' + days + ' дн.'; countsEl.style.color='#a33'; }
+    else line += ' · сбор: ' + data.last_collected;
+  }
+  countsEl.textContent = line;
 
   const allTabs=[['inbox','Входящие '+inbox.length]].concat(STATUSES.map(([s,n])=>[s,n+' '+(counts[s]||0)]));
   document.getElementById('tabs').innerHTML = allTabs
@@ -257,7 +264,19 @@ http
       res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
       return res.end(PAGE);
     }
-    if (req.url === '/api/queue') return json(load());
+    if (req.url === '/api/queue') {
+      const q = load();
+      // Сбор ломался молча: шесть суток пуш отбивался, знал об этом только
+      // collect.log. Возраст последней записи выносим в шапку, чтобы тишина
+      // была видна сразу, а не выяснялась через неделю.
+      const items = q.items || [];
+      let last = '';
+      try {
+        const inbox = JSON.parse(fs.readFileSync(path.join(DIR, 'inbox.json'), 'utf8'));
+        for (const i of inbox.items || []) if (i.collected > last) last = i.collected;
+      } catch (e) {}
+      return json({ ...q, items, last_collected: last });
+    }
 
     if (req.url === '/api/inbox') {
       const q = load();
