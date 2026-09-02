@@ -1,321 +1,6 @@
 {
   "items": [
     {
-      "headline": "What's ahead for this fall marketing season?",
-      "url": "https://www.beefmagazine.com/market-news/what-s-ahead-for-this-fall-marketing-season-",
-      "summary": "LIVE STREAM WEDNESDAY, AUGUST 12 AT 11:30 AM CT - We take a 30,000-foot view of the current cattle markets with an eye to the general market mood.",
-      "source": "Beef Magazine",
-      "author": "Clint Peck",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Short stature corn as an alternative for corn silage",
-      "url": "https://www.beefmagazine.com/farm-business-management/short-stature-corn-as-an-alternative-for-corn-silage",
-      "summary": "SSC hybrids put more of their biomass into grain and less into stem than tall hybrids.",
-      "source": "Beef Magazine",
-      "author": "Iowa Beef Center",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "JBS USA to turn Souderton beef plant into value-added operation",
-      "url": "https://www.beefmagazine.com/market-news/jbs-usa-to-turn-souderton-beef-plant-into-value-added-operation",
-      "summary": "Beef processing operations will stop Aug. 14, after which JBS will invest $30M to modernize the facility's value-added and case-ready capabilities.",
-      "source": "Beef Magazine",
-      "author": "Industry Release",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "You vs. You: The Walter Mitty syndrome",
-      "url": "https://www.beefmagazine.com/farm-business-management/you-vs-you-the-walter-mitty-syndrome",
-      "summary": "Many of us react to market fluctuations like Mitty reacts to life: ready to take more risk when the market is doing well but rushing out when it's down.",
-      "source": "Beef Magazine",
-      "author": "Nevil Speer",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Cattle futures drop amid option expiry",
-      "url": "https://www.beefmagazine.com/market-news/live-cattle-futures-erase-gains-as-option-expiration-triggers-sharp-thursday-selloff-despite-firm-bids",
-      "summary": "August live cattle rebounded Friday after option expiration caused Thursday's decline. Cash trade held at $235 per hundredweight last week.",
-      "source": "Beef Magazine",
-      "author": "Trey Freeman",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Time to make it rain",
-      "url": "https://www.beefmagazine.com/farm-business-management/time-to-make-it-rain",
-      "summary": "We talk fed cattle and feeder cattle signals, why demand can get “choppy,” how oil and gas prices hit both investor confidence and the everyday consumer psyche, and more.",
-      "source": "Beef Magazine",
-      "author": "Sarah Muirhead, Clint Peck, Nevil Speer",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "July/August 2026 edition of BEEF available",
-      "url": "https://www.beefmagazine.com/livestock-management/july-august-2026-edition-of-beef-available",
-      "summary": "Where carcass variability creates problems; PLUS: Embryo transfer info; adding value and reputation; and heat stress in the cow herd.",
-      "source": "Beef Magazine",
-      "author": "BEEF Staff",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "JBS sees Mexican cattle imports and restructuring boosting U.S. beef margins",
-      "url": "https://www.farmprogress.com/business/jbs-sees-mexican-cattle-imports-and-restructuring-boosting-us-beef-margins-despite-challenges",
-      "summary": "Incoming CEO Wesley Batista Filho says synergies from business integration haven't materialized yet but expects improvement by second quarter 2027.",
-      "source": "Farm Progress",
-      "author": "Bloomberg",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Ukraine grain exports to slump after Russian strikes on Odesa",
-      "url": "https://www.farmprogress.com/marketing/ukraine-grain-exports-to-slump-after-russian-strikes-on-odesa",
-      "summary": "Russian strikes on Odesa port threaten Ukraine's top revenue source as storage fills and alternative routes prove insufficient for grain flows.",
-      "source": "Farm Progress",
-      "author": "Bloomberg",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Rattlesnake Creek Watershed Project finalized after years of contention",
-      "url": "https://www.farmprogress.com/farm-life/rattlesnake-creek-watershed-project-finalized-after-years-of-contention",
-      "summary": "Kansas Digest: From water to conservation and beyond, here’s what’s on the calendar for Kansas farmers through August.",
-      "source": "Farm Progress",
-      "author": "Jennifer M. Latzke",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Farm bill stalls in Senate over nutrition program dispute",
-      "url": "https://www.farmprogress.com/tv-and-radio/farm-bill-stalls-in-senate-over-nutrition-program-dispute",
-      "summary": "Farm Progress America: Senate Ag Committee fails to advance legislation on party-line vote as Democrats seek more time for states to adjust SNAP costs.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Watch for price rally in wheat as global production drops",
-      "url": "https://www.farmprogress.com/marketing/watch-for-price-rally-in-wheat-as-global-production-drops",
-      "summary": "Ag Marketing IQ: European drought slashed production and sparked a $1.25 rally in three weeks. Weather threats in India and Australia plus Black Sea conflicts may drive prices higher.",
-      "source": "Farm Progress",
-      "author": "Naomi Blohm",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Local response can save rural farmers’ lives",
-      "url": "https://www.farmprogress.com/farm-life/how-prevention-and-community-response-can-save-farmers-lives",
-      "summary": "Rural emergency medical service volunteers could be the difference between life and death when farm accidents occur.",
-      "source": "Farm Progress",
-      "author": "Sarah McNaughton-Peterson",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Female-owned market grows at Husker Harvest Days",
-      "url": "https://www.farmprogress.com/husker-harvest-days/female-owned-market-grows-at-husker-harvest-days",
-      "summary": "The expanded space will feature clothing, jewelry, home gifts and a custom hat bar from Nebraska-based boutiques.",
-      "source": "Farm Progress",
-      "author": "Farm Progress staff",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "History comes to life at Farm Progress Show Antique Row",
-      "url": "https://www.farmprogress.com/farm-progress-show/history-comes-to-life-at-farm-progress-show-antique-row",
-      "summary": "Farm Progress Show: The Central Iowa Tractor Club will showcase decades of farm machinery heritage on Antique Row.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "From GLP-1s to biosensors: Inside Cornucopian Capital’s precision health playbook",
-      "url": "https://agfundernews.com/from-glp-1s-to-biosensors-inside-cornucopian-capitals-precision-health-playbook",
-      "summary": "Aryeh Ganz: “What if we could make improved health span, performance, and longevity accessible to everyone?” The post From GLP-1s to biosensors: Inside Cornucopian Capital’s precision health playbook appeared first on AgFunderNews.",
-      "source": "AgFunderNews",
-      "author": "Elaine Watson",
-      "date": "2026-08-11",
-      "collected": "2026-08-14"
-    },
-    {
-      "headline": "Isaac Dairy : adapter la durée de la lactation aux besoins des vaches",
-      "url": "https://www.agproud.com/articles/62225-isaac-dairy-adapter-la-duree-de-la-lactation-aux-besoins-des-vaches",
-      "summary": "",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-08-15",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Tyson doubles down",
-      "url": "https://www.beefmagazine.com/market-news/tyson-doubles-down",
-      "summary": "Additional beef plant closures or sales will reduce total capacity by 10,000 head/day in company’s “only true commodity business.”",
-      "source": "Beef Magazine",
-      "author": "Nevil Speer",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Cattle and beef market summer struggles",
-      "url": "https://www.beefmagazine.com/market-news/cattle-and-beef-market-summer-struggles",
-      "summary": "Extended heat and drought conditions challenge recovery efforts for beef producers as pasture quality declines nationwide.",
-      "source": "Beef Magazine",
-      "author": "Derrell Peel",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Ranchbot raises $15M and establishes U.S. holding company",
-      "url": "https://www.beefmagazine.com/farm-business-management/ranchbot-raises-15m-and-establishes-u-s-holding-company",
-      "summary": "Series B round cements Fort Worth as global headquarters as ranch technology company evolves and expands.",
-      "source": "Beef Magazine",
-      "author": "Industry Release",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Tyson shuts down Illinois beef plant without warning",
-      "url": "https://www.beefmagazine.com/market-news/tyson-shuts-down-illinois-beef-plant-without-warning",
-      "summary": "Joslin, Ill., facility shuts without warning, leaving cattle feeders scrambling and eliminating 3,000-head daily capacity in the Midwest corridor.",
-      "source": "Beef Magazine",
-      "author": "Holly Spangler",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "USDA confirms Glen Smith as rural development chief",
-      "url": "https://www.farmprogress.com/tv-and-radio/usda-confirms-glen-smith-as-rural-development-chief",
-      "summary": "Farm Progress America: Glen Smith, a fifth-generation Iowa farmer, brings decades of agricultural finance experience to lead agency overseeing billions in rural infrastructure funding.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Tyson shuts down Illinois beef plant without warning",
-      "url": "https://www.farmprogress.com/livestock/tyson-shuts-down-illinois-beef-plant-without-warning",
-      "summary": "Joslin, Ill., facility shuts without warning, leaving cattle feeders scrambling and eliminating 3,000-head daily capacity in the Midwest corridor.",
-      "source": "Farm Progress",
-      "author": "Holly Spangler",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Don’t wait for red — why I pick my tomatoes early",
-      "url": "https://www.farmprogress.com/farm-life/don-t-wait-for-red-why-i-pick-my-tomatoes-early",
-      "summary": "Through the Garden Gate: Early tomato harvest protects yield, and thanks to ethylene gas, breaker stage tomatoes ripen on the counter.",
-      "source": "Farm Progress",
-      "author": "Elizabeth Hodges",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Put down the phone, pick up your life",
-      "url": "https://www.farmprogress.com/technology/put-down-the-phone-pick-up-your-life",
-      "summary": "Cowtowns & Skyscrapers: Kansas schools go device-free this year. Maybe adults should join them for a bit.",
-      "source": "Farm Progress",
-      "author": "Jennifer M. Latzke",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "September 1986’s unprecedented storms crushed crop hopes",
-      "url": "https://www.farmprogress.com/harvest/september-1986-s-unprecedented-storms-crushed-crop-hopes",
-      "summary": "Climate Observations: Minnesota’s wettest September in history left corn and soybean farmers helpless until the weather dried out in mid-October.",
-      "source": "Farm Progress",
-      "author": "Mark Seeley",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Will more farmland go on auction block this fall?",
-      "url": "https://www.farmprogress.com/markets-and-quotes/will-more-farmland-go-on-auction-block-this-fall-",
-      "summary": "Land Values: Higher farmland prices particularly lead to higher sale volumes when landowners who have recently inherited property sell.",
-      "source": "Farm Progress",
-      "author": "Doug Hensley",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Can your farming heir buy out their siblings?",
-      "url": "https://www.farmprogress.com/farm-business-planning/can-your-farming-heir-buy-out-their-siblings-",
-      "summary": "More Than Dirt: Here are three actions to take now to support your farm’s next-gen growth: Buy life insurance; outline installment sales, long-term land contracts or gifting programs; and restructure ownership.",
-      "source": "Farm Progress",
-      "author": "Mike Downey",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Top tactics for training new farm employees",
-      "url": "https://www.farmprogress.com/farm-operations/top-tactics-for-training-new-farm-employees",
-      "summary": "For the Health of It: Get off on the right foot with new employees by using these training methods.",
-      "source": "Farm Progress",
-      "author": "Ellen Duysen",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Labor of love preserves past with monumental barn",
-      "url": "https://www.farmprogress.com/farm-life/labor-of-love-preserves-past-with-monumental-barn",
-      "summary": "Barn Stories: A couple built a barn from 200-year-old timber and 23 truckloads of stone.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Thank Barry Fisher for conservation resources",
-      "url": "https://www.farmprogress.com/names-in-the-news/thank-barry-fisher-for-conservation-resources",
-      "summary": "Video: The 2026 Honorary Indiana Master Farmer from Greencastle, Ind., left behind a host of organizations, resources and tools for Midwest farmers embarking on their conservation journeys.",
-      "source": "Farm Progress",
-      "author": "Allison Lynch",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Vigilance is best tool to keep bird flu at bay",
-      "url": "https://www.farmprogress.com/poultry-news/vigilance-is-best-tool-to-keep-bird-flu-at-bay",
-      "summary": "Seasonal bird flu risk follows waterfowl migration patterns in Mississippi Flyway region.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "2 free weather tools every farmer should know",
-      "url": "https://www.farmprogress.com/farm-progress-show/2-free-weather-tools-every-farmer-should-know",
-      "summary": "Farm Progress Show: The Iowa Environmental Mesonet and the CoCoRaHS Network are two free weather tools that can help on the farm. Both will be part of the Iowa State University exhibit.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "2026 Husker Harvest Days scholarship winners named",
-      "url": "https://www.farmprogress.com/husker-harvest-days/2026-husker-harvest-days-scholarship-winners-named",
-      "summary": "Meet eight Nebraska students who are looking to make an impact in agriculture.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
-      "headline": "Inside Nanovel’s bid to crack robotic citrus harvesting",
-      "url": "https://agfundernews.com/inside-nanovels-bid-to-crack-robotic-citrus-harvesting",
-      "summary": "In the US, says Isaac Mazor, “manual citrus harvesting costs around $42–43 per 900-lb field bin, versus $25-30 using our technology.” The post Inside Nanovel’s bid to crack robotic citrus harvesting appeared first on AgFunderNews.",
-      "source": "AgFunderNews",
-      "author": "Elaine Watson",
-      "date": "2026-08-14",
-      "collected": "2026-08-15"
-    },
-    {
       "headline": "One Cow, Seven Bulls, Six Countries: What August 2026’s Proof Run Really Tells You About Your Semen Tank",
       "url": "https://www.thebullvine.com/genetic-evaluation-review/august-2026-proof-run-semen-tank/",
       "summary": "One sire owns 7 of 10 U.S. GTPI. One cow backs 7 bulls across two lists. Six countries, one 72-hour window, one honest question: how related is your tank, actually? E632 One Cow, Seven Bulls, Six Countries: What Aug | RSS.com Ocd Thorson Ripcord-ET sired 7 of the U.S. GTPI Top 10 and 8 of […] The post One Cow, Seven Bulls, Six Countries: What August 2026’s Proof Run Really Tells You About Your Sem",
@@ -3663,6 +3348,325 @@
       "date": "2026-08-31",
       "collected": "2026-09-01",
       "body_file": "articles/2470eb50748f9847.txt"
+    },
+    {
+      "headline": "Expanding a prefix into a new farm venture",
+      "url": "https://www.agproud.com/blogs/2-progressive-dairy-guest-blogs/post/63994-expanding-a-prefix-into-a-new-farm-venture",
+      "summary": "Who knew that what started as having to come up with a prefix for my first homebred Jersey would grow into such a brand and new business ventures for me.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-02",
+      "collected": "2026-09-02",
+      "body_file": "articles/329f8c5c5e1f3b14.txt"
+    },
+    {
+      "headline": "Preparing calves for weaning: Preconditioning and stress management",
+      "url": "https://www.agproud.com/articles/63981-preparing-calves-for-weaning-preconditioning-and-stress-management",
+      "summary": "Weaning is one of the most stressful events in a beef calf’s life. Until that point, the calf has relied on its dam for milk, social comfort, protection and direction. Weaning removes that support, often while exposing the calf to new feed, unfamiliar surroundings, processing, transportation and commingling with cattle from other ranches.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-02",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "The Nancy M. Cummings Center: A quarter century of research, extension and education in the heart of Idaho",
+      "url": "https://www.agproud.com/articles/63938-the-nancy-m-cummings-center-a-quarter-century-of-research-extension-and-education-in-the-heart-of-idaho",
+      "summary": "“Over the years, the ranch has been many things in its lifetime,” says Dr. John Hall, University of Idaho (U of I) professor and superintendent of the Nancy M. Cummings Research, Extension and Education Center (NMCREEC) in Carmen, 8 miles north of Salmon.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-02",
+      "collected": "2026-09-02",
+      "body_file": "articles/9db5d326a97e6799.txt"
+    },
+    {
+      "headline": "Beef-on-dairy: Having a plan before calves hit the ground",
+      "url": "https://www.agproud.com/articles/63875-beef-on-dairy-having-a-plan-before-calves-hit-the-ground",
+      "summary": "The dairies that will continue capturing top value even when conditions change aren’t the ones reacting to the beef-on-dairy calf market; they’re the ones who planned ahead of it.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-02",
+      "collected": "2026-09-02",
+      "body_file": "articles/4170971ffb269ad3.txt"
+    },
+    {
+      "headline": "Leading by example: A mother-daughter partnership in dairy",
+      "url": "https://www.agproud.com/articles/63698-leading-by-example-a-mother-daughter-partnership-in-dairy",
+      "summary": "Working side by side on their family’s operation, Tara Hill and her daughter Emma Hill-Macmillan represent two generations connected by a shared commitment to their cows, their farm and the dairy industry at Charles Hill and Son Dairy in Central Onslow, Nova Scotia.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-02",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Zinpro brings Availa Cr to U.S. market",
+      "url": "https://www.beefmagazine.com/livestock-management/zinpro-brings-availa-cr-to-u-s-market",
+      "summary": "Chromium solution designed to help dairy and beef cattle producers optimize glucose utilization.",
+      "source": "Beef Magazine",
+      "author": "Industry Release",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Pivot Bio initiative invests in farm kids",
+      "url": "https://www.farmprogress.com/farm-progress-show/pivot-bio-initiative-invests-in-farm-kids",
+      "summary": "As part of the program, a Michigan farm family received $3,000 at the 2026 Farm Progress Show.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Rollins defends administration at Farm Progress Show",
+      "url": "https://www.farmprogress.com/farm-progress-show/rollins-defends-administration-at-farm-progress-show",
+      "summary": "USDA Secretary Brooke Rollins uses occasion to announce data modernization effort.",
+      "source": "Farm Progress",
+      "author": "Joshua Baethge",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Brazil’s soybean farmers hitting brakes on once-rapid planting pace",
+      "url": "https://www.farmprogress.com/farm-progress-show/brazil-s-soybean-farmers-hitting-brakes-on-once-rapid-planting-pace",
+      "summary": "Farm Progress Show: Pricey fertilizer and high interest rates are squeezing Brazilian farmers, likely leading to a pause in the country’s two-decade soybean planting binge.",
+      "source": "Farm Progress",
+      "author": "Bruce Blythe",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "2026 Farm Progress Show showcases technology’s transformation into reality",
+      "url": "https://www.farmprogress.com/farm-progress-show/2026-farm-progress-show-showcases-technologys-transformation-into-reality",
+      "summary": "Farm Progress Show: Iowa State University’s marching band, USDA Secretary Brooke Rollins and the Pie Lady are all part of the show’s Sept. 1 lineup.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Fendt unveils 80-foot planter in North American market push",
+      "url": "https://www.farmprogress.com/farm-progress-show/fendt-unveils-80-foot-planter-in-north-american-market-push",
+      "summary": "Farm Progress Show: Agco debuts five new products at show, signaling strategic expansion into North American agriculture market.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "JCB Fastrac 6300 Series balances speed with field performance",
+      "url": "https://www.farmprogress.com/farm-progress-show/jcb-fastrac-6300-series-balances-speed-with-field-performance",
+      "summary": "Farm Progress Show: The new tractor reaches 41 mph for efficient transport between fields while delivering enhanced hydraulic capacity and integrated tire inflation technology for demanding farm operations.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "New Holland showcases upgraded baler",
+      "url": "https://www.farmprogress.com/farm-progress-show/new-holland-showcases-upgraded-baler",
+      "summary": "Farm Progress Show: The 2027 Roll-Belt 1 Series Round Baler brings enhanced durability, net protection technology and factory-fit automation to help hay producers work more efficiently during tight harvest windows.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Farm Progress launches AGTech platform to convene, educate, and facilitate business across agriculture sector",
+      "url": "https://www.farmprogress.com/farm-business/farm-progress-launches-agtech-platform-to-convene-educate-and-facilitate-business-across-agriculture-sector",
+      "summary": "Comprehensive platform integrates live events, media products, and executive community to accelerate agricultural innovation",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "U.S.-Mexico cheese trade dispute threatens dairy exports",
+      "url": "https://www.farmprogress.com/tv-and-radio/u-s-mexico-cheese-trade-dispute-threatens-dairy-exports",
+      "summary": "Farm Progress America: American dairy producers face potential losses as Mexico's EU trade deal restricts common cheese names, putting $1 billion in annual exports at risk.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "John Deere’s new AI assistant can analyze farm data",
+      "url": "https://www.farmprogress.com/farm-progress-show/john-deere-s-new-ai-assistant-can-analyze-farm-data",
+      "summary": "JD, embedded in Operations Center, helps farmers make sense of field data through conversational artificial intelligence.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "New Case IH tech at the Farm Progress Show",
+      "url": "https://www.farmprogress.com/farm-progress-show/new-case-ih-tech-at-the-farm-progress-show",
+      "summary": "Two key precision technologies — Active Implement Guidance and SenseApply — are on display at the show.",
+      "source": "Farm Progress",
+      "author": "Whitney Shannon",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "August moisture saves season for Ohio grower",
+      "url": "https://www.farmprogress.com/crops/august-moisture-saves-season-for-ohio-grower",
+      "summary": "Field Snapshot: Wheat harvest was disappointing, but Seneca County farmer Bryce Kirian is optimistic after rain boosted corn and soybean prospects.",
+      "source": "Farm Progress",
+      "author": "Jennifer Kiel",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Recent farmland sales reaffirm buyer preferences",
+      "url": "https://www.farmprogress.com/farm-business/recent-farmland-sales-reaffirm-buyer-preferences",
+      "summary": "Land Sales: Flat, open land is usually preferred by farmland buyers in the Midwest, and those parcels are priced accordingly.",
+      "source": "Farm Progress",
+      "author": "Jared Augustine",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Illinois harvest outlook: Expect early crops, short windows",
+      "url": "https://www.farmprogress.com/crops/illinois-farmers-face-compressed-harvest-windows-as-el-nio-brings-wetter-fall-despite-early-crop-maturity",
+      "summary": "For many Illinois farmers, especially in central Illinois, crops are running ahead of schedule. Here’s a look at how the weather has affected that, plus what to expect during harvest.",
+      "source": "Farm Progress",
+      "author": "Ava Splear",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Missouri farm girl finds her voice",
+      "url": "https://www.farmprogress.com/livestock-and-dairy/missouri-farm-girl-finds-her-voice",
+      "summary": "Agri-Ready Profile: Public speaking contests, FFA and a family dairy farm helped Sophie Geppert build the confidence to become an advocate for agriculture.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Start the farm succession conversation",
+      "url": "https://www.farmprogress.com/farm-business-planning/start-the-farm-succession-conversation",
+      "summary": "Figuring out how to transition the farm is a shared concern among the senior generation of farmers. See how these farmers have kickstarted the process.",
+      "source": "Farm Progress",
+      "author": "Allison Lynch",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Why this dairy farmer spreads manure days before corn harvest",
+      "url": "https://www.farmprogress.com/livestock-and-dairy/why-this-dairy-farmer-spreads-manure-days-before-corn-harvest",
+      "summary": "Autonomous manure spreading allows Paul Mason to apply nutrients when his crops need it, not just when it's convenient.",
+      "source": "Farm Progress",
+      "author": "Chris Torres",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "5 ag tech startups you can’t miss at Husker Harvest Days",
+      "url": "https://www.farmprogress.com/husker-harvest-days/5-ag-tech-startups-you-can-t-miss-at-husker-harvest-days",
+      "summary": "The Husker Harvest Ag Tech Pavilion is your one-stop shop for the cutting-edge technology coming soon to a farm near you.",
+      "source": "Farm Progress",
+      "author": "Curt Arens",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "New Louisiana facility could radically change U.S. fertilizer market",
+      "url": "https://www.farmprogress.com/farm-business/new-louisiana-facility-could-radically-change-u-s-fertilizer-market",
+      "summary": "CHS and OCP North America have broken ground on a phosphate fertilizer plant near New Orleans — the first in the nation in over 40 years — that could reduce import dependence by 60%.",
+      "source": "Farm Progress",
+      "author": "Raney Rapp",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "What do Canada’s tariffs mean for your milk check?",
+      "url": "https://www.farmprogress.com/marketing/what-do-canada-s-tariffs-mean-for-your-milk-check-",
+      "summary": "Ag Marketing IQ: Milk production climbs 2.2% as the dairy herd hits 9.71 million head, but Canada’s new 50% tariffs and rising grain costs create uncertainty for already pressured prices.",
+      "source": "Farm Progress",
+      "author": "Naomi Blohm",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "3,700-acre organic farm thriving despite tough spring",
+      "url": "https://www.farmprogress.com/organic/3700-acre-organic-farm-thriving-despite-tough-spring",
+      "summary": "Field Snapshot: From rotary hoes to lightning-like weed zappers, Luke Ewald's farm uses innovative mechanical methods to control weeds and maximize yields.",
+      "source": "Farm Progress",
+      "author": "Jennifer Kiel",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Antique tractors still make perfect furrows for these plow wizards",
+      "url": "https://www.farmprogress.com/farm-life/antique-tractors-still-make-perfect-furrows-for-these-plow-wizards",
+      "summary": "Slideshow: A Wisconsin antique tractor club is keeping an old farming tradition alive by bringing multiple generations together for a day of plowing, storytelling and fun.",
+      "source": "Farm Progress",
+      "author": "Harlen Persinger",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Soil health benefits take time to build",
+      "url": "https://www.farmprogress.com/soil-health/soil-health-benefits-take-time-to-build",
+      "summary": "Think about the long term when considering soil health practices for your farm. Results won’t be easily measurable, but their impact is invaluable.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Visit Big Red Building for latest ag research and expert advice",
+      "url": "https://www.farmprogress.com/husker-harvest-days/visit-big-red-building-for-latest-ag-research-and-expert-advice",
+      "summary": "The University of Nebraska showcases research-based solutions at Husker Harvest Days to help strengthen agriculture and build resilient rural communities.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "American Pistachio Growers names new chief executive",
+      "url": "https://www.farmprogress.com/farm-business/american-pistachio-growers-names-new-chief-executive",
+      "summary": "As president and CEO, Mike Forbes will represent American pistachio growers and processors while working to increase domestic and international demand for the product.",
+      "source": "Farm Progress",
+      "author": "Farm Press Staff",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "New Case IH Nutri-Tiller 1000 has 16 rows, planter integration",
+      "url": "https://www.farmprogress.com/farming-equipment/new-case-ih-nutri-tiller-1000-has-16-rows-planter-integration",
+      "summary": "Configuration combines strip-till precision with planter passes for improved soil health and yield potential.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Fall farmland market expected to hold steady",
+      "url": "https://www.farmprogress.com/farm-business/fall-farmland-market-expected-to-hold-steady",
+      "summary": "Land Sales: Here are four representative land sales in four Nebraska counties across four different sections of the state.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
+    },
+    {
+      "headline": "Nordic Holstein Coancestry Rose Twentyfold. Your Inbreeding Percentage Won’t Show You.",
+      "url": "https://www.thebullvine.com/genetics-breeding/holstein-coancestry-pedigree-inbreeding/",
+      "summary": "Nordic Holstein female coancestry climbed from 0.02% to 0.39% per year while pedigree inbreeding looked harmless. Coancestry is next generation’s inbreeding — and your current mating report only shows you one of them. E642 Nordic Holstein Coancestry Rose Twentyfold. Y | RSS.com You’re placing a semen order off the August 2026 GTPI list. You take […] The post Nordic Holstein Coancestry Rose Twentyf",
+      "source": "The Bullvine",
+      "author": "Andrew Hunt",
+      "date": "2026-09-01",
+      "collected": "2026-09-02",
+      "body_file": "articles/ef9debb83656731b.txt"
+    },
+    {
+      "headline": "September 1, 2026 Progressive Dairy - French digital magazine",
+      "url": "https://www.agproud.com/articles/64073-september-1-2026-progressive-dairy-french-digital-magazine",
+      "summary": "The latest issue of Progressive Dairy - French magazine is available. To view, make sure you're logged into your agproud.com account. If you do not have access, click \"Subscribe\" in the top-right corner of agproud.com to add permission to view.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-01",
+      "collected": "2026-09-02"
     }
   ]
 }
