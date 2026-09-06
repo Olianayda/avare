@@ -1,42 +1,6 @@
 {
   "items": [
     {
-      "headline": "Healthy soil is slashing operating expenses on this Arkansas farm",
-      "url": "https://www.farmprogress.com/soil-health/healthy-soil-is-slashing-operating-expenses-on-this-arkansas-farm",
-      "summary": "Where Ag Is: Adam Chappell expects to spend just $150 per acre on a field of soybeans and explains how cover cropping and soil health focus are keys to his success.",
-      "source": "Farm Progress",
-      "author": "Whitney Shannon",
-      "date": "2026-08-19",
-      "collected": "2026-08-20"
-    },
-    {
-      "headline": "How kids help grow 30,000 pounds of produce in a food desert",
-      "url": "https://www.farmprogress.com/farm-life/how-kids-help-grow-30-000-pounds-of-produce-in-a-food-desert",
-      "summary": "Slideshow: Youth in East St. Louis, Ill., are growing food for their community while learning valuable skills and exploring ag careers at the Jackie Joyner-Kersee Food, Agriculture, Nutrition Innovation Center.",
-      "source": "Farm Progress",
-      "author": "Ava Splear",
-      "date": "2026-08-19",
-      "collected": "2026-08-20"
-    },
-    {
-      "headline": "From seed to sip: A Maryland rye whiskey story",
-      "url": "https://www.farmprogress.com/crops/from-seed-to-sip-a-maryland-rye-whiskey-story",
-      "summary": "Field Snapshot: Chris Weaver planted his first rye crop in 2017. This summer, he finally tasted that whiskey and rediscovered a family connection.",
-      "source": "Farm Progress",
-      "author": "Chris Torres",
-      "date": "2026-08-19",
-      "collected": "2026-08-20"
-    },
-    {
-      "headline": "Disease pressure varies across Midsouth soybean crop as harvest nears",
-      "url": "https://www.farmprogress.com/soybean/disease-pressure-varies-across-midsouth-soybean-crop-as-harvest-nears",
-      "summary": "Some areas have been hit hard by frogeye leaf spot or cercospora leaf blight, but others have faced very limited pressure. Here’s what experts have seen so far, along with best management practices for fungicide treatments.",
-      "source": "Farm Progress",
-      "author": "Whitney Shannon",
-      "date": "2026-08-19",
-      "collected": "2026-08-20"
-    },
-    {
       "headline": "Experience drones live at Husker Harvest Days",
       "url": "https://www.farmprogress.com/husker-harvest-days/experience-drones-live-at-husker-harvest-days",
       "summary": "The show brings cutting-edge agricultural drone technology to life with live demonstrations, expert insights and hands-on learning opportunities.",
@@ -3682,6 +3646,42 @@
       "date": "2026-09-04",
       "collected": "2026-09-05",
       "body_file": "articles/df610f3c064ed28a.txt"
+    },
+    {
+      "headline": "This Week in Agribusiness, September 5, 2026",
+      "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-september-5-2026",
+      "summary": "USDA unveils AI-driven data modernization, while farmers explore cutting-edge equipment, agronomy solutions and more at Farm Progress Show in Iowa.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-05",
+      "collected": "2026-09-06"
+    },
+    {
+      "headline": "FFA Chapter Tribute: Nora Pickhinke",
+      "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-chapter-tribute-nora-pickhinke",
+      "summary": "Iowa FFA State President, shares her journey into agricultural leadership at the 2026 Farm Progress Show.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-05",
+      "collected": "2026-09-06"
+    },
+    {
+      "headline": "Farm tech outperforms humans through consistency, not skill",
+      "url": "https://www.farmprogress.com/farming-equipment/farm-tech-outperforms-humans-through-consistency-not-skill",
+      "summary": "Farmer Iron: Automation’s advantage lies in tireless precision across entire seasons.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-09-05",
+      "collected": "2026-09-06"
+    },
+    {
+      "headline": "Winterize pivots now or pay much more later",
+      "url": "https://www.farmprogress.com/farming-equipment/winterize-pivots-now-or-pay-much-more-later",
+      "summary": "Central Valley Irrigation staff winterize 2,100 pivots annually. Here’s what they’ve learned about preventing costly breakdowns.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-09-05",
+      "collected": "2026-09-06"
     }
   ]
 }
