@@ -1,0 +1,133 @@
+Home
+News
+Articles
+Podcast
+Resources
+Dairy Cattle Genetics & Genomic Selection
+Dairy Show Ring & Cattle Evaluation
+Dairy Farm Economics & Profitability
+Dairy Cow Nutrition & Feed Management
+Dairy Herd Health & Reproduction
+Dairy Technology & Precision Farming
+Dairy Industry Policy, Markets & Sustainability
+Tools
+BPI Index Calculator
+Calf Feed ROI Tool
+Component Value Tracker
+Consolidation Clock
+Dairy Farm Extinction Clock
+Dairy Profit Projector
+Dairy Show Readiness Scorecard
+Forage Quality Value Calculator
+Genomic Testing ROI Calculator
+Health ROI Calculator
+Ketosis Cost Calculator
+Milk Replacer ROI
+Pregnancy Rate Economics Calculator
+Processing Capacity Gap
+R/C Snapshot
+Robot ROI Reality Check
+Show Heifer Growth Check
+Snap Check
+About Us
+Advertise with us
+Free Subscription
+Search
+Slide 8
+Slide 8
+Style_Bullvine
+Style_Bullvine
+Slide 5
+Slide 5
+Slide 8
+Slide 8
+Slide 10
+Slide 10
+Overlays Previous Next Previous Next
+9,860 First-Lactation VGs. Three Stress Tests. One Undisputed Winner.
+Wednesday ,
+September
+9 th ,
+2026
+Every first-lactation VG score in Canada for a year — 9,860 head, 46 bulls ranked. Then we tried three ways to break the leaders. Detective held every time. Sidekick got zero from 102 VG-dam daughters.
+E647 9,860 First-Lactation VGs. Three Stress Tests | RSS.com
+Blondin Detective. Fifteen of his 128 VG first-lactation daughters classified 87 or better this year — 11.7%, against a national rate of 2.97%. Take the ten biggest show herds out and he still holds 9.57%.
+The short version: 46 bulls ranked on 9,860 first-lactation VG scores. Six beat the breed rate by enough to prove it. Then we stripped out the ten biggest show barns, levelled the field by dam score, and demanded the same performance in both halves of the year. Blondin Detective passed all three. Nobody else did. Then we checked the whole board against Holstein Canada's August 2026 official proofs — and found that the trait that predicts a top-end two-year-old isn't the one being sold.
+Every breeder has had the barn argument at a show. Is that bull truly stamping the elite ones, or does he just have thousands of milking daughters padding his counts?
+Touting raw numbers of 87-point two-year-olds is a semen-sales metric, not an efficiency metric. So we pulled all 9,860 first-lactation Very Good scores Holstein Canada recorded over the past twelve months, opened 3,756 complete family trees by hand across the 46 major sires, and then put the leaders through three stress tests:
+Strip out the top ten show barns.
+Level the field by dam score — EX versus VG.
+Demand it twice, in both halves of the same year.
+One sire passed every test without flinching: Blondin Detective. Meanwhile some of the most-used type names in the country stumbled the moment the show halter came off.
+What we're measuring — and what we're not
+Understanding the metric. This study measures the VG Conversion Efficiency Ratio : of a bull's first-lactation daughters that scored Very Good, what share reached VG-87 or VG-88. It does not look at daughters scoring Good Plus or lower, and it does not replace a multi-trait genetic evaluation like LPI or TPI, which account for contemporaries, herd management and production. It answers one question and one only: when a bull makes a good one, how often does he make an exceptional one?
+That distinction matters, and any stud whose bull lands badly on this board will raise it — correctly — so let's put it up front.
+The denominator here is VG daughters, not total classified daughters. Take a hypothetical: Sire A gets 20% of his heifers to VG and converts 10% of those to 87+. Sire B gets 75% of his heifers to VG and converts 5%. Per straw used, Sire B is producing more elite two-year-olds — even though Sire A wins on this board. Conversion efficiency inside the VG class and absolute probability across all daughters are two different questions, and this dataset can only answer the first one.
+Breed-wide, that VG Conversion Efficiency Ratio is 2.97%. About one in thirty-four. That's the bar.
+The six that clear the bar
+The last column asks one thing: is this bull's edge big enough, on enough daughters, to rule out luck? A small edge takes a lot of daughters to prove. A big edge takes fewer. And checking forty-six bulls at once will always throw up a fluke or two, so the bar allows for it. Proven means we'd argue the number with the bull's owner and not blink. A dash means he might be exactly that good — there just aren't enough daughters on the ground yet to say.
+Sire VG dtrs 86+ 87+ Rate Could really be Proven? Blondin Detective 128 42.2% 15 11.7% 6.1–17.3 Proven Kings-Ransom Dropbox 52 25.0% 5 9.6% 1.6–17.6 Proven Mattenhof Harris 63 31.7% 6 9.5% 2.3–16.8 Proven Blondin Energy 132 34.8% 11 8.3% 3.6–13.0 Proven Golden-Oaks Master 264 34.1% 18 6.8% 3.8–9.9 Proven Farnear Delta-Lambda 827 31.9% 41 5.0% 3.5–6.4 Proven
+The "could really be" column is the humbling one. Dropbox shows 9.6%. On 52 daughters his real number is somewhere between 1.6% and 17.6%. Only more daughters will narrow that. Anybody quoting you a rate without telling you how many daughters it came off is selling semen.
+One bull under the 50-daughter cutoff is worth watching: Blondin Driven, 4 of 25 at 87+ — too few head to say anything yet, but the best feet-and-legs average of any sire in this dataset. Ask me again next year.
+The middle of the board
+Anything between about 3% and 6.5% here could just be the breed rate having a good year. Salute and Major both show 6.5% and I'd like to believe it — but on 92 and 108 daughters, that's a lead, not a fact.
+The five strongest of the middle:
+Sire VG dtrs 86+ 87+ Rate Could really be Robella Major 108 32.4% 7 6.5% 1.8–11.1 Hamming Salute 92 27.2% 6 6.5% 1.5–11.6 Duckett Crush Tatoo 130 33.8% 7 5.4% 1.5–9.3 Siemers Lambda Haniko 57 31.6% 3 5.3% 0.0–11.1 Westcoast GD Blakely 78 21.8% 4 5.1% 0.2–10.0
+Sire VG dtrs 86+ 87+ Rate Could really be MB-Luckylady Eye Candy 366 29.2% 18 4.9% 2.7–7.1 HAH Allgaud 64 26.6% 3 4.7% 0.0–9.9 Croteau Lesperron Unix 152 23.7% 7 4.6% 1.3–7.9 Blondin Alpha 152 26.3% 7 4.6% 1.3–7.9 MB-Luckylady Bullseye 290 25.9% 12 4.1% 1.8–6.4 Blondin Destination 153 24.8% 6 3.9% 0.8–7.0 OH-River-Syc Crushabull 118 27.1% 4 3.4% 0.1–6.7 Mr Ernestanthony Havenofear 88 21.6% 3 3.4% 0.0–7.2 Woodcrest King Doc 154 22.1% 5 3.2% 0.4–6.0 Walnutlawn Sidekick 227 30.8% 7 3.1% 0.8–5.3 Drewholme Leyton P 67 19.4% 2 3.0% 0.0–7.1 Siemers Rengd Parfect 143 14.0% 4 2.8% 0.1–5.5 Progenesis Ambrose 108 37.0% 3 2.8% 0.0–5.9 Bosdale Pathway 72 18.1% 2 2.8% 0.0–6.6 Comestar Loyall 79 27.8% 2 2.5% 0.0–6.0 Farnear Altitude-Red 82 30.5% 2 2.4% 0.0–5.8 Stantons Alligator 180 29.4% 4 2.2% 0.1–4.4 Stantons Chief 150 22.7% 3 2.0% 0.0–4.2 Mystique Avenger 61 18.0% 1 1.6% 0.0–4.8 Vogue A2P2-PP 135 10.4% 2 1.5% 0.0–3.5 Cherryhill Actionman 139 21.6% 2 1.4% 0.0–3.4 Melarry Fuel 172 23.3% 2 1.2% 0.0–2.8 Westcoast Randall 82 17.1% 1 1.2% 0.0–3.6
+And the five lowest that still produced an 87:
+Sire VG dtrs 86+ 87+ Rate Could really be 3Star OH Ranger Red 103 15.5% 1 1.0% 0.0–2.9 Westcoast Alcove 102 8.8% 1 1.0% 0.0–2.9 Cherry-Lily Zip Luster-P 101 13.9% 1 1.0% 0.0–2.9 Comestar Lemagic 96 13.5% 1 1.0% 0.0–3.1 Vogue Illustrator-P 124 21.0% 1 0.8% 0.0–2.4
+Zero for the year
+Seven bulls put 50 or more VG daughters through classification and produced no 87s at all.
+Context matters. Several of these sires were sampled hard for commercial profitability, milk solids and health traits rather than show type. Semex introduced Pine-Tree-I Pursuit as Canada's number one new-release sire for both GLPI and Pro$, later publishing him at +3649 GLPI, +$3,173 Pro$, and +8 Conformation (1.66 PTAT) . A bull built and sold to that spec is not being bought to make an 87-point two-year-old. The absence of high scores here reflects breeding intent and buyer intent, not commercial failure. We did not obtain current published proofs for all seven and are not characterising the other six beyond what this dataset shows.
+Sire VG dtrs 86+ 87+ S-S-I PR Renegade 100 12.0% 0 Pine-Tree-I Pursuit 82 9.8% 0 Corrcroft Breakshot 75 12.0% 0 Claynook Dealmaker 62 14.5% 0 Claynook Zoar 59 16.9% 0 Sandy-Valley R Conway 56 3.6% 0 Fradon Armada 55 12.7% 0
+That's 489 VG daughters between them. At the breed rate you'd expect 14 or 15 at 87. They got none — and Renegade, Pursuit and Dealmaker each classified 30-plus daughters in both halves of the year without one in either half.
+The claim is narrow and it's worth repeating: if you were after a big score on a two-year-old, these seven didn't deliver it this year, at these daughter numbers, in these herds. Conway is the one I'd look at twice on type either way — only 3.6% of his VG daughters even reached 86, lowest figure on the whole board.
+About Delta-Lambda
+He's the reason a lot of breeders will argue with this whole metric, so let's deal with him now.
+He sired 41 of the country's 293 top scorers, and second place has 18. He also had 827 VG daughters classify this year — one in every twelve VG-first cows in Canada.
+Divide it out and he converts at 5.0%. Against the breed at 2.97%, that's genuinely good, and on 827 daughters it's about as solid a number as exists in this business. Against the twenty leading type sires as a group — 5.17% — he's exactly par.
+Both are true at once, and that's the trap. Counting a bull's 87s measures how much semen he sold. He passed away in 2023 with over 11,000 daughters on the ground ( The Bullvine ), so what we're watching is the long tail of the biggest type-sire run this country has seen.
+Hold onto his 5.0%. It doesn't survive the first test unchanged.
+Then we tried to break it
+A ranking like that has three obvious ways to be wrong. So we ran all three at the numbers.
+Test one: take the show herds out
+The fair objection to any classification analysis is that it measures barns, not bulls. The big show herds feed a two-year-old right, grow her properly and have her looking her best on classification day. If a bull sold heavily into those herds, his rate rides along.
+The concentration is real. Among the 293 top scorers, counting every listed owner: Ferme Blondin, Saint-Placide, QC is on 21 of them. Blondin Sires, same village, on 14. Hamming Holsteins (Vernon, BC) and Westcoast Holsteins (Chilliwack, BC), 8 each. Beckridge, Quality Farms and Weeksdale, 7 each. Stanton Bros (Ilderton, ON), Kingsway Farms (Hastings, ON) and T & L Cattle, 6 each. Provincially, Quebec makes 40% of the country's VG-first two-year-olds and 44% of the 87s; BC converts at 3.89%, Quebec 3.31%, Ontario 2.53%, Alberta 1.64%. PEI tops the table at 5.32% off 188 head, thin enough that one strong herd moves it.
+Those herds have earned their reputations — we've profiled Ferme Blondin and Blondin Sires before. But if you milk 60 in a tie stall, their results aren't your results.
+So we pulled every cow owned by those ten herds — 184 head — and re-ranked what was left. The baseline drops from 5.17% to 4.28% , which tells you how much those barns carry on their own.
+Sire All herds Show herds removed What happened Mattenhof Harris 9.52% (63) 9.68% (62) held — and took over first Blondin Detective 11.72% (128) 9.57% (115) held, still more than double the baseline Duckett Crush Tatoo 5.38% (130) 5.51% (127) held Robella Major 6.48% (108) 6.00% (100) mostly held Golden-Oaks Master 6.82% (264) 5.58% (251) slipped Hamming Salute 6.52% (92) 5.33% (75) slipped Blondin Energy 8.33% (132) 5.83% (120) dropped hard Farnear Delta-Lambda 4.96% (827) 3.67% (791) dropped hard MB-Luckylady Eye Candy 4.92% (366) 3.49% (344) dropped Stantons Alligator 2.22% (180) 2.26% (177) unchanged
+That reshuffles the top. Harris and Detective don't need the big barns. Harris actually goes up. Energy loses a third of his edge the moment those herds come out, and so does Delta-Lambda — there's the answer to the question we left hanging.
+It isn't an accusation against anybody. It's the honest arithmetic of where a bull's semen landed. But it's the size of effect the sceptics always claimed, and now it's measured instead of argued.
+Test two: give every bull the same cows
+Second objection: the good bulls get put on the good cows. Of course Detective looks strong if he's used on the best families in the country.
+So we split every sire's daughters by what the dam herself classified, and compared like with like.
+Read this table as a snapshot, not a proof line. Subgroups under 50 head per dam tier are observational. Robella Major sits on 34 EX-dam daughters and 49 VG-dam daughters — one animal moving either way swings his rate 2.5 to 3.0 points. Only Delta-Lambda, Eye Candy, Master, Bullseye and Sidekick carry 50-plus head in both tiers.
+Sire Out of EX dams Out of VG dams Read Blondin Detective 4/44 = 9.09% 10/72 = 13.89% upgrades the cow Blondin Energy 4/49 = 8.16% 7/63 = 11.11% upgrades the cow Robella Major 2/34 = 5.88% 4/49 = 8.16% upgrades the cow — thin sample Golden-Oaks Master 10/131 = 7.63% 7/105 = 6.67% same either way Farnear Delta-Lambda 23/397 = 5.79% 17/311 = 5.47% same either way Duckett Crush Tatoo 4/60 = 6.67% 2/47 = 4.26% wants the better cow Woodcrest King Doc 4/54 = 7.41% 1/74 = 1.35% wants the better cow Walnutlawn Sidekick 7/97 = 7.22% 0/102 = 0.00% needs an EX cow, full stop
+There's a whole mating philosophy in that table — and note that the two strongest lines in it, Sidekick and Delta-Lambda, are also the two with the biggest samples.
+Detective and Energy are upgraders. Put them on a plain VG cow and they still find you an 87 — Detective actually does it more often on VG dams than on Excellent ones. That's the bull for the good-not-great family you're trying to move forward.
+Sidekick is the opposite, and it's stark. Ninety-seven daughters out of Excellent dams gave seven 87s. One hundred and two daughters out of VG dams gave zero. Both groups are big enough to mean something. He doesn't build a cow; he finishes one that's already there.
+King Doc reads the same way — 7.41% out of EX dams, 1.35% out of VG.
+And look at what they were handed. Across all 3,756 animals the dam mix is dead even — 1,582 came out of Excellent dams, 1,581 out of VG. So 44% each way, and that's the baseline for what a bull's book looks like.
+Detective's is the most VG-heavy of any proven sire on the board. Seventy-two of his daughters came out of VG dams against 44 out of Excellent ones — 57% where the breed sits at 44%. He isn't riding a book of elite cows. He's got more plain ones behind him than almost anybody in the top six, and he still converts at 11.7%.
+Sire Out of EX dams Out of VG dams VG share 87+ rate
+Sire Out of EX dams Out of VG dams VG share 87+ rate Blondin Detective 44 72 56.7% 11.7% Blondin Energy 49 63 49.2% 8.3% Walnutlawn Sidekick 97 102 47.2% 3.1% Golden-Oaks Master 131 105 40.9% 6.8% Farnear Delta-Lambda 397 311 40.0% 5.0% Stantons Alligator 103 64 36.8% 2.2%
+Alligator is the mirror image. Fifty-nine percent Excellent dams — the most elite book of any bull with 50 or more VG daughters — and a 2.2% conversion rate. Best cows on the board, worst result off them.
+And at the very top it barely matters. Of the 293 cows that scored 87 or 88, 48.6% came out of Excellent dams against that 44.4% baseline. A four-point tilt. Being out of an Excellent dam helps. It is nowhere near the sorting factor most of us assume it is.
+Test three: did they do it twice?
+Third objection, and the one that catches most single-season rankings: one hot classification round in one big herd can carry a bull's whole year.
+So we split the twelve months in half and scored every bull twice, on separate daughters.
+Sire First six months Second six months Verdict Blondin Detective 10.29% (68) 12.70% (63) delivered in both halves Blondin Energy 4.69% (64) 11.43% (70) climbing hard Golden-Oaks Master 6.14% (114) 7.14% (154) steady Duckett Crush Tatoo 4.60% (87) 6.12% (49) steady Farnear Delta-Lambda 4.09% (416) 5.52% (435) steady, average both times Walnutlawn Sidekick 1.60% (125) 4.63% (108) improving off a low base Blondin Destination 4.95% (101) 1.82% (55) fading Stantons Chief 3.45% (87) 0.00% (67) fading MB-Luckylady Bullseye 6.47% (139) 1.96% (153) collapsed Westcoast GD Blakely 7.14% (42) 2.56% (39) collapsed Drewholme Leyton P 5.88% (34) 0.00% (35) collapsed
+Note: half-year totals may sum slightly higher than the 12-month unique totals — a cow classified in both rounds counts once in each half, but only once across the year.
+Bullseye is the cautionary tale. He was running 6.47% at the halfway mark — the kind of number that sells semen — then came in at 1.96% on 153 daughters in the second half. Same bull, same year. Buy him on a six-month number and you bought a mirage. Half-year groups are small and noisy, so don't over-read any single line; the point is which bulls are steady, not which one moved most.
+And the bull left standing
+Blondin Detective is the only sire in Canada that passed all three tests. He clears the statistical bar on the full board. He holds with the big show herds stripped out. He converts better on ordinary VG cows than on Excellent ones. And he did it in both halves of the year, on separate sets of daughters.
+Harris is right behind him and arguably cleaner on the herd test, on 63 daughters instead of 128. Energy is the most exciting bull on the board and the one with the biggest question mark — a superb second half, and a third of his edge gone without the show herds.
+Then we checked it against the official proof
+Three tests down, and every one of them was ours — our metric, our data handling, our judgement calls. So here's the fourth check, and it isn't ours at all: does Holstein Canada's own genetic evaluation reach the same conclusions?
+We pulled the August 2026 CAN-GEBV conformation proof for every bull that matters here, straight off the individual AIS records. If you want a refresher on how those figures are built and what the percentile ranks mean, we've written the cheat sheet .
+Sire Rel. Classified dtrs Conformation Mammary Feet & Legs Our conversion Blondin Driven 93% 117 +16 (99%) +6 (88%) +19 (99%) 16.0% (25 dtrs) Blondin Detective 95% 319 +16 (99%) +10 (96%) +17 (99%) 11.7% Kings-Ransom Dropbox 95% 311 +9 (95%) +7 (91%) +7 (90%) 9.6% Mattenhof Harris 94% 224 +20 (99%) +18 (99%) +11 (98%) 9.5% Blondin Energy 97% 768 +15 (99%) +12 (98%) +13 (99%) 8.3% Golden-Oaks Master 98% 1,463 +13 (98%) +11 (98%) +6 (87%) 6.8% Robella Major 94% — +17 (99%) +11 (98%) +11 (98%) 6.5% Hamming Salute 92% — +13 (98%) +11 (98%) +2 (65%) 6.5% Duckett Crush Tatoo 99% 1,572 +12 (98%) +9 (95%) +7 (90%) 5.4% Farnear Delta-Lambda 99% 11,128 +12 (98%) +8 (93%) +11 (98%) 5.0% MB-Luckylady Eye Candy 98% 1,219 +15 (99%) +11 (98%) +12 (98%) 4.9% MB-Luckylady Bullseye 98% 1,574 +9 (95%) +4 (77%) +6 (87%) 4.1% Woodcrest King Doc 99% 8,089 +6 (87%) +4 (77%) +3 (72%) 3.2% Walnutlawn Sidekick 99% 7,949 +13 (98%) +12 (98%) +2 (65%) 3.1% Progenesis Ambrose 94% 188 +14 (99%) +8 (93%) +11 (98%) 2.8% Stantons Alligator 99% 7,220 +11 (97%) +9 (95%) +10 (97%) 2.2% Stantons Chief 99% 7,443 +8 (93%) +7 (91%) +2 (65%) 2.0%
+Rank those bulls by their official Conformation rating, then rank them by our conversion rate, and the two lists agree about half the time. That's reassuring — the daughter scores aren't telling a different story from the national evaluation.
+But split the proof into its parts and something jumps out.
+Rank them on Feet & Legs and the agreement barely drops. Rank them on Mammary System and it disappears into noise. Run it properly and only two of the five conformation measures clear the significance bar for a set this size — the Conformation composite and Feet & Legs. Mammary, Rump and Dairy Strength don't. Statistically, they tell you nothing about which bull makes an 87.
+Look at the top of the table. Driven is +19 on Feet & Legs. Detective is +17. Both 99th percentile. They're the two highest converters in the country.
+Now look at the bottom. Sidekick carries a +13 Conformation proof — 98th percentile — with Feet & L
