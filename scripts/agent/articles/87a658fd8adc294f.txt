@@ -1,0 +1,16 @@
+Image credit: xFarm
+Swiss agtech company xFarm Technologies has acquired Brazilian agtech platform Sibium Analytics , which provides geospatial, business intelligence, and ESG tools for sugarcane and biofuel production. The deal enables xFarm to bring its farm management platform to those industries. It also expands the company's geographic footprint to 24 million hectares across more than 600,000 farms globally.
+Sibium Analytics is xFarm's sixth acquisition in four years, and its second of a Brazilian company in a year. Financial terms are not disclosed at this time. Existing investors backed the deal, which also benefited from a new partnership with investor BlackRock.
+Building the data layer for the entire value chain
+Brazil produces around half the world's sugarcane and is the world's largest producer of sugarcane ethanol, which can power both biofuels and bioelectricity. Along with the US, it leads the world in ethanol production  and also generates roughly 9% of its power from sugarcane-derived bioelectricity.
+Sibium Analytics works with sugarcane mills and biofuel processors across its three platforms: Sigma Digital, a geospatial remote sensing tool for crop mapping and risk assessment; Ambium Digital, an ESG and traceability solution for generating audit-ready sustainability certifications; and a business intelligence layer that helps clients translate raw field data into operational decisions. Together, the tools cover the sugarcane value chain from production through processing and biofuel certification.
+Combining these elements with its existing supply chain intelligence tools means xFarm will be able to offer companies "an unprecedented, data-driven platform for farmers and processors alike," says xFarm CEO Matteo Vanotti.
+"Our vision has always been to support farmers and ag innovators with world class data-driven decision making across entire agricultural value chains," he adds.
+Existing customers of Sibium Analytics now have direct access to xFarm Technologies’ proprietary IoT ecosystem, including hyper-local weather stations, field sensors, and AI-powered decision support systems, thus enhancing operational planning, field visibility, and supply chain forecasting.
+Likewise, xFarm customers, which work across numerous crops, can access Sibium Analytics tools, which xFarm says will accelerate sustainability certifications and risk monitoring across Latin America. Away from the farm gate, other players, such as food companies, finance and insurance sectors will gain a single, transparent, and auditable data provider across multi-crop global supply chains.
+The acquisition is the next step in the company's plan to increase its international expansion. It is part of xFarm's  long-term strategy to build what Vanotti calls "the data layer of global agriculture" that can turn primary field data into benefits for entire industries.
+Share this article
+Sign up for our weekly newsletter.
+These constraints are holding agrifood back. AgFunder is investing to solve them
+Agtech
+Deeptech

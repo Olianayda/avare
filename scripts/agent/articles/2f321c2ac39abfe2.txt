@@ -1,0 +1,41 @@
+Frank Jaksch: "The capital cost of stainless steel has historically been a bottleneck for synthetic biology and plant cell scaling."
+Image credit: Ayana Bio
+Boston-based plant cell culture startup  Ayana Bio  and India’s  Zenfold Sustainable Technologies  have jointly purchased equipment from defunct alt protein firm Meati Foods giving the pair 300,000-L of fermentation capacity for just $75,000.
+A high-profile player in the alt-meat space, Meati made meat alternatives from mycelium at a state-of-the-art biomanufacturing facility in Thornton Colorado. After a turbulent couple of years , it entered the Assignment for the Benefit of Creditors (ABC) process—an alternative to bankruptcy—in May 2025. It was subsequently acquired by Meati Holdings, a firm led by infomercial exec Yasir Abdul, but laid off the bulk of its staff by the end of the year.
+An online auction was scheduled for spring 2026 to sell off the physical assets. But while some of the equipment was sold, the core fermentation assets—12x 25,000-liter fermentation tanks and associated seed trains (300,000-L of production capacity) "worth several million"—were not, Ayana Bio CEO Frank Jaksch told AgFunderNews .
+“My firm point of conviction has always been that we didn’t want to run our own manufacturing facility for plant cell culture. You have to fit into standard equipment available at CMOs [contract manufacturing organizations].
+“We became aware of the Meati equipment last December but we couldn't figure out a way to make it work, and at that point it looked like it was going to auction. But in the end, nothing happened with the majority of the equipment. In July 2026, we became aware that most of it was still available and we started talking with Zenfold, who we have been working with for over a year.”
+Ayana Bio's first product is rosmarinic acid from sage. Image credit: Ayana Bio
+Game changer for scaling plant cell culture
+Rather than continuing operations at the Colorado facility, Ayana Bio and Zenfold will decommission and ship the fermentation equipment to Zenfold’s facilities in India.
+Established in late 2021, Zenfold Sustainable Technologies is headquartered in Bengaluru, with manufacturing/R&D operations in Bengaluru and Hyderabad. Its focus is specialty and fine chemicals using green chemistry, biotransformation and synthetic biology.
+The Meati fermenters will be used to establish a dedicated Ayana Bio pilot facility for plant cell development in India, as well as dedicated future production capacity. Pilot capabilities will also be accessible to other plant cell companies.
+The aim is to be operational in the first half of 2027, said Jaksch, who is initially focusing on high-value ingredients from plant cell culture including rosmarinic acid, saffron for crocins and marigold for zeaxanthin and lutein. “With the recent MAHA activity including the notice to ban synthetic preservatives such as BHA, we have received significant commercial traction for rosmarinic acid as a natural preservative alternative.”
+Deal ‘fundamentally rewrites our CAPEX efficiency’
+He added: “The opportunity to acquire this fermentation equipment, at this cost, is a game changer for Ayana Bio’s ability to perform consistent and cost-effective pilot scale development on plant cell lines.
+“ Meati spared no expense when it built its manufacturing facility in Colorado, which is why this is such a great opportunity for Ayana Bio and Zenfold to make use of these assets.  The capital cost of stainless steel has historically been a bottleneck for synthetic biology and plant cell scaling.
+“Purchasing its fermentation assets for $75,000, partnering with Zenfold and relocating them to India fundamentally rewrites our CAPEX efficiency, allowing us to accelerate pilot and production timelines for plant cell bioactives at commercial scale."
+Arun Dubey, a director at Zenfold Sustainable Technologies and managing partner at Zenfold Ventures, added: " The Thornton site’s challenges were tied to real estate and cost structure, not the quality of its stainless steel. Integrating this high-capacity fermentation hardware into our Indian manufacturing base allows us to offer global partners an unbeatable combination of US biotechnology IP and ultra-efficient Asian scaling."
+Rather than using sunlight, water, and soil to nurture fully-grown plants,  plant cell culture  companies grow plant cells in bioreactors in conditions optimized for the rapid production of high-value compounds and secondary metabolites. Image credit: Ayana Bio
+Staggered scale up
+Zenfold already has four 100,000-L bioreactors but being able to scale up to 25,000-L reactors first is critical when you’re working on new products, said Jaksch.
+“When you run a 100,000 liter [bioreactor] or multiple 100,000 liters, you want to be damn sure that it's going to work before you go into it. Having this bridge to the 100,000-L [reactors] is really going to be helpful for us.”
+What is plant cell culture?
+Rather than using sunlight, water, and soil to nurture fully-grown plants,  plant cell culture  companies grow plant cells in bioreactors in conditions optimized for the rapid production of high-value compounds and secondary metabolites.
+Typically, firms start with plant stem cells or coax ordinary plant tissue into a proliferating, stem-cell-like callus, before growing the cells in liquid suspension.
+Advocates say the approach offers some key advantages over conventional agriculture:
+👉 First, they say, plant cell culture can ensure a consistent supply of  botanicals with supply chains increasingly threatened by climate change  and unpredictable weather, political instability, adulteration, disease, and heavy metals and pesticides from soil.
+👉 Second, they claim, it offers the promise of rapid, consistent, and controlled production of plant compounds regardless of season or location in a sterile environment, with no pesticides.
+👉 Third, there’s a sustainability argument: Why use all that agricultural land, water and energy to nurture fully-grown plants when you’re only interested in one small part of the plant?
+👉 Finally, they argue, it can also deliver higher yields. For example, by understanding the metabolic pathways in plants that produce certain polyphenols and the precise conditions that drive plants to generate more of them, skilled players in plant cell culture can achieve concentrations of bioactives that far exceed those produced by plants grown in the wild or via traditional agriculture.
+Further reading:
+Meati Foods property seized for non-payment of taxes
+Exclusive: Meati powers down Colorado plant. ‘All options are being explored,’ says firm
+From Taxol to cocoa: Can plant cell culture make the leap from drugs to food?
+Ayana Bio and Brevel net $1.25m grant to see if ‘illuminated fermentation’ can turbocharge plant cell culture
+Can plant cell culture escape the biopharma cost trap? Rheaplant nets new funds
+Share this article
+Sign up for our weekly newsletter.
+These constraints are holding agrifood back. AgFunder is investing to solve them
+Agtech
+Deeptech

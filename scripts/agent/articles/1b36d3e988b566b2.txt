@@ -1,0 +1,31 @@
+Dr. Andee Wallace, Founder and CEO of Robigo.
+Image credit: Robigo Bio
+Robigo Bio has closed a Series A financing round to accelerate the commercial launch of its crop biological products, which the company claims can match or outperform synthetic chemistries instead of merely complementing them.
+Importantly, these products will be simple for growers to integrate into their existing operations, says Dr. Andee Wallace, founder and CEO of Robigo.
+"Growers shouldn't have to choose between a product that works and one that's affordable or sustainable. If you go out and talk with growers, you know what they want: something that's simple that works with what they're doing today."
+This, she adds, is exactly what Robigo aims to do with its engineered microbes.
+Leaps by Bayer led the round, with participation from Illumina Ventures , SVG Thrive , Congruent Ventures , and Endeavor8 . Financial terms were not disclosed.
+Cambridge, Massachusetts-based Robigo has two products currently gearing up for commercial launch. One, an engineered microbial seed treatment for soybean Sudden Death Syndrome, is slated for launch in 2028. A second, which targets fusarium wilt in lettuce and berries, will launch in 2029.
+Funding will also support the company's expansion into work on soil-borne pathogens in broad-acre crops, which Robigo claims is a $10 billion market.
+Close up of soybean sudden death syndrome. Image credit: Robigo
+Engineering vs wild-type microbes
+Nearly all commercial microbial products on the market today use wild-type organisms—naturally occurring microbes selected for a useful characteristic, such as antifungal properties or nitrogen-fixing bacterium. Product development is more about finding the right strain of such microbes rather than engineering something.
+Robigo takes a different approach. Instead of finding a microbe with fungal-fighting properties, it chooses one then "programs" it to produce the desired active ingredients. Robigo starts with microbes chosen for their shelf stability and manufacturing economics, then engineers in new traits computationally, including both the active bioingredients and safety parameters, claims Wallace.
+"We identify microbes that serve as a really solid foundation to build high-performing products on top of — they have the shelf stability, they have the manufacturing capabilities to be cost-effective — and then we engineer in these new traits that allow us to be much higher performing than what biologicals are doing today, and also have a really improved safety profile," she adds.
+It is, she claims, "an entirely different way to develop microbial and biological products from what's been historically done."
+These engineered microbes are applied as a one-time seed treatment and continuously produce and deliver active ingredients throughout the season, with no change to existing grower workflows. Critically, Robigo says they don't require cold-chain storage, which has been a longstanding logistical headache for ag biological products.
+The company's proprietary ARGO platform ties these capabilities together across three components: microbial strain engineering, strain selection, and computational design of the bioactive compounds the microbes produce. Together, Robigo claims the platform can take a new biological product from design to field-tested in under 20 months. The industry norm is roughly three to five years.
+Robigo's first field trials last year marked what it believes is a regulatory first: field deployment of a living engineered microbe expressing new traits, cleared through the USDA and the EPA.
+Early data from those trials has been encouraging, says Wallace. The soybean SDS treatment is on track to match the performance of commercially available chemistries at half the cost. That's no small feat at a time when SDS causes an estimated $200–$500 million in annual losses for U.S. soybean farmers.
+The fusarium wilt product for specialty crops showed a 3x yield increase compared to untreated controls.
+Dr. Andee Wallace in the lab. Image credit: Robigo Bio
+Building a biologicals engine
+The new investment is the next step in a multi-year relationship between Robigo and Leaps, Bayer's venture arm.
+"They are not just developing a single product but rather building an engine that can rapidly address diverse soil-borne pathogens across broadacre crops," Dr. Juergen Eckhardt, EVP and head of Leaps by Bayer, noted in a statement.
+Robigo raised its seed round at the end of 2022, closing in early 2023. Wallace acknowledged the difficulty of the current climate but said the company's ability to put field data on the table made the difference.
+The Series A will also fund continued registration work. Robigo has already initiated the regulatory process for its soybean seed treatment product, another milestone Wallace flagged as significant for an engineered-organism product category that is still defining its regulatory path.
+Share this article
+Sign up for our weekly newsletter.
+These constraints are holding agrifood back. AgFunder is investing to solve them
+Agtech
+Deeptech

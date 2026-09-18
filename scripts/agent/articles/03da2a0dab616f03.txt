@@ -1,0 +1,55 @@
+Samuel Casasola Zamora: "It might sound crazy to get back into game but through the journey at Green Bioactives I found out what needs to be done for the company to succeed.”
+Image courtesy of Samuel Casasola Zamora
+UK startup PhytoFoundry is emerging from stealth with plans to produce high-value bioactives via plant cell culture.
+Incorporated in June 2026, PhytoFoundry is initially targeting premium cosmetics with a strategy that founder Samuel Casasola Zamora, PhD, says is shaped by lessons learned at his previous venture, Green Bioactives , which ceased operations last year after struggling to secure follow-on funding .
+Former Green Bioactives exec Chris Meaney is also joining PhytoFoundry on a fractional basis, initially helping develop its commercial proposition and fundraising strategy.
+For Casasola Zamora, the new company is an opportunity to apply technical and commercial lessons that came too late to save Green Bioactives, which sold its IP to a third party. “We achieved huge improvements in yield and productivity, but it was a little too late; we were out of time when we were close to that breakthrough.”
+“The progress of Green Bioactives wasn't linear,” adds Meaney. “By the end, the acceleration was great. The challenge was it had taken a while to get to that point. But putting those learnings into place and having a much lower burn rate gives PhytoFoundry a great opportunity now.”
+This time, says Casasola Zamora, “The strategy is commercial-led from day one: product-market fit, customer validation, and capital efficiency built into the foundation, not retrofitted later.”
+Starting with cosmetics
+PhytoFoundry’s first target is bakuchiol, a plant-derived bioactive used in skincare as an alternative to retinol that is traditionally extracted from the Psoralea corylifolia (babchi) plant.
+The startup has a letter of intent from an ingredient manufacturer that currently extracts bakuchiol from plant material but faces challenges purifying it from allergens.
+PhytoFoundry hopes to use plant cell culture to steer metabolism towards the target molecule while minimizing production of the unwanted compounds, simplifying downstream purification, says Casasola Zamora.
+By targeting high-value ingredients and improving cell productivity and downstream processing, PhytoFoundry hopes to make the economics work at lower volumes before moving into more price-sensitive markets such as food and crop protection, he says.
+“Cosmetics have lower regulatory barriers and they're willing to pay a premium price.”
+Investors know the technology works,” but are most concerned about how scalable it is and whether the markets firms are going after are sufficiently large to attract venture-type funding, he adds. In the case of bakuchiol, the market is small now but could grow significantly if the barriers to production are overcome.
+“Retinol replacement is a big opportunity because retinol is a $1.2-2 billion market.”
+Companies supplying nutraceuticals are “more concerned about what the outcome is than the technologies used to get there,” adds Meaney. “They just want a consistent product.”
+Clear commercial focus
+One of the clearest lessons from Green Bioactives, according to Meaney, is having a laser-like focus on products that make commercial sense from the outset and avoiding distractions.
+“There was a molecule in agtech that was being worked on when I joined and the volumes and the costs would never have succeeded. It’s easy to get lost in the science.”
+Casasola Zamora adds: “Working on too many things with a small team is not great.”
+Tackling plant cell culture’s scale-up challenges
+Plant cell culture has been used commercially for decades in pharmaceuticals but remains challenging to scale economically into lower-value markets, says Casasola Zamora.
+Compared with microbial fermentation, plant cells are larger, more shear-sensitive, tend to form clumps and grow more slowly. A typical growth cycle can take two weeks, increasing the risk of contamination and tying up fermentation capacity for longer periods.
+Cell stability is another major challenge. Productivity can deteriorate over repeated passages, making careful cell selection, preservation and banking critical to maintaining consistent yields.
+“The quality of the cell should be high to start with, because otherwise you can spend a long time trying to improve bad quality cells. If you have suboptimal cells, they don't grow at predictable rates or they're unstable, then scale up is much more complicated.”
+PhytoFoundry is therefore putting significant emphasis on selecting robust cell lines before scale-up and developing cell banking strategies designed to ensure the same developmental stage is used for successive production batches, he says.
+“The other thing we’ve learned from experience is that having well-structured data in which we capture every possible variable becomes a very important asset. If you can capture all the conditions from all the experiments, you can implement some AI approaches to build a model and then apply learnings to subsequent cell lines so there is more rational design [of experiments] and you compress the development cycle.”
+Where possible, the company hopes to use existing fermentation infrastructure rather than build bespoke plant-cell bioreactors, meanwhile.
+“If we can use something that already exists and the infrastructure that has already been built, that would be great,” says Casasola Zamora.
+There are also early indications that some cells can be cultured under less stringent sterility requirements, potentially broadening the range of equipment available for production, he says.
+Funding and lab space
+PhytoFoundry is seeking pre-seed funding and has secured HMRC Advance Assurance that its proposed fundraising is likely to qualify for the UK’s Seed Enterprise Investment Scheme (SEIS), which offers tax incentives to early-stage investors. It is also applying for grants and establishing collaborations with different partners.
+Casasola Zamora said a second cofounder with a chemistry background is involved in the venture, while several former Green Bioactives staff with plant cell culture expertise have expressed interest in joining if and when funding is secured.
+The firm is also exploring laboratory space at Imperial College London's White City campus and expects to work with CDMOs for scale-up rather than investing heavily in manufacturing infrastructure at the outset, says Casasola Zamora.
+“Plant cell culture is one of the most underutilized platforms in biotechnology. I believe it has a transformative role to play in how the world produces high-value biological molecules — and I am committed to taking it there. Some missions take longer than one attempt.”
+"It might sound like a crazy idea to get back into game but through the journey at Green Bioactives I found out what needs to be done in order for the company to succeed.”
+What is plant cell culture?
+Rather than using sunlight, water, and soil to nurture fully-grown plants,  plant cell culture  companies grow plant cells in bioreactors in conditions optimized for the rapid production of high-value compounds and secondary metabolites.
+Typically, firms start with plant stem cells or coax ordinary plant tissue into a proliferating, stem-cell-like callus, before growing the cells in liquid suspension.
+Advocates say the approach offers some key advantages over conventional agriculture:
+👉 First, they say, plant cell culture can ensure a consistent supply of  botanicals with supply chains increasingly threatened by climate change  and unpredictable weather, political instability, adulteration, disease, and heavy metals and pesticides from soil.
+👉 Second, they claim, it offers the promise of rapid, consistent, and controlled production of plant compounds regardless of season or location in a sterile environment, with no pesticides.
+👉 Third, there’s a sustainability argument: Why use all that agricultural land, water and energy to nurture fully-grown plants when you’re only interested in one small part of the plant?
+👉 Finally, they argue, it can also deliver higher yields. For example, by understanding the metabolic pathways in plants that produce certain polyphenols and the precise conditions that drive plants to generate more of them, skilled players in plant cell culture can achieve concentrations of bioactives that far exceed those produced by plants grown in the wild or via traditional agriculture.
+Further reading:
+Exclusive: Ayana Bio acquires Meati Foods assets for a steal to scale plant cell culture tech with Zenfold in India
+From Taxol to cocoa: Can plant cell culture make the leap from drugs to food?
+Ayana Bio and Brevel net $1.25m grant to see if ‘illuminated fermentation’ can turbocharge plant cell culture
+Can plant cell culture escape the biopharma cost trap? Rheaplant nets new funds
+Share this article
+Sign up for our weekly newsletter.
+Robigo Bio eyes commercialization for its ag biologicals with Leaps by Bayer investment
+Agtech
+Biomanufacturing & biologicals

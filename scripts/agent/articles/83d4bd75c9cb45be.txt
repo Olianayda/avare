@@ -1,0 +1,36 @@
+Spearhead Bio founder Keith Slotkin.
+Image credit: Spearhead Bio via Danforth Technology Company
+Spearhead Bio has closed an oversubscribed $1.62 million seed round to advance a genome engineering platform designed to address one of CRISPR’s key challenges: precisely inserting or replacing large pieces of DNA at targeted locations in crop genomes.
+The round comes a couple of years after Spearhead launched out of Danforth Technology Company (DTC), a subsidiary of the Donald Danforth Plant Science Center  in St. Louis, Missouri.
+The new round gives Spearhead runway to demonstrate how its Transposase Assisted Homology Independent Targeted Insertion (TAHITI) technology can lead to faster and more controlled introduction of genes into both transgenic and non-transgenic crops.
+Spearhead Bio founder Keith Slotkin says the technology "saves our partners years of development time and millions of dollars in crop improvement."
+‘Not just another CRISPR company'
+Mike Bielski, CEO of Spearhead Bio, says that while the company uses CRISPR for gene editing, it is far from being "just another CRISPR company."
+In crop breeding, CRISPR acts as molecular scissors that can locate a specific sequence in a plant's genome and cut or disable it. For example, scientists could disable the genes in wheat that make the plant susceptible to powdery mildew. One of the main benefits of CRISPR according to its advocates is that it can do all of this significantly faster than traditional breeding techniques.
+But, says Bielski, CRISPR's usefulness has limitations. It's great for cutting things out but notoriously bad at inserting new genetic material precisely. Frequently, it inserts this new material at random, which can disrupt other genes and overall plant function, and makes downstream breeding harder.
+Bielski likens this to a paragraph on a page. CRISPR is good at replacing single letters — changing the word "wood" into "food," for example — but it can't add or move whole sentences.
+This is where Spearhead's TAHITI technology adds real value.
+"We happen to use CRISPR, but the platform is really about transposable elements and what transposable elements can do with these large DNA cargo movements," says Bielski.
+All genomes naturally contain these "transposable elements," what Slotkin calls "nature’s own gene-editing machinery" and “the glue that works with CRISPR scissors to create a better toolbox.”
+TAHITI can rearrange, cut, and insert large pieces of DNA in crops, creating a new class of large genome edits. This brings scientists the ability to control these transposable elements, which in nature would happen at random and over thousands or millions of years.
+Spearhead's technology fuses a transposable element directly to Cas9 or Cas12a (CRISPR's molecular scissors), so that when CRISPR makes the cut, TAHITI can glue in new genetic cargo precisely into that break.
+"There are so many different things you can do when you have the ability to precisely move large pieces of DNA to where you want them," says Bielski. "It's everything from stacking traits to complete replacement of genes. [Those things] are not possible with the current toolbox."
+For seed companies, this approach means a faster, more efficient way to engineer plants.
+"If a seed company wanted to engineer something today, they would have to have this enormous pipeline because the efficiency that they're working at is below 1%," claims Slotkin. "We can do that much more efficiently, and [the company] can find their desired rearrangement much faster."
+Importantly, TAHITI can work with both transgenic applications (aka GMOs) and non-transgenic ones. The latter is a huge potential opportunity commercially, suggests Bielski, because it would enable a faster, cheaper regulatory pathway for companies.
+"Instead of having an additional three years and $80 million to get a trait through deregulation, it's going to be much faster," claims Slotkin.
+‘The most impactful tech' to come out of Danforth Center
+Spearhead Bio is currently in "active discussions" with partners at the moment, but is most heavily focused on meeting its technical milestones.
+"What we really want to do is create products for companies — traits — and so we're working with them on, for example, the soybean transposable element," says Slotkin.
+He adds that now the company is also focused on not just inserting DNA but also doing replacements.
+"At the same time we're deleting something, we're adding something at the same location. So the net balance there is that we're performing replacements without introducing foreign DNA in a crop genome like soybean with industry partners."
+BioGenerator Ventures and Danforth Technology Company (DTC) led the seed round with participation from QRM Capital , Grit Road Partners , St. Louis Port Authority Helix Fund, SDH Capital , and other investors.
+Spearhead Bio is the third company to come out of DTC and possibly, according to DTC CEO Tom Laurita, "the most impactful new technology to come out of the Danforth Center.”
+The success of the round wasn't immediate, says Bielski, but Spearhead's alignment with Danforth Center helped "check a lot of investor boxes."
+"The ability to [articulate] to people that we weren't just another CRISPR company, and getting people to understand how disruptive this could be, made the fundraising a little more straightforward.
+"It definitely took a while, but we realized once people did their diligence and understood what we were about, we wound up being oversubscribed at the end."
+Share this article
+Sign up for our weekly newsletter.
+PhytoFoundry emerges from stealth with plant cell culture platform targeting high value bioactives
+Artificial intelligence
+Biomanufacturing & biologicals

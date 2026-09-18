@@ -1,0 +1,42 @@
+Raffael Wohlgensinger: "We're approaching, I think, what is metabolically possible now."
+Image credit: Mirja Zentgraf
+German startup Formo expects to receive an FDA no questions letter for its precision fermented casein protein within weeks and is preparing to scale production to a couple of tons a month with co-manufacturers next year as it prepares to make its US debut.
+The firm, which handles development through to pilot scale in-house in Frankfurt, is working with a network of contract manufacturing organizations (CMOs) and scaling in line with customer demand, cofounder and CEO Raffael Wohlgensinger told AgFunderNews .
+It has not ruled out integrated manufacturing later but says financial backers would need to see hundreds of tons of sales “that really de-risk that step” before this becomes a viable option. However, Wohlgensinger says working with co-packers still makes sense commercially given the advances the company has made on boosting titer, productivity and yield with its bacterial production host.
+“From everything I’ve seen, I think we’re the best in class. We’re approaching, I think, what is metabolically possible now. We’re maxing out on all the metrics that tell you how efficient the system is, and that includes everything from yield on glucose, yield on biomass, to recovery and ease of recovery in downstream processing.
+“So really taking that into larger fermenters and longer campaigns with CMOs is where the biggest gains will come from now.”
+Why Formo bet on E. coli
+While some other players making casein proteins in fermentation tanks use yeast or filamentous fungus strains, Formo uses E.coli because it has clear advantages if you can optimize the downstream process and get a pure product at the end without breaking the bank, said Wohlgensinger.
+“The 100-million-dollar question is what’s the best [production] organism. We tested everything from bacterial systems to fungal systems to yeast. If you don’t have secretion [microbes that secrete proteins into the fermentation broth], downstream processing (DSP) is more challenging, plus people think E.coli has a bad rep in food ingredient production.
+“But for efficiency, volumetric productivity, everybody knows it's a super-fast [growing] organism and the best if you can solve those two issues above. And we have. We work with a probiotic E. coli strain, which has demonstrated use to make more than 100 compounds for humans, and we have a really easy, cost-efficient downstream process [for extracting and purifying the casein protein from the microbial cells].”
+The evolving business model
+Like many startups in the animal-free dairy segment, Formo has shifted away from consumer-facing products to prioritize B2B ingredients, closing down its adjacent koji fermentation operation and branded consumer cheese business in order to focus on casein proteins.
+Rather than competing with commodity milk proteins, it is positioning its alpha-S1 casein as a premium ingredient with a competitive cost in use that can also open up new application opportunities given its superior foaming, emulsification and oil-holding capacity, said Wohlgensinger .
+Its solubility at low pH also opens up applications currently dominated by whey and precision-fermented beta-lactoglobulin such as clear protein beverages, an application where conventional casein typically performs poorly, he explained.
+“That's a segment of the market that today is very much populated by whey.”
+Formo is also exploring high-protein yogurts and drinkable yogurts, where protein loading can create grainy textures, he said. “You can push the ceiling of protein content beyond what is currently possible with regular casein.”
+He added: “If someone is just looking for a commodity protein or the cheapest protein, today, we are not the best option. But we actually perform better than plant-based and dairy benchmarks across a variety of applications. In creamers, for example, it's an amazing ingredient and even better than sodium phosphate [a milk-derived ingredient commonly used in creamers].”
+That could also offer a labeling advantage for CPG companies seeking simpler ingredient lists, he said.
+Unlocking new applications, cleaning up product labels
+While there are early indications that Formo's single casein protein is digested more rapidly that regular casein (which contains four casein proteins held in a micellular structure), more research is needed before any claims can be made to this effect, added Wohlgensinger.
+“We have some early indication that we actually have faster digestion but we need to build up a larger body of science and proof.”
+In other areas such as cheese analogs, Formo’s alpha-S1 casein can deliver the stretch and melt that consumers expect while eliminating phosphate salts from the formulation and simplifying product labels for consumers, he said.
+“With our casein system, we could completely replace these salts [which often come with less than consumer-friendly names such as sodium caseinate].”
+In the early days, much of the dialog around casein proteins was about recreating the micellular structures found in dairy milk in order to preserve the functionality of the proteins. But that is not always necessary, said Wohlgensinger.
+“We actually don’t need to do it. There might be very specific application cases where you would need micelles, but for all the ones that we're currently interested in and our customers are interested in, we don't need them, and so we're trying to keep it as simple as possible in order to push the cost down.”
+The pitch: high performance protein
+While Formo’s casein has self-affirmed GRAS status in the US, some large multinationals will not launch products until the company can show an FDA “no questions” letter, he said. However, this is expected very soon, he revealed.
+“We're actually expecting the no questions letter to come within the next couple of weeks.”
+No US products containing Formo's casein are currently on shelves, but the company has sampling and co-development projects with customers from SMEs to multinationals, and is working closely with RX Food Ingredients to build its pipeline.
+Applications drawing interest include ready-to-drink and ready-to-mix protein products, yogurts, creamers, coffee products, powders and protein snacks, with demand reflecting broader nutrition trends including weight management, longevity and GLP-1 drugs .
+As a result, the pitch has shifted from animal-free dairy, sustainability and ethics, to performance, said Wohlgensinger. “We’re now convincing people who are completely agnostic to all the other arguments. It’s all about the business case, and that is really the narrative shift that is taking place across this industry.”
+Further reading:
+Standing Ovation nets $34m, gears up for US launch of casein via precision fermentation
+Mozza Foods targets late 2028 launch for soybean-grown casein
+🎥 The next frontier for animal-free dairy? ‘Slow-release’ mineral delivery, says Eden Brew
+🎥 New name, new strategy: Bettani Farms targets mozzarella market with ‘game changing’ plant-based casein
+Share this article
+Sign up for our weekly newsletter.
+These constraints are holding agrifood back. AgFunder is investing to solve them
+Agtech
+Deeptech
