@@ -358,6 +358,20 @@
       "image_url": "",
       "added": "2026-09-18T00:00:01.000Z",
       "author": "Jennifer Marston"
+    },
+    {
+      "id": 29,
+      "status": "ready",
+      "headline": "The behavior of the dairy cow: What motivates her drive in automated milking systems",
+      "url": "https://www.agproud.com/articles/63958-the-behavior-of-the-dairy-cow-what-motivates-her-drive-in-automated-milking-systems",
+      "source": "Progressive Dairy",
+      "category": "ai-livestock",
+      "summary": "Lely's Dan Meihak explains that automated milking systems depend on voluntary cow visits, not a forced schedule; the industry standard underfeeds cows by 15 pounds of milk's worth at the bunk to drive robot visits, while herd dominance hierarchy and lameness govern who actually gets there and when.",
+      "date": "2026-09-21",
+      "post_text": "The industry standard for robotic dairies is to feed cows 15 pounds less milk's worth at the bunk than the herd actually produces.\n\nDan Meihak, a commercial product specialist at Lely North America, writes about it in Progressive Dairy this week. Automated milking only works if cows choose to walk to the robot. Nobody moves them on a schedule.\n\nThe lever is hunger. The feed bunk ration is engineered to leave an energy gap, closed only by the concentrated feed inside the robot stall. Landmark 2014 research found that lowering that ration's energy density raises voluntary visits. Feed the bunk too generously, and a cow has no reason to leave it.\n\nHunger alone will not guarantee a visit. Dominant, older cows control access and push heifers toward the robot during the night's quiet hours. Lameness is the single biggest disruptor: a cow in pain will skip her own feed reward rather than cross a concrete floor.\n\nThe robot only measures what the cow decides to do.\n\nWhat in your barn is deciding it for her?\n\n#dairyfarming #automatedmilking #precisionlivestock #cattlebehavior #dairytech",
+      "image_url": "",
+      "added": "2026-09-21T12:00:00.000Z",
+      "author": "Dan Meihak"
     }
   ],
   "log": [
