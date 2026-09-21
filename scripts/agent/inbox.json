@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "headline": "Pivot Bio initiative invests in farm kids",
-      "url": "https://www.farmprogress.com/farm-progress-show/pivot-bio-initiative-invests-in-farm-kids",
-      "summary": "As part of the program, a Michigan farm family received $3,000 at the 2026 Farm Progress Show.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-09-01",
-      "collected": "2026-09-02"
-    },
-    {
-      "headline": "Rollins defends administration at Farm Progress Show",
-      "url": "https://www.farmprogress.com/farm-progress-show/rollins-defends-administration-at-farm-progress-show",
-      "summary": "USDA Secretary Brooke Rollins uses occasion to announce data modernization effort.",
-      "source": "Farm Progress",
-      "author": "Joshua Baethge",
-      "date": "2026-09-01",
-      "collected": "2026-09-02"
-    },
-    {
-      "headline": "Brazil’s soybean farmers hitting brakes on once-rapid planting pace",
-      "url": "https://www.farmprogress.com/farm-progress-show/brazil-s-soybean-farmers-hitting-brakes-on-once-rapid-planting-pace",
-      "summary": "Farm Progress Show: Pricey fertilizer and high interest rates are squeezing Brazilian farmers, likely leading to a pause in the country’s two-decade soybean planting binge.",
-      "source": "Farm Progress",
-      "author": "Bruce Blythe",
-      "date": "2026-09-01",
-      "collected": "2026-09-02"
-    },
-    {
-      "headline": "2026 Farm Progress Show showcases technology’s transformation into reality",
-      "url": "https://www.farmprogress.com/farm-progress-show/2026-farm-progress-show-showcases-technologys-transformation-into-reality",
-      "summary": "Farm Progress Show: Iowa State University’s marching band, USDA Secretary Brooke Rollins and the Pie Lady are all part of the show’s Sept. 1 lineup.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-09-01",
-      "collected": "2026-09-02"
-    },
-    {
-      "headline": "Fendt unveils 80-foot planter in North American market push",
-      "url": "https://www.farmprogress.com/farm-progress-show/fendt-unveils-80-foot-planter-in-north-american-market-push",
-      "summary": "Farm Progress Show: Agco debuts five new products at show, signaling strategic expansion into North American agriculture market.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-09-01",
-      "collected": "2026-09-02"
-    },
-    {
-      "headline": "JCB Fastrac 6300 Series balances speed with field performance",
-      "url": "https://www.farmprogress.com/farm-progress-show/jcb-fastrac-6300-series-balances-speed-with-field-performance",
-      "summary": "Farm Progress Show: The new tractor reaches 41 mph for efficient transport between fields while delivering enhanced hydraulic capacity and integrated tire inflation technology for demanding farm operations.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-09-01",
-      "collected": "2026-09-02"
-    },
-    {
-      "headline": "New Holland showcases upgraded baler",
-      "url": "https://www.farmprogress.com/farm-progress-show/new-holland-showcases-upgraded-baler",
-      "summary": "Farm Progress Show: The 2027 Roll-Belt 1 Series Round Baler brings enhanced durability, net protection technology and factory-fit automation to help hay producers work more efficiently during tight harvest windows.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-09-01",
-      "collected": "2026-09-02"
-    },
-    {
       "headline": "Farm Progress launches AGTech platform to convene, educate, and facilitate business across agriculture sector",
       "url": "https://www.farmprogress.com/farm-business/farm-progress-launches-agtech-platform-to-convene-educate-and-facilitate-business-across-agriculture-sector",
       "summary": "Comprehensive platform integrates live events, media products, and executive community to accelerate agricultural innovation",
@@ -3701,6 +3638,74 @@
       "date": "2026-09-18",
       "collected": "2026-09-19",
       "body_file": "articles/f9c7d1505354297a.txt"
+    },
+    {
+      "headline": "Breaking into the beef industry today",
+      "url": "https://www.agproud.com/articles/64099-breaking-into-the-beef-industry-today",
+      "summary": "Opportunities for young producers do exist in specific circumstances or areas of the industry, “But even in that,” says Beyeler, “you have to be conservative and a little creative at the same time.”",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-21",
+      "collected": "2026-09-21",
+      "body_file": "articles/1bdd92b399b08a67.txt"
+    },
+    {
+      "headline": "Equipment Hub: First, the simple things",
+      "url": "https://www.agproud.com/articles/64059-equipment-hub-first-the-simple-things",
+      "summary": "A pocketknife is a farm kid’s first true multitool – compact, durable and built for daily livestock, field and food prep tasks.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-21",
+      "collected": "2026-09-21",
+      "body_file": "articles/aea4421c943126d9.txt"
+    },
+    {
+      "headline": "West: Are you ready to retain heifers?",
+      "url": "https://www.agproud.com/articles/64029-west-are-you-ready-to-retain-heifers",
+      "summary": "The age-old question of whether to retain heifers comes up every year as the fall run approaches, and it can be an extremely personal decision for each individual ranch.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-21",
+      "collected": "2026-09-21",
+      "body_file": "articles/8902c541b16c7df0.txt"
+    },
+    {
+      "headline": "The behavior of the dairy cow: What motivates her drive in automated milking systems",
+      "url": "https://www.agproud.com/articles/63958-the-behavior-of-the-dairy-cow-what-motivates-her-drive-in-automated-milking-systems",
+      "summary": "An automated milking system's efficiency, asset utilization and profitability depend entirely on the cow’s choice to walk into the milking stall. Understanding what drives this choice requires a deep dive into the behavioral ecology, nutritional motivation and social dynamics of the dairy cow.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-21",
+      "collected": "2026-09-21",
+      "body_file": "articles/16f5763c426d4925.txt"
+    },
+    {
+      "headline": "This Week in Agribusiness, September 19, 2026",
+      "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-september-19-2026",
+      "summary": "This week features precision irrigation, AI spray tech, market rallies, and innovations in weed control, equipment, and profit strategies.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-19",
+      "collected": "2026-09-21"
+    },
+    {
+      "headline": "FFA Chapter Tribute: Elliott Stock",
+      "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-chapter-tribute-elliott-stock",
+      "summary": "Chapter sentinel at Elmwood Murdoch FFA, discussed his passion for agricultural leadership and competition.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-19",
+      "collected": "2026-09-21"
+    },
+    {
+      "headline": "They Mortgaged Three Wisconsin Farms to Build World Dairy Expo. Four Years Later It Was Nearly Bankrupt.",
+      "url": "https://www.thebullvine.com/breeder-profiles/world-dairy-expo-founders/",
+      "summary": "In 1967, three dairymen put their farms up as collateral on a $100,000 note so North America’s best cattle would have a ring worth hauling to. Buck Owens and Dolly Parton played the first few years to rows of empty seats, and Expo came within an inch of taking Crescent Beauty, Gray View and Norvic […] The post They Mortgaged Three Wisconsin Farms to Build World Dairy Expo. Four Years Later It Was ",
+      "source": "The Bullvine",
+      "author": "Andrew Hunt",
+      "date": "2026-09-19",
+      "collected": "2026-09-21",
+      "body_file": "articles/9d0840b0f171716b.txt"
     }
   ]
 }
