@@ -1,225 +1,6 @@
 {
   "items": [
     {
-      "headline": "Economics of slaughter plant closures and long-term market implications",
-      "url": "https://www.agproud.com/articles/63996-economics-of-slaughter-plant-closures-and-long-term-market-implications",
-      "summary": "Three plant closures since November 2025 have caused a sudden reduction in U.S. beef slaughter capacity. Together, recently closed plants had a total capacity of 9,500 head per day, or 47,500 per week.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-03",
-      "collected": "2026-09-03",
-      "body_file": "articles/1ab4505f1a7c7c4d.txt"
-    },
-    {
-      "headline": "Using genomics to hedge your bet for healthier cattle",
-      "url": "https://www.agproud.com/articles/63988-using-genomics-to-hedge-your-bet-for-healthier-cattle",
-      "summary": "I was elbow-deep in a difficult calving, nearly 45 minutes into what felt like an impossible delivery. A longtime friend watched me with a coffee cup in his hand, calmly offering advice while I struggled to straighten legs and align the calf’s head into the birth canal.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-03",
-      "collected": "2026-09-03",
-      "body_file": "articles/34c8dec3e564798a.txt"
-    },
-    {
-      "headline": "Assurance Watch: Help stop the spread of screwworm",
-      "url": "https://www.agproud.com/articles/63968-assurance-watch-help-stop-the-spread-of-screwworm",
-      "summary": "The USDA’s Animal and Plant Health Inspection Service (APHIS) on June 3 confirmed New World screwworm in a 3-week-old calf in Zavala County, Texas. The USDA is working with federal, state, local and industry partners to help producers prepare and respond.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-03",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Beyond binary: Giving transition cows the edge they need",
-      "url": "https://www.agproud.com/articles/63944-beyond-binary-giving-transition-cows-the-edge-they-need",
-      "summary": "Preparation is essential but, just as in elite athlete training programs, if we’re not monitoring the right parameters at the right time, we could be missing important opportunities to understand how our cows are adapting to the transition to lactation.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-03",
-      "collected": "2026-09-03",
-      "body_file": "articles/2f0b97c324635f08.txt"
-    },
-    {
-      "headline": "What this summer's heat could mean for cow pregnancy rates",
-      "url": "https://www.beefmagazine.com/livestock-management/what-this-summer-s-heat-could-mean-for-cow-pregnancy-rates",
-      "summary": "Heat stress can impair oocyte quality, embryo survival, follicular development and bull fertility.",
-      "source": "Beef Magazine",
-      "author": "South Dakota State University",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Nofence launches N3 virtual fencing cattle collar",
-      "url": "https://www.beefmagazine.com/livestock-management/nofence-launches-n3-virtual-fencing-cattle-collar",
-      "summary": "Release forms foundation of precision livestock and land management platform.",
-      "source": "Beef Magazine",
-      "author": "Industry Release",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Cattle market drops on run of news headlines",
-      "url": "https://www.beefmagazine.com/market-news/cattle-market-drops-on-run-of-news-headlines",
-      "summary": "Markets tend to punish uncertainty, which helps explain why prices have dropped even with continued tight supplies.",
-      "source": "Beef Magazine",
-      "author": "Mississippi State University Extension",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Cattle markets fall on Trump beef import plan",
-      "url": "https://www.beefmagazine.com/market-news/cattle-markets-fall-on-trump-beef-import-plan",
-      "summary": "Bearish sentiment hits cattle markets as Trump allows more lean beef imports and Mexico resumes feeder cattle shipments to US.",
-      "source": "Beef Magazine",
-      "author": "Abby Greiman",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Weather ends Wednesday show early but not before major reveals",
-      "url": "https://www.farmprogress.com/farm-progress-show/weather-ends-farm-progress-show-early-but-not-before-major-reveals",
-      "summary": "Farm Progress Show: Market volatility, major equipment launches and tech discussions dominate busy day before weather forces early closure.",
-      "source": "Farm Progress",
-      "author": "Chris Torres",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Soybean farmers convinced EPA to change course on SRE expansion",
-      "url": "https://www.farmprogress.com/farm-progress-show/soybean-farmers-convinced-epa-to-change-course-on-sre-expansion",
-      "summary": "Farm Progress Show: American Soybean Association VP Dave Walton says quick action prevented big losses for U.S. soybean farmers.",
-      "source": "Farm Progress",
-      "author": "Joshua Baethge",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Iowa farmer named top woman in ag at Farm Progress Show",
-      "url": "https://www.farmprogress.com/farm-progress-show/iowa-farmer-named-top-woman-in-ag-at-farm-progress-show",
-      "summary": "Wendy Johnson, a farmer from Charles City, Iowa, captured the inaugural Women in the Field: Producer of the Year Award at a first-of-its-kind ceremony at the show.",
-      "source": "Farm Progress",
-      "author": "Allison Lynch",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Farmer POV: Why invest in a drone",
-      "url": "https://www.farmprogress.com/farm-progress-show/farmer-pov-why-invest-in-a-drone",
-      "summary": "Farm Progress Show: In attempts to keep applications on the farm, one farmer bought two drones. Learn about which type of drones he invested in and how he’s using them on his operation.",
-      "source": "Farm Progress",
-      "author": "Ava Splear",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Valley Irrigation launches affordable pivot for small, irregular fields",
-      "url": "https://www.farmprogress.com/farming-equipment/valley-irrigation-launches-affordable-pivot-for-small-irregular-fields",
-      "summary": "The three-leg design cuts costs while maintaining strength, making mechanized irrigation viable for compact and irregular acreage across North America.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Kubota launches WorkSmart to bring practical tech to farmers",
-      "url": "https://www.farmprogress.com/farm-progress-show/kubota-launches-worksmart-to-bring-practical-tech-to-farmers",
-      "summary": "Farm Progress Show: The new tech initiative delivers autosteer precision and telematic monitoring while maintaining Kubota’s signature reliability and simplicity.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Claas launches new generation of tractors",
-      "url": "https://www.farmprogress.com/farm-progress-show/claas-launches-new-generation-of-tractors",
-      "summary": "Farm Progress Show: Efficiency, automation, operator comfort and reliability are hallmarks of the new Arion and Axion 8 and 9 tractors from Claas.",
-      "source": "Farm Progress",
-      "author": "Gil Gullickson",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "New phosphate plant promises domestic fertilizer boost by 2028",
-      "url": "https://www.farmprogress.com/tv-and-radio/new-phosphate-plant-promises-domestic-fertilizer-boost-by-2028",
-      "summary": "Farm Progress America: OCP and CHS break ground on $450 million facility in Louisiana, aiming to cut U.S. import dependence by nearly 50%.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "USDA unveils 5 Rancher First Initiatives at Nebraska State Fair",
-      "url": "https://www.farmprogress.com/farm-policy/usda-unveils-5-rancher-first-initiatives-at-nebraska-state-fair",
-      "summary": "Ag Secretary Brooke Rollins announced the plans, which are aimed at tackling meatpacking monopolies, supporting heifer retention and reversing losses.",
-      "source": "Farm Progress",
-      "author": "Elizabeth Hodges",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "4 more ag tech startups to visit at Husker Harvest Days",
-      "url": "https://www.farmprogress.com/husker-harvest-days/4-more-ag-tech-startups-to-visit-at-husker-harvest-days",
-      "summary": "Husker Harvest Ag Tech Pavilion: Learn more about startups who make irrigation, cattle health and farm management easier.",
-      "source": "Farm Progress",
-      "author": "Curt Arens",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Custom farming rates jump 7% to 10% across major crops",
-      "url": "https://www.farmprogress.com/farm-business/custom-farming-rates-jump-7-to-10-across-major-crops",
-      "summary": "From combining to silage chopping, Ohio State's latest survey shows what 343 operators are charging, and why rates keep climbing.",
-      "source": "Farm Progress",
-      "author": "Chris Torres",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "What happens to the farm when you’re not there?",
-      "url": "https://www.farmprogress.com/management/what-happens-to-the-farm-when-you-re-not-there-",
-      "summary": "Bottom Line: Store digital and physical documents in one place to help keep your farm running during unexpected circumstances.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Sheep IQ: Management resources all in one place",
-      "url": "https://www.farmprogress.com/livestock/sheep-iq-management-resources-all-in-one-place",
-      "summary": "The American Lamb Board and American Sheep Industry Association team up to create a centralized hub for production resources, tools and expert guidance.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Farmer finds out if biologicals offer ROI",
-      "url": "https://www.farmprogress.com/crops/farmer-finds-out-if-biologicals-offer-roi",
-      "summary": "A partnership between a Wisconsin farm and an agronomy research company pays off when testing new crop protection methods.",
-      "source": "Farm Progress",
-      "author": "Jim Massey",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "New survey exposes millions of hidden weed seeds",
-      "url": "https://www.farmprogress.com/weeds/new-survey-exposes-millions-of-hidden-weed-seeds",
-      "summary": "Missouri’s first seed bank survey uncovered populations reaching upward of 95 million waterhemp seeds per acre.",
-      "source": "Farm Progress",
-      "author": "Mindy Ward",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Mitigate mycotoxin damage before corn harvest",
-      "url": "https://www.farmprogress.com/corn/mitigate-mycotoxin-damage-before-corn-harvest",
-      "summary": "Corn Success: Scout now to assess ear rot infections and mycotoxin concerns. There’s still time to intervene and reevaluate your harvest timing.",
-      "source": "Farm Progress",
-      "author": "Camila Nicolli, Dan Quinn",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
       "headline": "Water conservation can’t work without economic viability",
       "url": "https://www.farmprogress.com/farm-policy/water-conservation-can-t-work-without-economic-viability",
       "summary": "Sorghum Focus: We know how to save groundwater; now the conversation turns to how to pay for it.",
@@ -3714,6 +3495,229 @@
       "date": "2026-09-21",
       "collected": "2026-09-22",
       "body_file": "articles/691db4e3d7d298ee.txt"
+    },
+    {
+      "headline": "U.S. jasmine rice: Expanding the domestic market",
+      "url": "https://www.farmprogress.com/rice/u-s-jasmine-rice-expanding-the-domestic-market",
+      "summary": "Join our panel as they discuss the research behind the rice market plan and advise on expanding this market, including quality, contract options, infrastructure and more.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-10-14",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Facility design considerations to improve safety and efficiency in livestock operations",
+      "url": "https://www.agproud.com/articles/64118-facility-design-considerations-to-improve-safety-and-efficiency-in-livestock-operations",
+      "summary": "With this guide, livestock producers will learn some of the key design considerations for livestock-handling and housing facilities.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-23",
+      "collected": "2026-09-23",
+      "body_file": "articles/57371fb94ed79901.txt"
+    },
+    {
+      "headline": "North: A golden grazing opportunity",
+      "url": "https://www.agproud.com/articles/64078-north-a-golden-grazing-opportunity",
+      "summary": "It’s no secret that I am a huge fan of grazing cornstalks. Lowering feed costs, extending the grazing season, and getting animals back out on the land are all reasons to graze cornstalks.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-23",
+      "collected": "2026-09-23",
+      "body_file": "articles/a4dcc6012dbfe011.txt"
+    },
+    {
+      "headline": "Can renewables and forage share the same acre?",
+      "url": "https://www.agproud.com/articles/64052-can-renewables-and-forage-share-the-same-acre",
+      "summary": "Can wind and solar share the acre with forage? Producers show how dual use works when the footprint is small and the questions are asked upfront.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-23",
+      "collected": "2026-09-23",
+      "body_file": "articles/d94e0f1748ee7735.txt"
+    },
+    {
+      "headline": "How to develop employees you can count on",
+      "url": "https://www.agproud.com/articles/64047-how-to-develop-employees-you-can-count-on",
+      "summary": "The best operations I've worked with tend to get three things right: alignment, accessibility and accountability. Those three things are not complicated, but they do require a plan. Accountability is not created through pressure. It is created through clarity, support and ownership.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-23",
+      "collected": "2026-09-23",
+      "body_file": "articles/951247fed0232d64.txt"
+    },
+    {
+      "headline": "How consistent is your corn grind?",
+      "url": "https://www.agproud.com/articles/64019-how-consistent-is-your-corn-grind",
+      "summary": "Corn particle size can vary considerably between farms, mills and even deliveries from the same source. Regularly benchmarking both average particle size and grind consistency can help dairies identify opportunities to improve starch utilization and get more value from the corn they are already feeding.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-23",
+      "collected": "2026-09-23",
+      "body_file": "articles/93f24ea65c88665d.txt"
+    },
+    {
+      "headline": "Proactive ways to defend against New World screwworm",
+      "url": "https://www.beefmagazine.com/farm-business-management/proactive-ways-to-defend-against-new-world-screwworm",
+      "summary": "Four practical prevention steps can help protect cattle and limit potential spread of pest.",
+      "source": "Beef Magazine",
+      "author": "Industry Release",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "You vs. you: Twin gremlins",
+      "url": "https://www.beefmagazine.com/farm-business-management/you-vs-you-twin-gremlins",
+      "summary": "Every day is a choice between lethargy (the comfort of old habits and routines) or fear (requiring energy, courage and discipline).",
+      "source": "Beef Magazine",
+      "author": "Nevil Speer",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Placements fall more than expected with feed costs in focus",
+      "url": "https://www.beefmagazine.com/market-news/placements-fall-more-than-expected-with-feed-costs-in-focus",
+      "summary": "Number of cattle imported through Santa Teresa will be an item to watch as it may influence placement numbers. Drought also remains a factor.",
+      "source": "Beef Magazine",
+      "author": "Tyler Cozzens",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Can U.S. forgo Canadian potash?",
+      "url": "https://www.farmprogress.com/crops/can-u-s-forgo-canadian-potash-",
+      "summary": "Trump claims Belarus can supply the U.S. with potash, but data suggest otherwise.",
+      "source": "Farm Progress",
+      "author": "Joshua Baethge",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Wet weather threatens Corn Belt harvest as El Niño looms",
+      "url": "https://www.farmprogress.com/tv-and-radio/wet-weather-threatens-corn-belt-harvest-as-el-ni-o-looms",
+      "summary": "Farm Progress America: Farmers across the Corn Belt face potential harvest delays this week as heavy rainfall is forecast, with 2-4 inches expected from the Dakotas through Ohio.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Should the failed corn hybrid get another shot?",
+      "url": "https://www.farmprogress.com/corn/should-the-failed-corn-hybrid-get-another-shot",
+      "summary": "Corn Corner: The promising corn hybrid failed this year. Assess all factors to decide whether to try it again next season or to move on.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Shrinking supplies keep prospects for $14 soybeans on table",
+      "url": "https://www.farmprogress.com/soybean/shrinking-supplies-keep-prospects-for-14-soybeans-on-table",
+      "summary": "Soybean Outlook: USDA sees the U.S. soybean crop coming in at an all-time high, but tightening supplies could keep prices up into 2027. Are $15 beans possible?",
+      "source": "Farm Progress",
+      "author": "Bruce Blythe",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Dairy farmers feeling the margin squeeze",
+      "url": "https://www.farmprogress.com/livestock-and-dairy/dairy-farmers-feeling-the-margin-squeeze",
+      "summary": "But there are protection tools out there to lessen the pain of falling prices.",
+      "source": "Farm Progress",
+      "author": "Chris Torres",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "How to determine custom harvest rates this fall",
+      "url": "https://www.farmprogress.com/harvest/how-to-determine-custom-harvest-rates-this-fall",
+      "summary": "Rising fuel rates ensure custom harvest rates will be higher than custom fieldwork rates were earlier this year. Here’s how to determine what to charge or pay.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Walker brings farm roots, dedication to Sunbelt Ag Expo experience",
+      "url": "https://www.farmprogress.com/farm-shows/walker-brings-farm-roots-dedication-to-sunbelt-ag-expo-experience",
+      "summary": "The Sunbelt Ag Expo will take place Oct. 20-22 in Moultrie, Ga.",
+      "source": "Farm Progress",
+      "author": "Brad Haire",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Modern irrigation tech saves water, but adoption faces barriers",
+      "url": "https://www.farmprogress.com/management/modern-irrigation-tech-saves-water-but-adoption-faces-barriers",
+      "summary": "Precision agriculture improves efficiency yet requires careful water rights management.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Wolfe family makes century-long commitment to soil health",
+      "url": "https://www.farmprogress.com/conservation-and-sustainability/wolfe-family-makes-century-long-commitment-to-soil-health-",
+      "summary": "The 1,500-acre Fairfield County operation in Ohio showcases how three generations have evolved conservation practices from the 1930s to today.",
+      "source": "Farm Progress",
+      "author": "Jennifer Kiel",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Michigan's Green Vale Farm thrives under female leadership",
+      "url": "https://www.farmprogress.com/farm-life/michigans-green-vale-farm-thrives-under-female-leadership-",
+      "summary": "Barn Spotlight: Heidi VanDyke Hendrickson continues the farm-to-table mission established before the 1920s at Coopersville's iconic property.",
+      "source": "Farm Progress",
+      "author": "Jan Corey Arnett",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "How Vital Farms helps producers build wealth through eggs",
+      "url": "https://www.farmprogress.com/farm-business/how-vital-farms-helps-producers-build-wealth-through-eggs",
+      "summary": "Farmers constantly search for ways to make extra money on the farm. Vital Farms has offered that for hundreds of producers nationwide.",
+      "source": "Farm Progress",
+      "author": "Chris Six",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Fall or spring? Fine-tune your phosphorus, potassium fertilizer applications",
+      "url": "https://www.farmprogress.com/management/fall-or-spring-fine-tune-your-phosphorus-potassium-fertilizer-applications",
+      "summary": "From the Field: You may have some wiggle room on application timing for these two nutrients.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "Turfgrass research explores water savings, year-round quality",
+      "url": "https://www.farmprogress.com/crops/turfgrass-research-explores-water-savings-year-round-quality",
+      "summary": "Researchers from Oklahoma State and Mississippi State universities are testing bluemuda turfgrass, a combination of warm-season bermudagrass and cool-season Kentucky bluegrass, for year-round green turf.",
+      "source": "Farm Progress",
+      "author": "Alisa Boswell-Gore",
+      "date": "2026-09-22",
+      "collected": "2026-09-23"
+    },
+    {
+      "headline": "[Podcast] Using Technology to Build More Profitable Ranches for Generations to Come",
+      "url": "https://www.agproud.com/articles/64182-podcast-using-technology-to-build-more-profitable-ranches-for-generations-to-come",
+      "summary": "In this episode, CERES TAG’s Global Commercial Manager Siobhan Smith sits down with midwest U.S. Sales Lead Matthew Randerson to discuss how technology and data are shaping the future of the cattle industry.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-22",
+      "collected": "2026-09-23",
+      "body_file": "articles/82f42dcda7690aec.txt"
+    },
+    {
+      "headline": "[Podcast] Tara Hill and Emma Hill-Macmillan: A mother-daughter partnership in dairy",
+      "url": "https://www.agproud.com/articles/64180-podcast-tara-hill-and-emma-hill-macmillan-a-mother-daughter-partnership-in-dairy",
+      "summary": "Tara Hill and Emma Hill-Macmillan join guest host Audrey Schmitz in this episode of the Progressive Dairy Podcast to chat about how dairywomen find balance between the farm and caring for their families.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-22",
+      "collected": "2026-09-23",
+      "body_file": "articles/bab5d744360eb327.txt"
     }
   ]
 }
