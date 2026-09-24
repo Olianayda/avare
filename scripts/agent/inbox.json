@@ -1,238 +1,6 @@
 {
   "items": [
     {
-      "headline": "Water conservation can’t work without economic viability",
-      "url": "https://www.farmprogress.com/farm-policy/water-conservation-can-t-work-without-economic-viability",
-      "summary": "Sorghum Focus: We know how to save groundwater; now the conversation turns to how to pay for it.",
-      "source": "Farm Progress",
-      "author": "John Duff",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Promoting U.S.-grown jasmine rice holds key to reducing imports",
-      "url": "https://www.farmprogress.com/rice/promoting-u-s-grown-jasmine-rice-holds-key-to-reducing-imports",
-      "summary": "Jasmine rice is rising in popularity in the United States, but most of it is imported. USA Rice is encouraging consumers, retailers and restaurants to buy U.S.-grown jasmine rice and support American farmers.",
-      "source": "Farm Progress",
-      "author": "Whitney Shannon",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "BEEF Building brings world-class cattle expertise to HHD",
-      "url": "https://www.farmprogress.com/husker-harvest-days/beef-building-brings-world-class-cattle-expertise-to-hhd",
-      "summary": "Daily sessions feature stockmanship and stewardship training, live chute demos and panels with industry experts.",
-      "source": "Farm Progress",
-      "author": "Elizabeth Hodges",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Arkansas soybean harvest expected to be fast and furious",
-      "url": "https://www.farmprogress.com/harvest/arkansas-soybean-harvest-expected-to-be-fast-and-furious",
-      "summary": "Arkansas soybean, corn, and rice harvests progress ahead of historical averages.",
-      "source": "Farm Progress",
-      "author": "Mary Hightower",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Nebraska FFA vice president gives soybean update",
-      "url": "https://www.farmprogress.com/soybean/nebraska-ffa-vice-president-gives-soybean-update",
-      "summary": "Field Check: Levi Othmer manages corn, soybeans and cattle near Tecumseh, while being an FFA leader and preparing for college.",
-      "source": "Farm Progress",
-      "author": "Elizabeth Hodges",
-      "date": "2026-09-02",
-      "collected": "2026-09-03"
-    },
-    {
-      "headline": "Class III milk price rebounds in August as others fall",
-      "url": "https://www.agproud.com/articles/64089-class-iii-milk-price-rebounds-in-august-as-others-fall",
-      "summary": "For the first time all summer, the Class III milk price rose in August. After nearing one of the lowest prices of the year to date in July, the August Class III milk price climbed $1.12 per hundredweight (cwt) to $16.64 per cwt.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-02",
-      "collected": "2026-09-03",
-      "body_file": "articles/c73706916dfba57e.txt"
-    },
-    {
-      "headline": "U.S.-Mexico border reopens to live cattle imports",
-      "url": "https://www.agproud.com/articles/64026-us-mexico-border-reopens-to-live-cattle-imports",
-      "summary": "On Aug. 24, the port of entry in Douglas, Arizona, resumed imports of live cattle, bison and horses from Mexico. It is the first step in a planned phased reopening of live cattle trade between the two countries that was halted in May 2025 due to concerns over the northward spread of New World screwworm.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-02",
-      "collected": "2026-09-03",
-      "body_file": "articles/b88d18f7e2763952.txt"
-    },
-    {
-      "headline": "The cost of ‘Just one more day’: Why execution beats emotion",
-      "url": "https://www.agproud.com/articles/64076-the-cost-of-just-one-more-day-why-execution-beats-emotion",
-      "summary": "In the current cattle market, the greatest threat to many producers isn't a sudden price drop – it is the cost of inaction. Many operations treat risk management like a speculative trade, waiting for the perfect moment to capture the absolute peak of the market. Waiting for an ideal market scenario leaves equity exposed to sudden, unforgiving downturns.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-04",
-      "collected": "2026-09-04",
-      "body_file": "articles/2f35ff7dc6604433.txt"
-    },
-    {
-      "headline": "Processor default: What happens when the milk check stops coming?",
-      "url": "https://www.agproud.com/articles/64056-processor-default-what-happens-when-the-milk-check-stops-coming",
-      "summary": "Processors fail for all kinds of reasons: debt, consolidation, mismanagement, market shifts. How dairy producers respond in those early days can make a difference in whether they can recover what they are owed or not.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-04",
-      "collected": "2026-09-04",
-      "body_file": "articles/c97cd97140e11556.txt"
-    },
-    {
-      "headline": "Safety at the silage pile",
-      "url": "https://www.agproud.com/articles/64004-safety-at-the-silage-pile",
-      "summary": "Complacency. We all let it seep in on occasion. When you do something thousands of times without incident, it’s easy to forget that some of the stuff we do can be dangerous. Of course, the occasional slip of the pocketknife or snot-blowing mama cow will wake you up and remind you to pay attention – at least until you get complacent again.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-04",
-      "collected": "2026-09-04",
-      "body_file": "articles/29957e9163fa84ce.txt"
-    },
-    {
-      "headline": "Basics of trading grain futures and options",
-      "url": "https://www.agproud.com/articles/63939-basics-of-trading-grain-futures-and-options",
-      "summary": "Farmers are continually interested in identifying new ways to improve their profitability and reduce risk, especially in the challenging market environment that has been observed over the past couple of years of declining crop sales prices and increasing input costs.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-04",
-      "collected": "2026-09-04",
-      "body_file": "articles/f7e397ecf8d8d975.txt"
-    },
-    {
-      "headline": "Slow down to speed up: Improve milking parlor throughput with proper stimulation",
-      "url": "https://www.agproud.com/articles/63170-slow-down-to-speed-up-improve-milking-parlor-throughput-with-proper-stimulation",
-      "summary": "Efficiency matters everywhere. Parlor throughput, labor utilization and cow flow are constant conversations on dairies of every size. Yet in the pursuit of speed, we sometimes sacrifice the very thing that creates it. If we truly want to speed up the parlor, we first have to slow down.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-04",
-      "collected": "2026-09-04",
-      "body_file": "articles/4d681947292189ca.txt"
-    },
-    {
-      "headline": "U.S. beef and pork opportunity cuts gain traction in Colombia",
-      "url": "https://www.beefmagazine.com/market-news/u-s-beef-and-pork-opportunity-cuts-gain-traction-in-colombia",
-      "summary": "Strategy to promote U.S. chuck roll and Boston butt leads to new foodservice product concept for sharing platters.",
-      "source": "Beef Magazine",
-      "author": "U.S. Meat Export Federation",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "Tyson revises 2026 outlook due to Beef segment pressure",
-      "url": "https://www.beefmagazine.com/market-news/tyson-revises-2026-outlook-due-to-beef-segment-pressure",
-      "summary": "Update driven by significant margin compression amid volatile cattle prices and severe U.S. cattle shortage.",
-      "source": "Beef Magazine",
-      "author": "Industry Release",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "Turnkey Financial streamlines feedyard accounting and reporting",
-      "url": "https://www.beefmagazine.com/farm-business-management/turnkey-financial-streamlines-feedyard-accounting-and-reporting",
-      "summary": "Software platform combines multiple accounting functions into a seamless, integrated experience.",
-      "source": "Beef Magazine",
-      "author": "Industry Release",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "August 2026 is a wrap",
-      "url": "https://www.beefmagazine.com/farm-business-management/august-2026-is-a-wrap",
-      "summary": "A recap of news and notes swirling around U.S. cattle country as we saw the month of August blow by.",
-      "source": "Beef Magazine",
-      "author": "Clint Peck",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "Farm Progress Show weathers storms, showcases ag innovation",
-      "url": "https://www.farmprogress.com/farm-progress-show/farm-progress-show-weathers-storms-showcases-ag-innovation",
-      "summary": "Slideshow: Despite economic headwinds and stormy weather, the show highlighted emerging technologies and signs of market recovery as farmers and manufacturers connected over precision ag solutions.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "Top Tips: Prep harvest marketing strategies before combines roll",
-      "url": "https://www.farmprogress.com/management/top-tips-prep-harvest-marketing-strategies-before-combines-roll",
-      "summary": "September may prove to be a huge month for settling any unresolved 2026 grain decisions.",
-      "source": "Farm Progress",
-      "author": "Ben Potter, Pam Caraway",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "Our best bites from FPS 2026",
-      "url": "https://www.farmprogress.com/farm-progress-show/our-best-bites-from-fps-2026",
-      "summary": "Farm Progress Show: This year’s event didn’t just showcase cutting-edge agriculture — it also brought the flavor. Here are food highlights that made this year’s event even more memorable.",
-      "source": "Farm Progress",
-      "author": "Raney Rapp, Ava Splear",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "Iowa farmer preserves Minneapolis-Moline legacy at Farm Progress Show",
-      "url": "https://www.farmprogress.com/farm-progress-show/iowa-farmer-preserves-minneapolis-moline-legacy-at-farm-progress-show",
-      "summary": "Farm Progress Show: Dale Frahm showcased his restored 1959 4 Star tractor on Antique Row, preserving agricultural history one machine at a time.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "Is $6 or $7 corn really possible? What farmers need to know now",
-      "url": "https://www.farmprogress.com/farm-progress-show/is-6-or-7-corn-really-possible-what-farmers-need-to-know-now",
-      "summary": "Farm Progress Show: Grain marketing shouldn’t be about timing perfection. Three experts explain why knowing your breakevens and building a plan beats chasing the highest price.",
-      "source": "Farm Progress",
-      "author": "Chris Torres",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "Will soybean rally continue through September?",
-      "url": "https://www.farmprogress.com/marketing/will-soybean-rally-continue-through-september-",
-      "summary": "Ag Marketing IQ: Stay tuned to markets and price opportunities by looking at these four fundamentals. Mixed ideas on soybean yield are the backdrop to solid demand.",
-      "source": "Farm Progress",
-      "author": "Naomi Blohm",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "Fordyce says GOP leaders motivated to pass farm bill",
-      "url": "https://www.farmprogress.com/farm-progress-show/fordyce-says-gop-leaders-motivated-to-pass-farm-bill",
-      "summary": "USDA Undersecretary Richard Fordyce said higher ARC and PLC payments are still set to go out in October.",
-      "source": "Farm Progress",
-      "author": "Joshua Baethge",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "PTx unveils ArrowTube and expands into autonomous tillage",
-      "url": "https://www.farmprogress.com/farm-progress-show/ptx-unveils-arrowtube-and-expands-into-autonomous-tillage",
-      "summary": "Farm Progress Show: ArrowTube uses engineered friction and centrifugal force to position corn seeds tip forward for optimal growth.",
-      "source": "Farm Progress",
-      "author": "Chris Torres",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
-      "headline": "Rancher First initiative: Band-Aid or breakthrough for beef producers?",
-      "url": "https://www.farmprogress.com/farm-policy/rancher-first-initiative-band-aid-or-breakthrough-for-beef-producers-",
-      "summary": "Industry experts call USDA's five-point plan a step in the right direction, but many details need clarification before ranchers see real profitability gains.",
-      "source": "Farm Progress",
-      "author": "Elizabeth Hodges",
-      "date": "2026-09-03",
-      "collected": "2026-09-04"
-    },
-    {
       "headline": "New Holland unveils new Workmaster models, AI camera for real-time forage monitoring",
       "url": "https://www.farmprogress.com/farm-progress-show/new-holland-unveils-new-workmaster-models-ai-camera-for-real-time-forage-monitoring",
       "summary": "Farm Progress Show: The new tractor models offer power, lift capacity and versatility, a New Holland product specialist said. They also come in a new color.",
@@ -3718,6 +3486,241 @@
       "date": "2026-09-22",
       "collected": "2026-09-23",
       "body_file": "articles/bab5d744360eb327.txt"
+    },
+    {
+      "headline": "Should dairy farmers consider feeding market cows before sending them to slaughter?",
+      "url": "https://www.agproud.com/articles/64094-should-dairy-farmers-consider-feeding-market-cows-before-sending-them-to-slaughter",
+      "summary": "Each year, about 30% to 40% of dairy cows in Canada are replaced and typically sold for slaughter. However, how farmers handle these animals during their final weeks raises important questions about both animal welfare and farm economics.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-24",
+      "collected": "2026-09-24",
+      "body_file": "articles/e24016282f24230a.txt"
+    },
+    {
+      "headline": "Important design elements to consider when retrofitting a barn for automated milking to maximize efficiency",
+      "url": "https://www.agproud.com/articles/64055-important-design-elements-to-consider-when-retrofitting-a-barn-for-automated-milking-to-maximize-efficiency",
+      "summary": "Successful retrofitting of barns for automated milking depends not on the technology itself but on a well-planned redesign of the barn environment and work routines.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-24",
+      "collected": "2026-09-24",
+      "body_file": "articles/8f40c9db8bff08b4.txt"
+    },
+    {
+      "headline": "October 2026 new product rollout",
+      "url": "https://www.agproud.com/articles/64023-october-2026-new-product-rollout",
+      "summary": "Check out the latest agricultural products from Kuhn North America, John Deere, Case IH and JCB.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-24",
+      "collected": "2026-09-24",
+      "body_file": "articles/bdc81999f762e7bc.txt"
+    },
+    {
+      "headline": "The Outside Circle: A carnivore's manifesto",
+      "url": "https://www.agproud.com/blogs/22-the-outside-circle/post/64100-the-outside-circle-a-carnivores-manifesto",
+      "summary": "For three generations, Americans were told that animal fat is bad for you. After college, my sedentary pudge needed to go. I am ashamed to admit it, but I drained the fat from my browned hamburger. I destroyed my septic system and didn’t lose a single pound. It wasn’t the fat making me fat – it was my finishing ration of beer and other carbs.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-24",
+      "collected": "2026-09-24",
+      "body_file": "articles/1ef866d5374a6e06.txt"
+    },
+    {
+      "headline": "Where does the profit come from in automated milking?",
+      "url": "https://www.agproud.com/articles/63954-where-does-the-profit-come-from-in-automated-milking",
+      "summary": "Few decisions influence the long-term economics of a dairy as much as investing in an automated milking system. Before purchasing milking robots, producers should ask one simple question: Will this investment generate enough additional profit to justify its cost?",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-24",
+      "collected": "2026-09-24",
+      "body_file": "articles/c0a936bb838a8636.txt"
+    },
+    {
+      "headline": "Les leçons de la ferme au service du hockey",
+      "url": "https://www.agproud.com/articles/63778-les-lecons-de-la-ferme-au-service-du-hockey",
+      "summary": "Le lien entre l'agriculture et le sport professionnel n'est pas toujours perçu comme une relation directe. L'exception se trouve peut-être chez-nous, où de nombreux joueurs de hockey ont grandi à la ferme familiale et ont puisé dans leur éducation pour forger leur carrière.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-24",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "Cattle futures drop on export rumors",
+      "url": "https://www.beefmagazine.com/market-news/cattle-futures-drop-on-export-rumors",
+      "summary": "Despite significant futures losses, cash markets remain firm as September placements fall 10% below last year, signaling tighter cattle supplies ahead",
+      "source": "Beef Magazine",
+      "author": "Abby Greiman",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "Export ban rumors quelled—for now",
+      "url": "https://www.beefmagazine.com/policy/export-ban-rumors-quelled-for-now",
+      "summary": "Scattered rumors of beef, diesel, and fertilizer export bans are keeping commodity traders and agricultural industry watchdogs on their toes.",
+      "source": "Beef Magazine",
+      "author": "Clint Peck",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "New farm math? Compressed margins and trade changes alter financial picture",
+      "url": "https://www.farmprogress.com/farm-business/new-farm-math-compressed-margins-and-trade-changes-alter-financial-picture",
+      "summary": "CoBank’s Jacqui Fatka tells the Women in Agribusiness Summit that weather volatility, government payments and demographic shifts are rewriting farm economics.",
+      "source": "Farm Progress",
+      "author": "Pam Caraway",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "California opens door to E-15, creating major new market",
+      "url": "https://www.farmprogress.com/tv-and-radio/california-opens-door-to-e-15-creating-major-new-market",
+      "summary": "Farm Progress America: Governor Newsom signs bill clearing final barriers for higher ethanol blends in nation's second-largest fuel market, potentially boosting corn demand by 250 million bushels.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "5 reasons why farmland sales are on an uptick",
+      "url": "https://www.farmprogress.com/markets-and-quotes/5-reasons-why-farmland-sales-are-on-an-uptick",
+      "summary": "Land Values: China, weather, drought and war — along with three-year highs in corn and soybean markets — are boosting Iowa farmland sales.",
+      "source": "Farm Progress",
+      "author": "Doug Hensley",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "Cow-calf producers hold advantage despite market turbulence",
+      "url": "https://www.farmprogress.com/commentary/cow-calf-producers-hold-advantage-despite-market-turbulence",
+      "summary": "Ag Marketing IQ In Depth: A small herd and low feeder placements offer price support for cattle ranchers, but rising fuel costs and Mexican imports loom as longer-term concerns impacting profitability.",
+      "source": "Farm Progress",
+      "author": "Pam Caraway",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "Will U.S. wheat exports see boost from Russia-Ukraine conflict?",
+      "url": "https://www.farmprogress.com/wheat/will-u-s-wheat-exports-see-boost-from-russia-ukraine-conflict-",
+      "summary": "Wheat Outlook: Prices are down from a Sept. 2 high but still up year over year. With Black Sea grain bottled up by war, traders wonder when U.S. exports might see a boost.",
+      "source": "Farm Progress",
+      "author": "Bruce Blythe",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "Get paid to test your soil: New USDA program explained",
+      "url": "https://www.farmprogress.com/soil-health/get-paid-to-test-your-soil-new-usda-program-explained",
+      "summary": "The federal cost-share program will pay farmers hundreds for soil health and testing.",
+      "source": "Farm Progress",
+      "author": "Chris Six",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "Seed roulette: What brands are staying and going in 2027",
+      "url": "https://www.farmprogress.com/crops/seed-roulette-what-brands-are-staying-and-going-in-2027",
+      "summary": "Get up to speed on the seed industry's latest shake-up before placing your orders.",
+      "source": "Farm Progress",
+      "author": "Chris Torres",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "Indiana’s weather is changing, but it’s not time to panic",
+      "url": "https://www.farmprogress.com/management/indiana-s-weather-is-changing-but-it-s-not-time-to-panic",
+      "summary": "Back-to-back tornadoes and heavy rainfall events aren’t necessarily cause for concern. But Indiana residents should plan on these extreme events sticking around.",
+      "source": "Farm Progress",
+      "author": "Allison Lynch",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "Farmers pivoting when it comes to Ogallala Aquifer",
+      "url": "https://www.farmprogress.com/farm-operations/farmers-pivoting-when-it-comes-to-ogallala-aquifer",
+      "summary": "Farmers across the Ogallala Aquifer are approaching their water use in different ways to conserve and recharge this valuable water source.",
+      "source": "Farm Progress",
+      "author": "Jennifer M. Latzke, Curt Arens, Shelley E. Huguley",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "Historic cotton gin restoration merges history, modern technology",
+      "url": "https://www.farmprogress.com/cotton/historic-cotton-gin-restoration-merges-history-modern-technology",
+      "summary": "Where Ag Is: A plan originally centered on restoring an old Tennessee cotton gin has led to the creation of a state-of-the-art learning center where residents can reflect on their community’s ag history.",
+      "source": "Farm Progress",
+      "author": "Brent Murphree",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "Drought, extreme temperatures plague Texas crops as summer wraps up",
+      "url": "https://www.farmprogress.com/crops/drought-extreme-temperatures-plague-texas-crops-as-summer-wraps-up",
+      "summary": "Some Texas crops are receiving too little rain, while others are receiving too much. This is further complicated by consecutive days of triple-digit temperatures stressing summer crops and raising concerns for next season.",
+      "source": "Farm Progress",
+      "author": "Kay Ledbetter",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "What’s new in hay equipment for 2026?",
+      "url": "https://www.farmprogress.com/farm-progress-show/whats-new-in-hay-equipment-for-2026",
+      "summary": "Farm Progress Show: Several companies debuted new hay and forage equipment at the 2026 Farm Progress Show. Here are some of the highlights.",
+      "source": "Farm Progress",
+      "author": "Farm Progress staff",
+      "date": "2026-09-23",
+      "collected": "2026-09-24"
+    },
+    {
+      "headline": "Lactanet Gave Murray Hunt Its Distinction Award. He Gave the Room a 3,500-Herd Problem",
+      "url": "https://www.thebullvine.com/breeder-profiles/murray-hunt-lactanet-award/",
+      "summary": "In 1970, Canada had 90,000 dairy herds. By August 2025, there were 9,048. By 2035, there may be just 3,500. Upon receiving Lactanet’s Distinction Award, Murray Hunt challenged the industry: the milk tank can’t pay for the structure we have now. E658 Lactanet Gave Murray Hunt Its Distinction Aw | RSS.com Murray Hunt thanked Neil […] The post Lactanet Gave Murray Hunt Its Distinction Award. He Gave ",
+      "source": "The Bullvine",
+      "author": "Andrew Hunt",
+      "date": "2026-09-23",
+      "collected": "2026-09-24",
+      "body_file": "articles/a01718b438fd4d0d.txt"
+    },
+    {
+      "headline": "Keller Farms Focused on Getting Better, Not Bigger with Full-Farm Automation",
+      "url": "https://www.agproud.com/articles/64167-keller-farms-focused-on-getting-better-not-bigger-with-full-farm-automation",
+      "summary": "For Dan Keller, technology isn’t about replacing good cow people. It’s about giving them the information and automation to make better decisions, act sooner and get more from every cow.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-23",
+      "collected": "2026-09-24",
+      "body_file": "articles/1fd42748644e1fee.txt"
+    },
+    {
+      "headline": "Dairy cow numbers, milk production edge higher in August",
+      "url": "https://www.agproud.com/articles/64184-dairy-cow-numbers-milk-production-edge-higher-in-august",
+      "summary": "Sixteen states, including Texas, Kansas and Wisconsin, boosted milk production a combined 393 million pounds in August.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-23",
+      "collected": "2026-09-24",
+      "body_file": "articles/d9243ef731bf666b.txt"
+    },
+    {
+      "headline": "QualiTru Sampling Systems appoints Keira Lombardo as board chair",
+      "url": "https://www.agproud.com/articles/64172-qualitru-sampling-systems-appoints-keira-lombardo-as-board-chair",
+      "summary": "QualiTru Sampling Systems, a leader in the science of aseptic and representative sampling equipment for the liquid food and dairy industries, announced on Sept. 17 the appointment of Keira L. Lombardo as chair of its board of directors.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-23",
+      "collected": "2026-09-24",
+      "body_file": "articles/bc088ec33a19b7a3.txt"
+    },
+    {
+      "headline": "Dairy Wellbeing Workshop to offer cattle health, pain management tips",
+      "url": "https://www.agproud.com/articles/64183-dairy-wellbeing-workshop-to-offer-cattle-health-pain-management-tips",
+      "summary": "Every decision on today’s dairies can have an impact on animal health, welfare and beef quality. The 2026 Dairy Wellbeing Workshop, presented by Professional Dairy Producers (PDP), includes an exclusive beef processing plant tour for dairy producers and their teams to see firsthand how animal care choices impact beef quality.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-23",
+      "collected": "2026-09-24",
+      "body_file": "articles/9dc94c1d9cebcf17.txt"
     }
   ]
 }
