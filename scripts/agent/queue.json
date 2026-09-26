@@ -414,6 +414,33 @@
       "image_url": "",
       "added": "2026-09-25T06:34:00.000Z",
       "author": "Andrew Hunt"
+    },
+    {
+      "id": 33,
+      "status": "ready",
+      "headline": "Important design elements to consider when retrofitting a barn for automated milking to maximize efficiency",
+      "url": "https://www.agproud.com/articles/64055-important-design-elements-to-consider-when-retrofitting-a-barn-for-automated-milking-to-maximize-efficiency",
+      "source": "Progressive Dairy",
+      "category": "ai-livestock",
+      "summary": "Barn design specialist Antti Puuri finds labor efficiency on retrofitted robotic-milking farms varies from 1.8 to 14.6 minutes per cow per day, driven by alley width, cow flow and work-routine planning rather than the robots themselves.",
+      "date": "2026-09-24",
+      "post_text": "Barn design, not the robot, decided an eightfold gap in daily labor: 1.8 to 14.6 minutes per cow.\n\nAntti Puuri, a barn design specialist, writes in Progressive Dairy this week about retrofitting barns for automated milking. His research measured labor efficiency across farms running similar robotic systems, and the range ran from 1.8 to 14.6 minutes per cow daily.\n\nTechnology could not explain that spread. The variable was the barn itself, from alley width to cow flow to whether work routines got planned before construction began. Puuri recommends alleys of 3 to 4.2 meters so cows reach the robot without crowding. Fetch pens and gating systems decide whether workers still chase cows that skip a voluntary visit.\n\nPuuri sums it up plainly: \"You do not just design a barn, you design your everyday work.\"\n\nThe same pattern shows up wherever a tool gets bolted onto an old process. The tool rarely fails. The process around it goes unbuilt.\n\nWhere in your operation is a good tool sitting inside a process nobody redesigned?\n\n#dairyfarming #automatedmilking #precisionlivestock #barndesign #dairytech",
+      "image_url": "",
+      "added": "2026-09-26T06:33:07.000Z",
+      "author": "Antti Puuri"
+    },
+    {
+      "id": 34,
+      "status": "ready",
+      "headline": "Keller Farms Focused on Getting Better, Not Bigger with Full-Farm Automation",
+      "url": "https://www.agproud.com/articles/64167-keller-farms-focused-on-getting-better-not-bigger-with-full-farm-automation",
+      "source": "Progressive Dairy",
+      "category": "reproduction",
+      "summary": "Keller Farms (1,100 cows) cut displaced abomasum cases roughly 50% and hit a 60% conception rate and 40-42% pregnancy rate, recognized by the Dairy Cattle Reproduction Council in 2024, by layering Afimilk monitoring tech across health, feed and breeding decisions.",
+      "date": "2026-09-23",
+      "post_text": "A 1,100-cow family dairy cut displaced abomasum cases by half and reached a 60% conception rate, without adding people.\n\nDan Keller runs Keller Farms with his family, a 90-year-old operation that grew from 300 to 1,100 cows on his watch. Progressive Dairy profiled how the farm layers monitoring tech, AfiLab milk analysis, AfiCollar activity and feed-intake sensors, into one connected view.\n\nThe payoff shows first in fresh cows. Watching milk component trends catches a displaced abomasum early, cutting cases by roughly 50%. Reproduction improved the same way. The farm now averages a 60% conception rate and a 40 to 42% pregnancy rate, work recognized by the Dairy Cattle Reproduction Council in 2024. Keller uses sexed sеmen only on his most feed-efficient cows, breeding the rest to beef.\n\nKeller is clear the technology gets no credit alone. Forage, comfort and the breeder's skill still decide the outcome. The system just narrows 1,100 cows to the few that need a look today.\n\nWhere does your own herd data narrow things down to the ones that matter today?\n\n#reproduction #dairyfarming #sеmen #precisionlivestock #dairygenetics",
+      "image_url": "",
+      "added": "2026-09-26T06:33:07.000Z"
     }
   ],
   "log": [
