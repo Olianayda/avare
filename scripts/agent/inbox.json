@@ -1,243 +1,6 @@
 {
   "items": [
     {
-      "headline": "Garden from scratch? Not so easy",
-      "url": "https://www.farmprogress.com/farm-life/garden-from-scratch-not-so-easy",
-      "summary": "Through the Garden Gate: If you’ve moved to a new location and want to start a garden, you better limit those expectations.",
-      "source": "Farm Progress",
-      "author": "Mindy Ward",
-      "date": "2026-09-04",
-      "collected": "2026-09-05"
-    },
-    {
-      "headline": "Pod count drives soybean yields, not seed per pod",
-      "url": "https://www.farmprogress.com/soybean/pod-count-drives-soybean-yields-not-seed-per-pod",
-      "summary": "Soybean Watch: Don’t kick yourself for only having pods with two or three seeds. Rather, focus on pod count when pushing for max yields.",
-      "source": "Farm Progress",
-      "author": "Allison Lynch",
-      "date": "2026-09-04",
-      "collected": "2026-09-05"
-    },
-    {
-      "headline": "Nebraska Farmer launches Master Farmer and Rancher program",
-      "url": "https://www.farmprogress.com/farm-business/nebraska-farmer-launches-master-farmer-and-rancher-program",
-      "summary": "For the first time in 90 years, the magazine will honor the cream of the crop through its program.",
-      "source": "Farm Progress",
-      "author": "Curt Arens",
-      "date": "2026-09-04",
-      "collected": "2026-09-05"
-    },
-    {
-      "headline": "Slotkin tours Michigan dairy facility, hears growing concerns from ag industry",
-      "url": "https://www.farmprogress.com/dairy-cattle/slotkin-tours-mmpa-facility-hears-growing-concerns-from-ag-industry",
-      "summary": "Sen. Elissa Slotkin, D-Mich., pushed for immigration reform, farm bill passage and tariff relief following a recent Michigan ag tour.",
-      "source": "Farm Progress",
-      "author": "Jennifer Kiel",
-      "date": "2026-09-04",
-      "collected": "2026-09-05"
-    },
-    {
-      "headline": "Experience live hay demonstrations at Husker Harvest Days",
-      "url": "https://www.farmprogress.com/husker-harvest-days/experience-live-hay-demonstrations-at-husker-harvest-days",
-      "summary": "See cutting-edge mowers, rakes, windrowers and balers in action while experts answer your questions and share tips for harvesting success.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-09-04",
-      "collected": "2026-09-05"
-    },
-    {
-      "headline": "Cut irrigation costs: MSU brings free testing to your farm",
-      "url": "https://www.farmprogress.com/management/cut-irrigation-costs-msu-brings-free-testing-to-your-farm",
-      "summary": "Experts will evaluate your equipment, recommend upgrades and help you access cost-sharing programs.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-09-04",
-      "collected": "2026-09-05"
-    },
-    {
-      "headline": "Balance soil health and wildlife conservation",
-      "url": "https://www.farmprogress.com/soil-health/balance-soil-health-and-wildlife-conservation",
-      "summary": "Digging Deeper: Managing for diversity, whether it is aboveground or belowground, is crucial to building healthy rural landscapes and farms.",
-      "source": "Farm Progress",
-      "author": "Rebecca Kern-Lunbery",
-      "date": "2026-09-04",
-      "collected": "2026-09-05"
-    },
-    {
-      "headline": "Every Tuesday Dann Brady Throws Out Bulls He Likes. One of Them Wasn’t Logic PP",
-      "url": "https://www.thebullvine.com/genetics-breeding/every-tuesday-dann-brady-throws-out-bulls-he-likes-one-of-them-wasnt-logic-pp/",
-      "summary": "The screen kills bulls the team genuinely wants. It also produced Canada’s #1 Newly Proven GLPI sire — and a 70-head sale that cleared at €6,729. E644 Every Tuesday Dann Brady Throws Out Bulls He | RSS.com Nicolas Lalande answered the question in French, and the translation landed harder than the original. He’s looking for […] The post Every Tuesday Dann Brady Throws Out Bulls He Likes. One of The",
-      "source": "The Bullvine",
-      "author": "Andrew Hunt",
-      "date": "2026-09-04",
-      "collected": "2026-09-05",
-      "body_file": "articles/df610f3c064ed28a.txt"
-    },
-    {
-      "headline": "This Week in Agribusiness, September 5, 2026",
-      "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-september-5-2026",
-      "summary": "USDA unveils AI-driven data modernization, while farmers explore cutting-edge equipment, agronomy solutions and more at Farm Progress Show in Iowa.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-09-05",
-      "collected": "2026-09-06"
-    },
-    {
-      "headline": "FFA Chapter Tribute: Nora Pickhinke",
-      "url": "https://www.farmprogress.com/ffa-chapter-tribute/ffa-chapter-tribute-nora-pickhinke",
-      "summary": "Iowa FFA State President, shares her journey into agricultural leadership at the 2026 Farm Progress Show.",
-      "source": "Farm Progress",
-      "author": "",
-      "date": "2026-09-05",
-      "collected": "2026-09-06"
-    },
-    {
-      "headline": "Farm tech outperforms humans through consistency, not skill",
-      "url": "https://www.farmprogress.com/farming-equipment/farm-tech-outperforms-humans-through-consistency-not-skill",
-      "summary": "Farmer Iron: Automation’s advantage lies in tireless precision across entire seasons.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-09-05",
-      "collected": "2026-09-06"
-    },
-    {
-      "headline": "Winterize pivots now or pay much more later",
-      "url": "https://www.farmprogress.com/farming-equipment/winterize-pivots-now-or-pay-much-more-later",
-      "summary": "Central Valley Irrigation staff winterize 2,100 pivots annually. Here’s what they’ve learned about preventing costly breakdowns.",
-      "source": "Farm Progress",
-      "author": "Andy Castillo",
-      "date": "2026-09-05",
-      "collected": "2026-09-06"
-    },
-    {
-      "headline": "Make the fall window pay twice",
-      "url": "https://www.agproud.com/articles/64013-make-the-fall-window-pay-twice",
-      "summary": "Seed promptly after harvest to capture fall forage without sacrificing soil cover or next‑crop performance.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-07",
-      "collected": "2026-09-07",
-      "body_file": "articles/041575ed894cbccf.txt"
-    },
-    {
-      "headline": "Milk from Family Dairies Act of 2026 aims to improve stability for family dairy farms",
-      "url": "https://www.agproud.com/articles/64006-milk-from-family-dairies-act-of-2026-aims-to-improve-stability-for-family-dairy-farms",
-      "summary": "In June, two Senators introduced the Milk from Family Dairies Act of 2026, which aims to improve market transparency, stabilize the dairy market, better align supply with domestic demand, and provide investment and incentives to rebuild regional dairy infrastructure.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-07",
-      "collected": "2026-09-07",
-      "body_file": "articles/32c63b61c297adff.txt"
-    },
-    {
-      "headline": "Mineral supplementation strategies for beef cattle",
-      "url": "https://www.agproud.com/articles/63964-mineral-supplementation-strategies-for-beef-cattle",
-      "summary": "Trace minerals can be offered to cattle in a number of ways: injectable, loose free-choice, trace mineral-fortified salt block, or energy/protein trace mineral-fortified supplement. Each method has its own advantages and disadvantages in administration.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-07",
-      "collected": "2026-09-07",
-      "body_file": "articles/58bef190bb9cecde.txt"
-    },
-    {
-      "headline": "Creating a walking surface suitable for dairy cattle",
-      "url": "https://www.agproud.com/articles/63955-creating-a-walking-surface-suitable-for-dairy-cattle",
-      "summary": "The durability of concrete makes it the preferred choice for walking surfaces in dairy shelters, but careful consideration must be given to the quality, strength and finish to create a surface suitable for dairy cattle.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-07",
-      "collected": "2026-09-07",
-      "body_file": "articles/60ece9e9d9cbe346.txt"
-    },
-    {
-      "headline": "The real value of farm and ranch recordkeeping",
-      "url": "https://www.agproud.com/articles/63940-the-real-value-of-farm-and-ranch-recordkeeping",
-      "summary": "Root says “He who has good records and a clean equipment yard wins.” Those are the farms and ranches that get preferential treatment with banks and lenders, command premium land prices and find greatest financial success overall.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-07",
-      "collected": "2026-09-07",
-      "body_file": "articles/af1c4d9fa28aca1b.txt"
-    },
-    {
-      "headline": "Time for safety, a season for awareness",
-      "url": "https://www.agproud.com/blogs/7-progressive-forage-editor-s-notes/post/63928-time-for-safety-a-season-for-awareness",
-      "summary": "A split‑second decision during fall harvest can change everything – National Farm Safety and Health Week is a reminder to slow the rush, not the work.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-07",
-      "collected": "2026-09-07",
-      "body_file": "articles/b616079d520b2ce1.txt"
-    },
-    {
-      "headline": "24 Cows Built Half the Holstein Breed. The Other Half Came from One Ontario Barn.",
-      "url": "https://www.thebullvine.com/people-legacy/24-cows-built-half-the-holstein-breed-the-other-half-came-from-one-ontario-barn/",
-      "summary": "Twenty-four cows nobody else wanted from Kansas. One stubborn Ontario dairyman who used an outcross bull exactly once. Between them: 99.84% of every A.I. sire in your barn tonight. E645 24 Cows Built Half the Holstein Breed. The Ot | RSS.com In 1947, at the Wisconsin State Reformatory in Green Bay, a bull calf was […] The post 24 Cows Built Half the Holstein Breed. The Other Half Came from One Ont",
-      "source": "The Bullvine",
-      "author": "Andrew Hunt",
-      "date": "2026-09-06",
-      "collected": "2026-09-07",
-      "body_file": "articles/76e2fbc8ec3d4133.txt"
-    },
-    {
-      "headline": "Where’s all the beef coming from?",
-      "url": "https://www.agproud.com/articles/64051-wheres-all-the-beef-coming-from",
-      "summary": "Beef has been making headlines a lot lately. Tight supplies, the smallest beef cow herd in decades, New World screwworm and concerns from the White House about beef prices at the grocery store. For one reason or another, “beef” has become a trending topic in the media – and rightfully so.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-08",
-      "collected": "2026-09-08",
-      "body_file": "articles/7964e0da696433c3.txt"
-    },
-    {
-      "headline": "Bring next-generation technology to the parlor you already own",
-      "url": "https://www.agproud.com/articles/64005-bring-next-generation-technology-to-the-parlor-you-already-own",
-      "summary": "The conversation around dairy technology often focuses on what is new – new facilities, new systems and new ways to milk cows. But for many producers, the bigger opportunity is making the most of the parlor they already have.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-08",
-      "collected": "2026-09-08",
-      "body_file": "articles/10288c72ed8f446f.txt"
-    },
-    {
-      "headline": "Apples to apples: Common issues with financial benchmarking",
-      "url": "https://www.agproud.com/articles/63956-apples-to-apples-common-issues-with-financial-benchmarking",
-      "summary": "To find the numbers that drive profitability and make benchmarking actionable, producers must look beyond the surface numbers and understand the structural differences that impact peer-group data.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-08",
-      "collected": "2026-09-08",
-      "body_file": "articles/7bc8cb55dfea06be.txt"
-    },
-    {
-      "headline": "Out of the splash zone: How automated hygiene mats compare to traditional footbaths",
-      "url": "https://www.agproud.com/articles/63947-out-of-the-splash-zone-how-automated-hygiene-mats-compare-to-traditional-footbaths",
-      "summary": "A study out of Quebec investigated whether swapping traditional footbaths for automated hygiene mats at the exit of automated milking systems could save labour and chemical exposure while maintaining healthy hooves. Read about the results.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-08",
-      "collected": "2026-09-08"
-    },
-    {
-      "headline": "September 5, 2026 Progressive Cattle-Canada digital magazine",
-      "url": "https://www.agproud.com/articles/64097-september-5-2026-progressive-cattle-canada-digital-magazine",
-      "summary": "The latest issue of Progressive Cattle-Canada magazine is available. To view, make sure you're logged into your agproud.com account. If you do not have access, click “Subscribe” in the top-right corner of agproud.com to add permission to view.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-07",
-      "collected": "2026-09-08"
-    },
-    {
-      "headline": "3 minutes avec Marie-Louise Lemire",
-      "url": "https://www.agproud.com/articles/63480-3-minutes-avec-marie-louise-lemire",
-      "summary": "Il est important de continuer de se former, de se mettre au défi et d’aller à la rencontre d’autres humains. De découvrir d’autres façons de faire.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-07",
-      "collected": "2026-09-08",
-      "body_file": "articles/e0759ea6c024f50e.txt"
-    },
-    {
       "headline": "COOL: The big, beautiful nothing of an executive order",
       "url": "https://www.beefmagazine.com/policy/cool-the-big-beautiful-nothing-of-an-executive-order",
       "summary": "Zero substance, nothing to see here. Nevertheless, several things come to mind surrounding all this noise.",
@@ -3723,6 +3486,232 @@
       "date": "2026-09-24",
       "collected": "2026-09-25",
       "body_file": "articles/f6a721e3627033d3.txt"
+    },
+    {
+      "headline": "World Dairy Expo: Opening new doors for dairy",
+      "url": "https://www.agproud.com/articles/64049-world-dairy-expo-opening-new-doors-for-dairy",
+      "summary": "All throughout the dairy industry, one can find opportunity to learn, network and build upon their careers in the industry. But there is no place quite like World Dairy Expo, where the doors to opportunity are limitless.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-26",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Repenser la gestion des risques dans le secteur laitier canadien : pourquoi le moment et la formule choisie comptent plus que jamais",
+      "url": "https://www.agproud.com/articles/63768-repenser-la-gestion-des-risques-dans-le-secteur-laitier-canadien-pourquoi-le-moment-et-la-formule-choisie-comptent-plus-que-jamais",
+      "summary": "Le risque a toujours fait partie de l'agriculture, mais pour les producteurs laitiers canadiens, la nature de ce risque évolue. Revoir les stratégies de gestion des risques existantes, comprendre l'objectif des programmes et réévaluer les décisions de participation sont des mesures concrètes que les producteurs peuvent prendre dès aujourd'hui.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-26",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Herd health playbook: Vaccines and VCPR",
+      "url": "https://www.beefmagazine.com/livestock-management/herd-health-playbook-vaccines-and-vcpr",
+      "summary": "Texas A&M expert explains vaccination schedules, preventative care strategies, and why establishing a veterinary relationship matters for your livestock.",
+      "source": "Beef Magazine",
+      "author": "Texas A&M University",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Angus Genetics, Inc. gathers breeders, industry, academia",
+      "url": "https://www.beefmagazine.com/farm-business-management/angus-genetics-inc-gathers-breeders-industry-academia",
+      "summary": "AGI’s Beef Genetics Forum hosted a cross-section of the beef industry to discuss optimizing genetics and management for full supply chain profitability.",
+      "source": "Beef Magazine",
+      "author": "Industry Release",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Spring Calving Starts In the Fall",
+      "url": "https://www.beefmagazine.com/livestock-management/spring-calving-starts-in-the-fall",
+      "summary": "Dr. Robin Falkner, beef cattle technical consultant, unpacks a simple truth that can change your whole year: spring calving starts in the fall",
+      "source": "Beef Magazine",
+      "author": "Sarah Muirhead",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "USDA announces $50M to boost state meat inspection programs",
+      "url": "https://www.farmprogress.com/tv-and-radio/usda-announces-50m-to-boost-state-meat-inspection-programs",
+      "summary": "Farm Progress America: Secretary Brooke Rollins unveils Stand Up program to help states expand local processing options and strengthen cattle markets.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "What will the farm of the future look like?",
+      "url": "https://www.farmprogress.com/husker-harvest-days/what-will-the-farm-of-the-future-look-like-",
+      "summary": "Acres to Income: 13 ag tech startup companies launch solutions to ag’s biggest problems in Nebraska.",
+      "source": "Farm Progress",
+      "author": "Sarah McNaughton-Peterson, Curt Arens",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Puzzled by cover crops? How to prevail",
+      "url": "https://www.farmprogress.com/cover-crops/puzzled-by-cover-crops-how-to-prevail",
+      "summary": "Water Woes: Cover crops have abundant advantages, but they also come with agronomic and management challenges. Here’s how to persevere to obtain those perks.",
+      "source": "Farm Progress",
+      "author": "Gil Gullickson",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "How to optimize N rates for clean water without cutting yields",
+      "url": "https://www.farmprogress.com/management/how-to-optimize-n-rates-for-clean-water-without-cutting-yields",
+      "summary": "Water Woes: Taking advantage of “free” nitrogen and in-season applications helps these Iowa farmers get the most bang for their buck.",
+      "source": "Farm Progress",
+      "author": "Gil Gullickson",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Water quality regulation may be on horizon in Iowa",
+      "url": "https://www.farmprogress.com/farm-policy/water-quality-regulation-may-be-on-horizon-in-iowa",
+      "summary": "Water Woes: Regulation is one option. So are incentives and disincentives proposed by ‘The Lobe Rangers.’",
+      "source": "Farm Progress",
+      "author": "Gil Gullickson",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Why this quiet tax credit could spur a clean water revolution",
+      "url": "https://www.farmprogress.com/farm-policy/why-this-quiet-tax-credit-could-spur-a-clean-water-revolution",
+      "summary": "Water Woes: Premiums gleaned by farmers who grow low-carbon fuels as part of Section 45Z of the Inflation Reduction Act of 2022 could fuel unprecedented growth of clean-water farming practices.",
+      "source": "Farm Progress",
+      "author": "Gil Gullickson",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Maryland’s newest dry mix fertilizer facility built for speed",
+      "url": "https://www.farmprogress.com/farm-operations/maryland-s-newest-dry-mix-fertilizer-facility-built-for-speed",
+      "summary": "The Mill’s facility triples loading speed to serve more farmers despite persistent price pressures.",
+      "source": "Farm Progress",
+      "author": "Chris Torres",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "U.S., Argentine farmers diverge sharply on AI benefits for ag",
+      "url": "https://www.farmprogress.com/technology/u-s-argentine-farmers-diverge-sharply-on-ai-benefits-for-ag",
+      "summary": "Two countries, two outlooks: Here is what farmers really think about artificial intelligence on the farm.",
+      "source": "Farm Progress",
+      "author": "Jennifer Kiel",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "What happens when good neighbors turn bad",
+      "url": "https://www.farmprogress.com/farm-business/what-happens-when-good-neighbors-turn-bad",
+      "summary": "Legal Matters: You can maintain some control over what happens to land after you sell it by setting rules in writing.",
+      "source": "Farm Progress",
+      "author": "Jaxsen R. Schermacher",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "What kept me rooted in a long journey to becoming a father",
+      "url": "https://www.farmprogress.com/farm-life/what-kept-me-rooted-in-a-long-journey-to-becoming-a-father",
+      "summary": "Show-Me That: I’m excited to watch our daughter grow, share my interests and see what her interests turn out to be.",
+      "source": "Farm Progress",
+      "author": "Chris Six",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Farm succession stories: You can go home to the farm",
+      "url": "https://www.farmprogress.com/farm-business/farm-succession-stories-you-can-go-home-to-the-farm",
+      "summary": "An Ord, Neb., native and UNL agribusiness major found an enterprise that adds value to the farming operation and allows him to return to the family farm.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "How one desperate phone call saved a failing creamery",
+      "url": "https://www.farmprogress.com/farm-business/how-one-desperate-phone-call-saved-a-failing-creamery",
+      "summary": "This Business of Farming: Facing bankruptcy, Homestead Creamery’s founders committed to listening, learning and making tough changes — and thus saved their family dairy farms and built a $15 million business.",
+      "source": "Farm Progress",
+      "author": "Pam Caraway",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Finalist for new Farm Progress award talks ag challenges",
+      "url": "https://www.farmprogress.com/farm-progress-show/finalist-for-new-farm-progress-award-talks-ag-challenges",
+      "summary": "A pair of women farmers from the Sunbelt were finalists for Farm Progress’ brand-new Women in the Field: Producer of the Year Award. Karen Makamson Edwards spoke about challenges and opportunities on her Mississippi operation.",
+      "source": "Farm Progress",
+      "author": "Raney Rapp",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "The rainmaker: Spoon-feeding water and manure",
+      "url": "https://www.farmprogress.com/crops/the-rainmaker-spoon-feeding-water-and-manure",
+      "summary": "Asked and Answered: Learn how an idea for an autonomous irrigation machine, 360 Rain, became a highly efficient manure and nutrient applicator.",
+      "source": "Farm Progress",
+      "author": "Holly Spangler",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Late-season rain offers final soybean yield bump",
+      "url": "https://www.farmprogress.com/soybean/late-season-rain-offers-final-soybean-yield-bump",
+      "summary": "Soybean Watch: Those loaded pods topping your soybean plants are thanks to September rains right before harvest.",
+      "source": "Farm Progress",
+      "author": "Allison Lynch",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "The blessings of harvest",
+      "url": "https://www.farmprogress.com/farm-life/the-blessings-of-harvest",
+      "summary": "Higher Ground: Sharing the bounty of harvest is as American as apple pie.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Rural restaurant offers homegrown honey, comfort",
+      "url": "https://www.farmprogress.com/farm-life/rural-restaurant-offers-homegrown-honey-comfort",
+      "summary": "Hayhurst’s Hayloft: This Indiana couple’s lifelong dream turned into reality when they combined countryside views with made-from-scratch creations.",
+      "source": "Farm Progress",
+      "author": "Susan Hayhurst",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "Oat futures climb nearly $1 as Canadian production drops 20%",
+      "url": "https://www.farmprogress.com/marketing/oat-futures-climb-nearly-1-as-canadian-production-drops-20-",
+      "summary": "Ag Marketing IQ: Canadian oat production fell nearly 20% while U.S. ending stocks remain historically tight, pushing futures past $4 resistance for the first time in two years.",
+      "source": "Farm Progress",
+      "author": "Naomi Blohm",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "New irrigation products emphasize precision, conservation and remote control",
+      "url": "https://www.farmprogress.com/husker-harvest-days/new-irrigation-products-emphasize-precision-conservation-and-remote-control",
+      "summary": "Husker Harvest Days: Several companies showcased new irrigation tech at Husker Harvest Days earlier this month. Here are some of the market’s newest products that can help on your operation.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-09-25",
+      "collected": "2026-09-26"
+    },
+    {
+      "headline": "A Mentor, Six Names and a Board: What Three 2026 Expo Honors Actually Have in Common",
+      "url": "https://www.thebullvine.com/show-reports/world-dairy-expo/world-dairy-expo-honorees-2026/",
+      "summary": "A 56-year chain of mentors, a 10,000-cow philosophy, and the boy who couldn’t read the Holstein Journal. Inside the legacies of the 2026 World Dairy Expo honorees. E660 A Mentor, Six Names and a Board: What Three 2 | RSS.com Corey Geiger was supposed to be judging Ayrshire heifers. It was 1990, the Manitowoc County […] The post A Mentor, Six Names and a Board: What Three 2026 Expo Honors Actually ",
+      "source": "The Bullvine",
+      "author": "Andrew Hunt",
+      "date": "2026-09-25",
+      "collected": "2026-09-26",
+      "body_file": "articles/b0110cc426eb882f.txt"
     }
   ]
 }
