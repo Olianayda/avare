@@ -1,35 +1,6 @@
 {
   "items": [
     {
-      "headline": "COOL: The big, beautiful nothing of an executive order",
-      "url": "https://www.beefmagazine.com/policy/cool-the-big-beautiful-nothing-of-an-executive-order",
-      "summary": "Zero substance, nothing to see here. Nevertheless, several things come to mind surrounding all this noise.",
-      "source": "Beef Magazine",
-      "author": "Nevil Speer",
-      "date": "2026-09-06",
-      "collected": "2026-09-08"
-    },
-    {
-      "headline": "Is it BRD or acidosis in the feedlot?",
-      "url": "https://www.agproud.com/articles/64028-is-it-brd-or-acidosis-in-the-feedlot",
-      "summary": "Bovine respiratory disease and acidosis have more in common than most people realize – and managing one without the other may mean leaving the problem only partially solved.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-09",
-      "collected": "2026-09-09",
-      "body_file": "articles/050450f829fc17ce.txt"
-    },
-    {
-      "headline": "Finding the right attorney for your farm",
-      "url": "https://www.agproud.com/articles/64014-finding-the-right-attorney-for-your-farm",
-      "summary": "Finding the right attorney starts with knowing where to look and what questions to ask.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-09",
-      "collected": "2026-09-09",
-      "body_file": "articles/e81eb26a594ba768.txt"
-    },
-    {
       "headline": "Virtual victory: World Dairy Expo to celebrate 25 years of virtual farm tours",
       "url": "https://www.agproud.com/articles/63961-virtual-victory-world-dairy-expo-to-celebrate-25-years-of-virtual-farm-tours",
       "summary": "In 2001, amid the foot-and-mouth disease (FMD) outbreak in Europe, the farm tours held during World Dairy Expo became a virtual experience. This year marks the 25th anniversary of that transition, celebrating the success and lasting impact of the virtual tours.",
@@ -3494,7 +3465,8 @@
       "source": "Progressive Dairy",
       "author": "",
       "date": "2026-09-26",
-      "collected": "2026-09-26"
+      "collected": "2026-09-26",
+      "body_file": "articles/f3743fb835c4d99b.txt"
     },
     {
       "headline": "Repenser la gestion des risques dans le secteur laitier canadien : pourquoi le moment et la formule choisie comptent plus que jamais",
@@ -3503,7 +3475,8 @@
       "source": "Progressive Dairy",
       "author": "",
       "date": "2026-09-26",
-      "collected": "2026-09-26"
+      "collected": "2026-09-26",
+      "body_file": "articles/91a88af4a4192b28.txt"
     },
     {
       "headline": "Herd health playbook: Vaccines and VCPR",
@@ -3712,6 +3685,33 @@
       "date": "2026-09-25",
       "collected": "2026-09-26",
       "body_file": "articles/b0110cc426eb882f.txt"
+    },
+    {
+      "headline": "This Week in Agribusiness, Sept. 26, 2026",
+      "url": "https://www.beefmagazine.com/market-news/this-week-in-agribusiness-sept-26-2026",
+      "summary": "45Z tax credits, the Agronomy Zone at FPS, fertilizer supplies, hot water pressure washers, exports to China, a right-hand unload auger cart and new tire products are featured this week.",
+      "source": "Beef Magazine",
+      "author": "",
+      "date": "2026-09-26",
+      "collected": "2026-09-27"
+    },
+    {
+      "headline": "This Week in Agribusiness, Sept. 26, 2026",
+      "url": "https://www.farmprogress.com/week-agribusiness/this-week-in-agribusiness-sept-26-2026",
+      "summary": "45Z tax credits, the Agronomy Zone at FPS, fertilizer supplies, hot water pressure washers, exports to China, a right-hand unload auger cart and new tire products are featured this week.",
+      "source": "Farm Progress",
+      "author": "",
+      "date": "2026-09-26",
+      "collected": "2026-09-27"
+    },
+    {
+      "headline": "Farmers use AI to revolutionize ag logistics",
+      "url": "https://www.farmprogress.com/technology/farmers-use-ai-to-revolutionize-ag-logistics",
+      "summary": "Fourth-generation rancher Carrie Richards and Agco’s Adrian Crawford are leveraging AI to solve critical challenges in meat processing logistics and farm operations.",
+      "source": "Farm Progress",
+      "author": "Andy Castillo",
+      "date": "2026-09-26",
+      "collected": "2026-09-27"
     }
   ]
 }
