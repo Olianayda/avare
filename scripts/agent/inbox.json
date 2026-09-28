@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "headline": "Virtual victory: World Dairy Expo to celebrate 25 years of virtual farm tours",
-      "url": "https://www.agproud.com/articles/63961-virtual-victory-world-dairy-expo-to-celebrate-25-years-of-virtual-farm-tours",
-      "summary": "In 2001, amid the foot-and-mouth disease (FMD) outbreak in Europe, the farm tours held during World Dairy Expo became a virtual experience. This year marks the 25th anniversary of that transition, celebrating the success and lasting impact of the virtual tours.",
-      "source": "Progressive Dairy",
-      "author": "",
-      "date": "2026-09-09",
-      "collected": "2026-09-09",
-      "body_file": "articles/c0599bac2f465352.txt"
-    },
-    {
-      "headline": "Should I sell calves at weaning or after preconditioning?",
-      "url": "https://www.beefmagazine.com/livestock-management/should-i-sell-calves-at-weaning-or-after-preconditioning",
-      "summary": "Producers face a critical choice as weaning approaches. The decision hinges on market prices, available resources, and individual farm operations.",
-      "source": "Beef Magazine",
-      "author": "The Ohio State University",
-      "date": "2026-09-08",
-      "collected": "2026-09-09"
-    },
-    {
-      "headline": "It’s not the imports that matter, it’s the interference",
-      "url": "https://www.beefmagazine.com/market-news/its-not-the-imports-that-matter-its-the-interference",
-      "summary": "Political meddling in beef markets creates unnecessary uncertainty while data proves imports support rather than undermine domestic producer profits.",
-      "source": "Beef Magazine",
-      "author": "Nevil Speer",
-      "date": "2026-09-08",
-      "collected": "2026-09-09"
-    },
-    {
       "headline": "Taking on Trump",
       "url": "https://www.beefmagazine.com/policy/taking-on-trump",
       "summary": "Two bills have been introduced in Congress to stuff Trump’s beef imports proclamation at the line of scrimmage.",
@@ -3712,6 +3684,33 @@
       "author": "Andy Castillo",
       "date": "2026-09-26",
       "collected": "2026-09-27"
+    },
+    {
+      "headline": "Preventing disease in potato storage",
+      "url": "https://www.agproud.com/articles/64125-preventing-disease-in-potato-storage",
+      "summary": "Harvest season can be one of the most trying times of the year, and potato harvest is no exception. While weather, equipment and coordination of all moving parts are concerns, the potatoes themselves need consistent attention to maintain quality and reduce disease risk.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-28",
+      "collected": "2026-09-28"
+    },
+    {
+      "headline": "The role of yeast cell wall products for calves and breeding cows",
+      "url": "https://www.agproud.com/articles/64090-the-role-of-yeast-cell-wall-products-for-calves-and-breeding-cows",
+      "summary": "The list of additives that have been used in all phases of cattle management and feeding is exceptional. All are sold with one stated objective: to help animal performance and improve producer productivity.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-28",
+      "collected": "2026-09-28"
+    },
+    {
+      "headline": "Chicoine adds to list of prestigious awards with 2026 WDE International Person of the Year",
+      "url": "https://www.agproud.com/articles/63852-chicoine-adds-to-list-of-prestigious-awards-with-2026-wde-international-person-of-the-year",
+      "summary": "Robert Chicoine has been named the World Dairy Expo’s 2026 International Person of the Year.",
+      "source": "Progressive Dairy",
+      "author": "",
+      "date": "2026-09-28",
+      "collected": "2026-09-28"
     }
   ]
 }
