@@ -6,3 +6,6 @@ node_modules/
 
 .webhook.local
 images/.DS_Store
+
+# Куда слать сигнал о сбое сбора (chat_id и путь к конфигу бота)
+.notify.local.json

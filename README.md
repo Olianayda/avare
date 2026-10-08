@@ -25,8 +25,13 @@ post-linkedin.sh   отправка одобренного в Make → LinkedIn
 - `scripts/agent/collect.js` — ежедневный сбор во `inbox.json`
 - `scripts/agent/queue.js` — CLI очереди (draft → ready → approved → posted)
 - `scripts/agent/server.js` — веб-панель отбора
+- `scripts/agent/post-rules.js` — проверка поста по механическим правилам (длина, MAKSA, тире…)
+- `scripts/agent/merge-queue.js` — сводит две версии `queue.json` (панель и облачная рутина) по смыслу
+- `scripts/agent/notify.js` — сигнал о сбое сбора: уведомление на Mac и в Telegram
 - `scripts/post-linkedin.sh` — отправка поста с проверкой картинки на 200
-- `skills/avare-news-posts.md` — правила написания постов
+- `skills/avare-news-posts.md` — правила написания постов, единственная копия
+  (глобальный скил `~/.claude/skills/avare-news-posts/SKILL.md` — ссылка сюда)
+- `prompts/triage.md` — копия промпта облачной рутины, которая пишет черновики
 
 ## Состояние
 
@@ -42,6 +47,20 @@ node scripts/agent/collect.js             # разовый сбор
 ```
 
 Зависимостей нет: только Node 18+ (встроенный fetch), curl и python3 для отправки.
+
+## Если сбор сломался
+
+Сбор сам пишет в `scripts/agent/collect.log` и при любом сбое шлёт сигнал:
+уведомление на Mac и личное сообщение от бота Avare в Telegram. Куда слать —
+в `scripts/agent/.notify.local.json` (не в git), проверить: `node scripts/agent/notify.js`.
+
+Правки панели сбор не прячет: коммитит их как «Panel: queue state», потом
+подтягивает черновики облачной рутины. Чтобы `queue.json` сводился по смыслу и
+при ручном `git pull`, в новом клоне один раз:
+
+```
+git config merge.avare-queue.driver "node scripts/agent/merge-queue.js %O %A %B"
+```
 
 ## Железные правила постов
 

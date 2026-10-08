@@ -12,10 +12,14 @@
  *   node queue.js drop 3               убрать черновик
  *
  * Статусы: draft → ready → approved → posted
+ *
+ * add и text не запишут текст, нарушающий механические правила скилла
+ * (post-rules.js): длина, MAKSA, длинное тире и т. п. --force — записать всё равно.
  */
 
 const fs = require('fs');
 const path = require('path');
+const rules = require('./post-rules');
 
 const FILE = path.join(__dirname, 'queue.json');
 const STATUSES = ['draft', 'ready', 'approved', 'posted'];
@@ -40,7 +44,15 @@ function find(q, id) {
   return item;
 }
 
-const [, , cmd, ...rest] = process.argv;
+/** Текст с ошибками по правилам не записываем, если не сказано --force. */
+function enforce(item) {
+  const res = rules.checkPost(item, rules.loadArticles().get(item.url));
+  for (const r of res) console.log(`${r.level === 'error' ? '✗' : '!'} ${r.text}`);
+  if (res.some((r) => r.level === 'error') && !FORCE) die('Текст нарушает правила (см. выше). Исправь или повтори с --force.');
+}
+
+const FORCE = process.argv.includes('--force');
+const [, , cmd, ...rest] = process.argv.filter((a) => a !== '--force');
 const q = load();
 
 switch (cmd) {
@@ -75,6 +87,8 @@ switch (cmd) {
     console.log(`${i.url}\n`);
     console.log(i.post_text || '(текст ещё не написан)');
     if (i.image_url) console.log(`\n🖼  ${i.image_url}`);
+    const res = rules.checkPost(i, rules.loadArticles().get(i.url));
+    if (res.length) console.log('\n' + res.map((r) => `${r.level === 'error' ? '✗' : '!'} ${r.text}`).join('\n'));
     break;
   }
 
@@ -84,8 +98,12 @@ switch (cmd) {
     if (q.items.some((i) => i.url === data.url) || q.log.some((l) => l.url === data.url)) {
       die('Эта новость уже в очереди или уже опубликована');
     }
+    // Номер от максимума, а не по nextId: облачная рутина пишет в очередь
+    // напрямую и nextId не двигает (так 28.09 два поста получили №33).
+    const id = Math.max(0, ...q.items.map((i) => i.id)) + 1;
+    q.nextId = id + 1;
     const item = {
-      id: q.nextId++,
+      id,
       status: 'draft',
       headline: data.headline,
       url: data.url,
@@ -97,7 +115,10 @@ switch (cmd) {
       image_url: data.image_url || '',
       added: new Date().toISOString(),
     };
-    if (item.post_text) item.status = 'ready';
+    if (item.post_text) {
+      item.status = 'ready';
+      enforce(item);
+    }
     q.items.push(item);
     save(q);
     console.log(`✅ Добавлено [${item.id}] ${item.headline}`);
@@ -108,6 +129,7 @@ switch (cmd) {
     const i = find(q, rest[0]);
     const t = rest.slice(1).join(' ');
     if (!t) die('Пустой текст');
+    enforce({ ...i, post_text: t });
     i.post_text = t;
     i.status = 'ready';
     save(q);

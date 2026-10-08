@@ -15,6 +15,7 @@ const os = require('os');
 const util = require('util');
 const { execFile } = require('child_process');
 const execFileP = util.promisify(execFile);
+const rules = require('./post-rules');
 
 const DIR = __dirname;
 const QUEUE = path.join(DIR, 'queue.json');
@@ -48,6 +49,20 @@ async function composeAndPublish(id, imageB64, ext, caption) {
 const load = () =>
   fs.existsSync(QUEUE) ? JSON.parse(fs.readFileSync(QUEUE, 'utf8')) : { items: [], log: [], nextId: 1 };
 const save = (q) => fs.writeFileSync(QUEUE, JSON.stringify(q, null, 2) + '\n');
+
+// Что отдаём панели: очередь, проверку правил на каждой карточке и дату
+// последнего сбора. Проверку не храним в queue.json, а считаем заново:
+// и тексты, и правила меняются.
+function view(q) {
+  const articles = rules.loadArticles();
+  // Сбор ломался молча: шесть суток пуш отбивался, знал об этом только
+  // collect.log. Возраст последней записи выносим в шапку, чтобы тишина
+  // была видна сразу, а не выяснялась через неделю.
+  let last = '';
+  for (const i of articles.values()) if (i.collected > last) last = i.collected;
+  const items = (q.items || []).map((i) => ({ ...i, checks: rules.checkPost(i, articles.get(i.url)) }));
+  return { ...q, items, last_collected: last };
+}
 
 const PAGE = `<!doctype html>
 <html lang="ru"><head><meta charset="utf-8">
@@ -89,6 +104,9 @@ const PAGE = `<!doctype html>
   .imgstate{font-size:12px;margin-top:8px}
   .imgstate.busy{color:var(--accent)}.imgstate.done{color:#2f8f4e}.imgstate.err{color:#c0392b}
   .curimg{margin-top:8px}.curimg img{max-width:100%;border-radius:6px;border:1px solid var(--line)}
+  .checks{margin:10px 0 0;padding:9px 12px;border-radius:8px;font-size:13px;line-height:1.45}
+  .checks.err{background:#fdecea;color:#8a1f11}.checks.warn{background:#fff4dc;color:#6e4a00}
+  @media(prefers-color-scheme:dark){.checks.err{background:#3a1d1d;color:#f3b4ab}.checks.warn{background:#3a3020;color:#f0d29a}}
 </style></head><body>
 <header>
   <h1>Отбор новостей · Avare BioTech</h1>
@@ -110,7 +128,15 @@ async function api(path,body){
 async function refreshInbox(){ try{ inbox=await (await fetch('/api/inbox')).json(); }catch(e){} }
 async function loadData(){ data=await (await fetch('/api/queue')).json(); await refreshInbox(); render(); }
 
-function words(t){ return t.trim()?t.trim().split(/\\s+/).length:0 }
+// Считаем как post-rules.js: хештеги не слова.
+function words(t){ return t.split(/\\s+/).filter(w=>/[\\p{L}\\p{N}]/u.test(w)&&!w.startsWith('#')).length }
+// Нарушения правил: красное — ошибки, жёлтое — на что посмотреть.
+// На опубликованных и отклонённых не показываем: поздно и незачем.
+function checksHtml(i){
+  if(!['draft','ready','approved'].includes(i.status)||!i.checks||!i.checks.length) return '';
+  const part=(lvl,cls,mark)=>{const c=i.checks.filter(x=>x.level===lvl);return c.length?'<div class="checks '+cls+'">'+c.map(x=>mark+' '+esc(x.text)).join('<br>')+'</div>':''};
+  return part('error','err','✗')+part('warn','warn','!');
+}
 
 function render(){
   const counts={};
@@ -153,6 +179,7 @@ function render(){
           : '<p class="hl">'+esc(i.headline)+'</p>'
             + (i.summary?'<div class="sum">'+esc(i.summary.slice(0,240))+'</div>':''))
       + '<div><a href="'+i.url+'" target="_blank" rel="noopener">Открыть источник ↗</a></div>'
+      + checksHtml(i)
       + '<div class="row">'
       +   (i.status==='draft'?'<button class="act pri" data-a="write">Написать вручную</button><button class="act" data-a="reject">Отклонить</button>':'')
       +   (i.status==='ready'?'<button class="act pri" data-a="approve">Одобрить</button><button class="act" data-a="edit">Править</button><button class="act" data-a="reject">Отклонить</button>':'')
@@ -162,7 +189,7 @@ function render(){
       + '</div>'
       + '<div class="editor hide">'
       +   '<textarea>'+esc(i.post_text||'')+'</textarea>'
-      +   '<div class="wc'+(bad?' bad':'')+'">слов: '+wc+' · норма 120–180</div>'
+      +   '<div class="wc'+(bad?' bad':'')+'">слов: '+wc+' · норма 120–180, хештеги не считаются</div>'
       +   '<input type="url" placeholder="URL картинки (https://…)" value="'+(i.image_url||'')+'">'
       +   '<div class="row"><button class="act pri" data-a="save">Сохранить</button></div>'
       +   '<div class="imgbox">'
@@ -183,7 +210,7 @@ function render(){
     const ta=card.querySelector('textarea');
     const im=card.querySelector('input[type=url]');
     const wcEl=card.querySelector('.wc');
-    if(ta) ta.oninput=()=>{const w=words(ta.value);wcEl.textContent='слов: '+w+' · норма 120–180';wcEl.classList.toggle('bad',w<120||w>180)};
+    if(ta) ta.oninput=()=>{const w=words(ta.value);wcEl.textContent='слов: '+w+' · норма 120–180, хештеги не считаются';wcEl.classList.toggle('bad',w<120||w>180)};
     const cap=card.querySelector('.cap');
     const pick=card.querySelector('.pick');
     const imgstate=card.querySelector('.imgstate');
@@ -210,7 +237,11 @@ function render(){
         return;
       }
       if(a==='save')      return api('/api/save',{id,post_text:ta.value,image_url:im.value});
-      if(a==='approve')   return api('/api/status',{id,status:'approved'});
+      if(a==='approve'){
+        const errs=(data.items.find(x=>x.id===id).checks||[]).filter(x=>x.level==='error');
+        if(errs.length&&!confirm('В посте нарушены правила:\\n\\n'+errs.map(x=>'• '+x.text).join('\\n')+'\\n\\nВсё равно одобрить?')) return;
+        return api('/api/status',{id,status:'approved'});
+      }
       if(a==='unapprove') return api('/api/status',{id,status:'ready'});
       if(a==='reject')    return api('/api/status',{id,status:'rejected'});
       if(a==='restore')   return api('/api/status',{id,status:'draft'});
@@ -264,19 +295,7 @@ http
       res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
       return res.end(PAGE);
     }
-    if (req.url === '/api/queue') {
-      const q = load();
-      // Сбор ломался молча: шесть суток пуш отбивался, знал об этом только
-      // collect.log. Возраст последней записи выносим в шапку, чтобы тишина
-      // была видна сразу, а не выяснялась через неделю.
-      const items = q.items || [];
-      let last = '';
-      try {
-        const inbox = JSON.parse(fs.readFileSync(path.join(DIR, 'inbox.json'), 'utf8'));
-        for (const i of inbox.items || []) if (i.collected > last) last = i.collected;
-      } catch (e) {}
-      return json({ ...q, items, last_collected: last });
-    }
+    if (req.url === '/api/queue') return json(view(load()));
 
     if (req.url === '/api/inbox') {
       const q = load();
@@ -302,14 +321,14 @@ http
         q.dismissed = q.dismissed || [];
         if (d.url && !q.dismissed.includes(d.url)) q.dismissed.push(d.url);
         save(q);
-        return json(q);
+        return json(view(q));
       }
       if (req.url === '/api/inbox-add') {
         const inboxFile = path.join(DIR, 'inbox.json');
         const ib = fs.existsSync(inboxFile) ? JSON.parse(fs.readFileSync(inboxFile, 'utf8')) : { items: [] };
         const src = ib.items.find((x) => x.url === d.url);
-        if (!src) return json(q);
-        if (q.items.some((i) => i.url === d.url) || (q.log || []).some((l) => l.url === d.url)) return json(q);
+        if (!src) return json(view(q));
+        if (q.items.some((i) => i.url === d.url) || (q.log || []).some((l) => l.url === d.url)) return json(view(q));
         // Считаем от максимума каждый раз, а не доверяем nextId: в очередь
         // пишет ещё и облачная рутина, она берёт max+1 и про nextId не знает.
         // Из-за этого счётчик отставал и панель выдавала занятый номер —
@@ -331,11 +350,11 @@ http
           added: new Date().toISOString(),
         });
         save(q);
-        return json(q);
+        return json(view(q));
       }
 
       const item = q.items.find((i) => i.id === d.id);
-      if (!item) return json(q);
+      if (!item) return json(view(q));
 
       if (req.url === '/api/compose') {
         try {
@@ -346,7 +365,7 @@ http
           it2.image_url = url;
           it2.image_caption = d.caption || '';
           save(q2);
-          return json({ ok: true, url, queue: q2 });
+          return json({ ok: true, url, queue: view(q2) });
         } catch (e) {
           return json({ ok: false, error: e.message });
         }
@@ -368,7 +387,7 @@ http
       }
 
       save(q);
-      return json(q);
+      return json(view(q));
     }
 
     res.writeHead(404);

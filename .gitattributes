@@ -1,0 +1,4 @@
+# queue.json сводит по смыслу scripts/agent/merge-queue.js, а не git по строкам.
+# Драйвер подключён в .git/config этого Mac и передаётся сборщиком; где его нет
+# (облачная рутина), git молча сливает построчно, как раньше.
+scripts/agent/queue.json merge=avare-queue
