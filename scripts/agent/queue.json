@@ -136,8 +136,9 @@
       "summary": "CATTLEytics founder Shari van de Pol explains how AI helps producers with data analytics, breeding schedules, nutrition, disease diagnosis and employee management on dairies of any size.",
       "date": "2026-07-28",
       "post_text": "The dairy AI problem is not collecting data but acting on it, and the fix starts with one question, not the whole farm.\n\nThat is Shari van de Pol, a computer engineer turned large-animal vet, on the Progressive Dairy Podcast in a piece by Patryce Eldredge LeFevre this week. \"You can have all the information in the world, but if you're not actually making any changes, what's the point?\"\n\nVan de Pol founded CATTLEytics around exactly that gap. Her method is unglamorous. Open ChatGPT, Copilot or Perplexity. Ask a real question about your operation. If the answer feels off, push back and ask it to refine.\n\nShe is clear about the limits. AI does not replace the nutritionist or the vet. It fills gaps and spots patterns across feed, breeding and health records. She also sees it as a leveler, giving smaller operations analysis only large dairies could afford.\n\nThe tool is only as useful as the question you bring it.\n\nWhat is the one recurring decision you would hand to AI first?\n\n#dairy #AI #agtech #dataanalytics #cattle",
-      "image_url": "/Users/olianayda/Projects/avare-agent/images/dairy-farm-avare.jpg",
-      "added": "2026-07-28T09:33:05.770Z"
+      "image_url": "https://raw.githubusercontent.com/Olianayda/avare/main/images/avare-post11-202608-144257.jpg",
+      "added": "2026-07-28T09:33:05.770Z",
+      "image_caption": "New technology, new possibilities: How to introduce artificial intelligence into your dairy"
     },
     {
       "id": 12,
@@ -441,6 +442,20 @@
       "post_text": "A 1,100-cow family dairy cut displaced abomasum cases by half and reached a 60% conception rate, without adding people.\n\nDan Keller runs Keller Farms with his family, a 90-year-old operation that grew from 300 to 1,100 cows on his watch. Progressive Dairy profiled how the farm layers monitoring tech, AfiLab milk analysis, AfiCollar activity and feed-intake sensors, into one connected view.\n\nThe payoff shows first in fresh cows. Watching milk component trends catches a displaced abomasum early, cutting cases by roughly 50%. Reproduction improved the same way. The farm now averages a 60% conception rate and a 40 to 42% pregnancy rate, work recognized by the Dairy Cattle Reproduction Council in 2024. Keller uses sexed sеmen only on his most feed-efficient cows, breeding the rest to beef.\n\nKeller is clear the technology gets no credit alone. Forage, comfort and the breeder's skill still decide the outcome. The system just narrows 1,100 cows to the few that need a look today.\n\nWhere does your own herd data narrow things down to the ones that matter today?\n\n#reproduction #dairyfarming #sеmen #precisionlivestock #dairygenetics",
       "image_url": "",
       "added": "2026-09-26T06:33:07.000Z"
+    },
+    {
+      "id": 35,
+      "status": "ready",
+      "headline": "World Dairy Expo: Opening new doors for dairy",
+      "url": "https://www.agproud.com/articles/64049-world-dairy-expo-opening-new-doors-for-dairy",
+      "source": "Progressive Dairy",
+      "author": "",
+      "category": "herd-health",
+      "summary": "All throughout the dairy industry, one can find opportunity to learn, network and build upon their careers in the industry. But there is no place quite like World Dairy Expo, where the doors to opportunity are limitless.",
+      "date": "2026-09-26",
+      "post_text": "Training dairy teams should be a standing investment, not a reaction to the next mastitis outbreak.\n\nThat is the case Carolina Pinzon-Sanchez makes in Progressive Dairy this week, in a piece by Patryce Eldredge LeFevre. She is a bilingual dairy outreach specialist at the University of Wisconsin-Madison and has attended nearly every World Dairy Expo for 24 years.\n\nHer work through Expo en Espanol covers milk quality, udder health, animal welfare and milking systems, aimed at one thing: turning research into something a person can apply on Monday. She argues training should be proactive, so employees feel prepared rather than blamed.\n\n\"There is nothing more rewarding than seeing someone experience an 'aha' moment and truly understand the reason behind a management practice,\" she says. Those conversations led her to build a bilingual trainer certification program, Milk Quality from the Udder World.\n\nA protocol is only as reliable as the person carrying it out at five in the morning, and whether anyone explained why.\n\nHow much of your team's training happens before something goes wrong?\n\n#dairy #herdhealth #milkquality #dairyfarming #farmteams",
+      "image_url": "",
+      "added": "2026-09-27T10:37:23.452Z"
     }
   ],
   "log": [
@@ -475,7 +490,7 @@
       "category": "reproduction"
     }
   ],
-  "nextId": 16,
+  "nextId": 36,
   "dismissed": [
     "https://www.beefmagazine.com/livestock-management/k-state-watershed-specialists-livestock-experts-emphasize-importance-of-water-sources"
   ]

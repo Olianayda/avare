@@ -310,9 +310,14 @@ http
         const src = ib.items.find((x) => x.url === d.url);
         if (!src) return json(q);
         if (q.items.some((i) => i.url === d.url) || (q.log || []).some((l) => l.url === d.url)) return json(q);
-        if (!q.nextId) q.nextId = Math.max(0, ...q.items.map((i) => i.id)) + 1;
+        // Считаем от максимума каждый раз, а не доверяем nextId: в очередь
+        // пишет ещё и облачная рутина, она берёт max+1 и про nextId не знает.
+        // Из-за этого счётчик отставал и панель выдавала занятый номер —
+        // два разных поста под одним id, а найти по id можно только первый.
+        const nextId = Math.max(0, ...q.items.map((i) => i.id)) + 1;
+        q.nextId = nextId + 1;
         q.items.push({
-          id: q.nextId++,
+          id: nextId,
           status: 'draft',
           headline: src.headline,
           url: src.url,
