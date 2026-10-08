@@ -1,0 +1,25 @@
+The Myca founding team: (from left) Seamus Tardif (CRO), Arnav Pandey (CEO), and Tejas Dinkar (CTO).
+Image credit: Myca
+Myca , best known for its AI agents that coordinate agribusiness field teams, has raised $1.3 million in pre-seed funding. Kriscore Capital led the round alongside Eximius Ventures , with participation from Indigram Labs Foundation and angel investors from the agriculture sector.
+The company says it will use the capital to expand its product suite, grow its engineering team, and widen its geographical footprint across Southeast Asia, Latin America, Africa and India.
+Agribusinesses in the Global South still run critical operations over WhatsApp messages, phone calls and spreadsheets, so head office systems rarely reflect what is happening on the ground in real time, says India-headquartered Myca.
+The company's software takes in the messages, calls and photos field teams already produce, turns them into structured data, and uses AI agents to handle the follow-up work supervisors typically do. It sits on top of a company's existing ERP and CRM systems rather than replacing them.
+Use cases include field sales, crop surveys, procurement planning, credit assessment, and warehouse and logistics tracking. The product launched in April in India and Indonesia, and the company says it is now active in eight countries. Myca names Bayer, Olam Food Ingredients, ETG-Parrogate, BigHaat and Dayatani among its customers.
+Founders Arnav Pandey, Tejas Dinkar and Seamus Tardif previously built an agritech company in Southeast Asia with more than $100 million in topline revenue, according to the company.
+The team is staying focused on smallholder-heavy markets. "Some of our customers run field teams of 10 people in North America. In India they run a field team of 5,000," Tardif tells AgFunderNews .
+Agribusiness will remain the company's focus for the foreseeable future. Pandey says that while there are "natural extensions" for Myca's technology into fast-moving consumer goods (FMCG) segments, for now the company is strictly focused on agribusiness.
+"It's a $6 trillion industry. There are so many things to solve right in here."
+The pre-seed journey and beyond
+The fundraising itself took longer than might be considered usual, says CEO Pandey. "Investors today are not really keen on investing in agri, at least in this part of the world. The moment you add North America to the picture, things become a little easier. But the Global South is not the most sought-after place to invest in."
+Expectations have also shifted, Tardif adds. "In 2020, 2021, people just wanted to know you've got a great deck and a good team. Now it's, ‘OK, but where's the pathway to a million?'"
+Positioning was another hurdle. Myca bills itself as an AI software company with agriculture as its vertical, but investors saw it differently. As they see it, "You're touching agri companies, ergo you're an agritech," says Tardif.
+After several months of exploratory conversations, talks turned serious around May and June. Along the way the founders walked away from offers.
+"We weren't happy with the terms. We weren't happy with the valuation," Tardif says. "As founders, you have to remember that investors are buying your product. They're not there to dictate the terms."
+Pandey describes the test the team applied to each term sheet: "Assume we don't get a good valuation, and assume we don't make any revenue. Would this be the paper we'd be willing to sign in that case? If the answer is no, you don't need to sign it."
+Tardif's advice to other founders: know when the business is ready before approaching investors seriously, keep the target list short, and don't be afraid to walk away from a bad deal. "There is money out there. You have to have a little bit more patience for it."
+Myca expects to raise again "in the not so distant future," he adds.
+Share this article
+Sign up for our weekly newsletter.
+Could GLP-1 drugs finally put a price on crop nutrient density?
+Agtech
+Climate & sustainability

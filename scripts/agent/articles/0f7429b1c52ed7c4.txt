@@ -1,0 +1,47 @@
+V‍erley CEO Stéphane Mac Millan
+Image credit Elaine Watson
+French precision fermentation startup Verley is working towards production of dairy protein beta-lactoglobulin (BLG) in 200,000-liter fermentation tanks at a co-manufacturer as it prepares for commercial sales next year.
+Rather than compete head-on with commodity whey protein, the firm is targeting high-value applications where purified BLG can deliver functionality that conventional dairy proteins struggle to match, from low-viscosity protein shots to high-protein yogurts.
+The next hurdle, says cofounder and CEO Stéphane Mac Millan, is less about improving fermentation yields and more about optimizing downstream processing, proving repeatability at scale, and converting customer interest into sales.
+AgFunderNews ( AFN ) caught up with Mac Millan (SMM) at the Future Food-Tech summit in London to discuss scale-up, pricing and what precision fermentation companies need to prove in today’s funding environment.
+AFN : How are you positioning your ingredients in the market?
+SMM : Whey contains several proteins, and we are making one called beta-lactoglobulin, or BLG, which plays an important role in supporting muscle protein synthesis.
+So we cannot really be compared to whey protein isolate or whey protein concentrate because we are not just whey, we are one part of it, and because we are not whey, but we are BLG, the purity level is super high.
+That means we can improve the functionality to a standard higher than the conventional industry can. One concrete example: We can pack 25 grams of protein in a 100-ml protein shot [while retaining low viscosity and high clarity and solubility]. That means it will cover 25-50% of your protein needs in just 100 ml. You cannot do with other proteins.
+Another example: UHT drinkable yogurt is capped at 9% protein [by weight] at the very best. More than that, the texture can be sandy and awful. We’ve proved that you can go as high as 13% because we have a BLG that has been micro-particulated .
+That's the functional technology we have patented and developed. So these are one or two examples, but actually right now we have more than 20 different applications in the food and beverage industry.
+AFN: What scale are you manufacturing at now?
+SMM : Our industrial scale-up is now progressing toward 200,000-liter fermentation volumes.
+The idea is to finalize this in the next months, and start commercializing next year.
+AFN : Which kind of metrics do you still have the most room to improve?
+SMM : On titer, yield and productivity, we are where we want. We always want more, but honestly, we are at a level that it's not really where the focus is. Where the focus is mostly now is at the downstream processing (DSP) level. The DSP is what you call purification after fermentation: how do you extract the exact protein, and only the protein [from the fermentation broth]?
+The more DSP steps you have, the more you lose product. So the idea is to recover as much as 100% [of the protein produced] if possible. So that's what we’re focusing on right now.
+AFN : On price, where do you fit in, if you're not directly competing with whey?
+SMM : Arla, the Danish company, is actually extracting BLG from milk , and right now they are selling it at more than $40 per kg, and that's the same price as us. So we are already at price parity. But that being said, we are scaling. So with more volume coming in and further evolution as we make continued improvements [to our process], we'll probably have the ability to lower the price.
+AFN : We've seen whey prices go through the roof. If they come down again, does your value proposition disappear?
+SMM : We don't compete directly with whey, and we don't compete on price. That's not our selling point. Our selling point is the value we bring on top to the table.
+AFN : Tell me about your geographical markets and your regulatory pathway
+SMM : We obtained a [GRAS] no questions letter in the US in September 2025. Canada will be next, and in Europe we hope to have [regulatory approval] in the next two to three years [via the novel foods process].
+So mostly we are focused on North America, Europe, and the GCC region. At some point also we want to go to Asia.
+AFN : Do you think BLG will become something consumers start to recognize on a food label?
+SMM : It's funny because if you asked me that a year ago, I would have told you I don't know. And actually now we see protein shots in the US that already have BLG on the front of the pack.
+But it's even more interesting when you see incumbents like Hilmar Ingredients, a huge dairy ingredient producer in the US. When you go on their website, you look at whey protein isolate, and as benefits, it says rich in beta-lactoglobulin, BLG.
+You can also buy beta-lactoglobulin directly on Arla’s website.
+AFN : You've said we are ‘past the time of exuberance in foodtech investing.' What does a precision fermentation company have to prove now to raise capital?
+SMM : It's very easy. You need to prove that there is a market for what you are doing. In the past you had some startups developing products hoping that the market will follow. That is almost impossible now.
+The second thing you need to prove is that you have the right product for the market, and obviously that means that you need to share samples. You need to have customers that say yes, I want that, and I want to use that.
+The third thing is can you really produce it at scale? Not can you do 100 or 200 tons, but can you do thousands of tons repeatedly with the same quality, and that's exactly what we're doing right now.
+AFN : You’re working with co-manufacturers now. Is it your hope that over time you might be able to build your own facilities?
+SMM : It makes a lot of sense for a company to build its own plants for a lot of reasons. Obviously, you can design it exactly for your technology with your team operating it. And that's why you take any big company like Cargill, ADM, or whoever, they have their own facilities.
+But you cannot finance that with VC money because VC is for risk. You don't finance a $200 million facility [with VC money]. You finance it where there is no more risk and the technology is proven and well known, the market is there, and you already have probably 80% of whatever can come out of that facility already bought for the next four years.
+Once you have that, you can go and raise debt, infrastructure financing. And that exists, and a lot of people will be really happy to finance you for the next 10 years… but doing it when you don't yet have the market, the technology, or the offtakes, is a recipe for disaster.
+AFN : You raised €32 million ($36 million) earlier this year. What are the milestones that [Series A]  round needs to deliver?
+SMM : Produce and sell. We have the technology, the marketing, regulatory [approvals], and patents. We checked all the milestones that we needed with the previous round. What we need to deliver with this round is to produce [at serious scale] and sell [the products].
+Further reading:
+Precision fermentation startup Verley raises $38m Series A as BLG unlocks new segment of protein market
+Vivici bags $14.4m EIC funding to scale precision-fermented dairy proteins
+Share this article
+Sign up for our weekly newsletter.
+Could GLP-1 drugs finally put a price on crop nutrient density?
+Agtech
+Climate & sustainability

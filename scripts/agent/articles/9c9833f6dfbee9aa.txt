@@ -1,0 +1,52 @@
+Yossi Rosenblum: "There's no gripper. We just approach the fruit, cut the stem, and let the fruit roll through the [hollow] arm."
+Image credit: Picker AgRobotics
+Can robots inspired by elephant trunks finally crack the economics of autonomous fruit harvesting?
+While other orchard robotic harvesters deploy rigid arms that pick, retract, and place fruit, Israeli startup Picker AgRobotics is taking a distinctly different approach with hollow bendy arms that snake through branches, cut fruit from the stem and funnel it directly into a bin ("Snip-N-Roll").
+"All of the companies we've seen, they pick and place," says cofounder and CEO Yossi Rosenblum. "They go all the way into a tree, pick one fruit, then go all the way back, and place it on a conveyor. That is a very expensive machine and not very efficient. We thought we have to do this another way."
+AgFunderNews ( AFN ) caught up with Rosenblum (YR) at the World Agri-Tech innovation summit in London to discuss why flexible robotics could succeed where conventional pick-and-place systems have struggled, the economics for growers, and its plans to begin customer pilots in 2027.
+AFN : What problem are you solving?
+YR: Picker AgRobotics is set to solve agriculture's number one problem, which is the labor problem. The labor problem in orchards is extremely severe. People have tried to solve this before [with robotic harvesters], but everybody has tried to do so with pick and place robotics.
+All of the companies we've seen, they pick and place, so they go all the way into a tree, pick one fruit, then go all the way back, and place it on a conveyor. That is a very expensive machine and not very efficient.
+So we thought we have to do this another way, and that's when we figured out it has to be a very long and flexible robotic arm, and that's how we invented Picker robotics.
+AFN : How unusual is your flexible robotic arm?
+YR:  So the way we see it, flexible robotics is becoming much, much more common throughout the world, but it actually has done nothing in agriculture so far. We haven't seen any flexible robotic arms there, and it doesn't make sense because who would need a flexible arm more than a tree?
+So when you look at what we've done, and you can see that with our patents as well, nobody has ever done a flexible robotic arm to harvest trees. Nobody has ever done a hollow robotic arm to harvest trees. So with that ability to bypass a branch and get to the fruit, I think we're the first ones ever to do that.
+AFN : Are Picker AgRobotics machines autonomous?
+YR: The farmer doesn't need 20 different machines, each of them very expensive, each of them with autonomous capability. We have a device which is simple enough that you can tow it, you can connect it to the tractor. You can have one tractor operator or one autonomous vehicle use four or five of these at the same time and just move them to the right tree.
+AFN : How exactly does it pick fruit?
+YR: It doesn't pull the fruit. Actually, we don't even grab the fruit. There's no gripper. We just approach the fruit, cut the stem, and let the fruit roll through the [hollow] arm.
+And that's one of the perfect things about having a robotic arm that's made of a pipe. When you have a robotic arm that's made of a pipe, and you don't pull the fruit, you just cut the stem and let it slide through the arm all the way to the existing farmer's bin. So we don't change the farm architecture. We don't ask you to do high density or trellis or trim the trees in a very special way. The arm is just long and flexible enough.
+AFN : What’s the sweet spot in terms of the type of fruit and the type of farming operation where this would make the most sense?
+YR: We started training on avocados. Part of the reason was that if you can do avocados, you can pretty much do everything. They are huge trees, they're not trimmed in a very specific way, and they're very deep, and the fruit is green with green leaves. So if we can do that we can be sure we can do oranges, lemons, pears, and apples.
+Another reason that we're focusing on these fruits is that with this kind of fruit, we actually are coming to a farmer that has no other solution available. No other arm. These short, rigid arms [available from other robotic harvesters] can barely take 30% of the fruit, and we're aiming for 95%.
+Yossi Rosenblum cofounder and CEO, Picker AgRobotics, Image credit: Elaine Watson
+AFN : What’s the business case?
+YR: You have got to save the farmer money. You can come with great promises or great future benefits, but the farmer needs to save money from day one, so we're saying you're going to save money from the first day we're in a farm.
+The second thing is, we're going to give you higher quality, and for the first time ever, you're not going to pick blind. So far, you've been picking blind. You have no idea what fruit is coming from which tree, which tree has a problem, maybe there's a deficiency. You have no idea.
+Now you're going to pick, and it's not going to be blind [Picker AgRobotics has AI-powered, real-time vision models that make per-fruit decisions on ripeness, size, and quality, so growers can harvest what sells while generating tree-level data on what was picked and what remains]. You're going to know what came out of each tree, what type of fruit? What size? What quality? And you could actually enhance your farm with that knowledge.
+AFN : Just going back to the ROI, though, what are the key metrics that matter?
+YR: I'll give you an example. So if you go to the central valley in the United States, and you see that citrus can be harvested at $25 a 900lb fruit bin, we can do that for $20. So you'll be saving money from day one.
+And when it comes to the cost of the machine, this is very cost-effective robotics. It's fully flexible. It's made of very light industrial materials, so we actually don't pay much, even if we want to extend the arm by one or two more meters, because that's not [a major contributor to] the cost.
+The cost is set in the motors and the computer, and we already know how much that costs. So we've actually looked at a machine that would give you harvest at 20% lower than what manual harvest costs today. And if you decide in the future to purchase that machine, it will be 50% lower than manual labor.
+AFN : What is your business model?
+YR: There's always this conflict: how do you approach the farmer? I think the answer changes over time with the specific farmer. You have to approach the farmer with a very low risk. You cannot tell the farmer who doesn't know anything about this machine: Just put down the money, buy the machine, trust us, it's going to be okay. That's too much of a risk.
+So we're starting with leasing. You only lease the machine. You don't take much risk, and you see you're saving money from day one. Then once you see this is great, and you want 20 more units, you probably want to save more money, so you can buy the machine and still get servicing and still get upgrades. You're still paying a service fee, but it's much lower.
+AFN : Will Picker AgRobotics sell direct or via dealers?
+YR: We will work directly with very large growers, and we're already in contact with many large growers today. But after that, when we want to reach mid-sized and small-sized growers, you have to use the [supply] chains that exist in the industry, and so you have to use your dealers and partners that already have the trust and the connection to these farmers.
+Yossi Rosenblum: "There's no gripper. We just approach the fruit, cut the stem, and let the fruit roll through the [hollow] arm." Image credit: Picker Robotics AFN : How long has Picker AgRobotics been around?
+YR: We're based in Israel and we started in February 2025, so we're kind of young, but we like to run fast. So everybody's meeting us and saying: How many years have you been developing this? You're already testing it in the orchard!
+We say, It's one year and a half so far, and we try to keep up with that speed and keep up with our promises. And this is part of our promise to the investors that we're going to do this fast, simple, reliable, and get to the farmers something that they can afford and they can use reliably.
+AFN : What progress have you made so far?
+YR: So far, we've been testing our units in the orchard. We built four units to date. Each one of them a next generation compared to the previous one, and we've been testing it in the orchard. Just around the office, we have so many orchards we can use, so it's great. We just go down to the orchard, we do the tests, we pick, then we come back home, we collect it, and we come back to the orchard for the next test. This is what we've been doing this year.
+In January 2027, we're going to start pilots with customers, and that means we'll be staying there with our team until it's just right, and then we'll add five more units. So we'll have six this year, starting in Israel, then going to California, and then probably Spain.
+Further reading:
+🎥 ‘The whole system is now more investable’: Reservoir makes the case for ag robotics
+🎥 TRIC Robotics scales to 1,500 strawberry acres with 15-robot fleet
+🎥 Orchard Robotics CEO: Growers ‘shouldn’t have to be data analysts’
+🎥 From 2D images to 3D worlds: Bonsai bets on AI-powered farm robotics
+🎥 Carbon Robotics: $100m+ revenue, new machine and a path to IPO
+Share this article
+Sign up for our weekly newsletter.
+Could GLP-1 drugs finally put a price on crop nutrient density?
+Agtech
+Climate & sustainability
