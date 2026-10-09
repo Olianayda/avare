@@ -56,7 +56,12 @@ async function telegram(text) {
       signal: AbortSignal.timeout(15000),
     });
     const j = await res.json().catch(() => ({}));
-    return j.ok ? null : `telegram: ${j.description || 'HTTP ' + res.status}`;
+    if (j.ok) return null;
+    // Писать первым бот не может: так Telegram защищается от спама.
+    if (/initiate conversation|chat not found/i.test(j.description || '')) {
+      return 'telegram: вы ещё не открывали бота @AvareLeads_bot — один раз нажмите в нём «Запустить»';
+    }
+    return `telegram: ${j.description || 'HTTP ' + res.status}`;
   } catch (e) {
     return `telegram: ${e.message}`;
   }
