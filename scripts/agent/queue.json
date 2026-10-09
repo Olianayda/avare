@@ -456,6 +456,48 @@
       "post_text": "Training dairy teams should be a standing investment, not a reaction to the next mastitis outbreak.\n\nThat is the case Carolina Pinzon-Sanchez makes in Progressive Dairy this week, in a piece by Patryce Eldredge LeFevre. She is a bilingual dairy outreach specialist at the University of Wisconsin-Madison and has attended nearly every World Dairy Expo for 24 years.\n\nHer work through Expo en Espanol covers milk quality, udder health, animal welfare and milking systems, aimed at one thing: turning research into something a person can apply on Monday. She argues training should be proactive, so employees feel prepared rather than blamed.\n\n\"There is nothing more rewarding than seeing someone experience an 'aha' moment and truly understand the reason behind a management practice,\" she says. Those conversations led her to build a bilingual trainer certification program, Milk Quality from the Udder World.\n\nA protocol is only as reliable as the person carrying it out at five in the morning, and whether anyone explained why.\n\nHow much of your team's training happens before something goes wrong?\n\n#dairy #herdhealth #milkquality #dairyfarming #farmteams",
       "image_url": "",
       "added": "2026-09-27T10:37:23.452Z"
+    },
+    {
+      "id": 36,
+      "status": "ready",
+      "headline": "Selecting and preparing dairy recipients for embryo transfer",
+      "url": "https://www.agproud.com/articles/64133-selecting-and-preparing-dairy-recipients-for-embryo-transfer",
+      "source": "Progressive Dairy",
+      "category": "reproduction",
+      "summary": "Producers may focus on donor quality, mating decisions and embryo production, then use whatever open animals are available on transfer day. That leaves too much to chance.",
+      "date": "2026-10-06",
+      "post_text": "A herd with 20 properly prepared recipient cows beats one with 40 marginal ones on embryo transfer day.\n\nTyson Buyer, of Bovigen Genetic Services, writing in Progressive Dairy this week, makes recipient quality the real limit on embryo transfer success, not embryo supply.\n\nHis standard: no more than two unsuccessful transfers per recipient. After that, remove her from the pool rather than placing another embryo into a cow that hasn't shown she can carry one. Cows with unresolved metritis, abnormal discharge or a hard recent calving don't belong in the program at all.\n\nPrecision matters past the dramatic cases too. Intramuscular synchronization shots need an 18-gauge, 1.5-inch needle, or the product lands in fat instead of muscle. Before transfer, the recipient's corpus luteum gets checked directly, since it produces the progesterone an early pregnancy needs. Afterward, no major ration or group changes for at least 45 days.\n\nAn embryo can carry years of breeding decisions. The recipient decides whether any of it survives to calving.\n\nHow many failed transfers does your program allow before a recipient gets retired?\n\n#reproduction #embryotransfer #cattlebreeding #dairygenetics #IVF",
+      "image_url": "",
+      "added": "2026-10-09T06:33:45.000Z",
+      "author": "Tyson Buyer"
+    },
+    {
+      "id": 37,
+      "status": "ready",
+      "headline": "Creating the best beef-on-dairy calves",
+      "url": "https://www.agproud.com/articles/63780-creating-the-best-beef-on-dairy-calves",
+      "source": "Progressive Dairy",
+      "category": "genetics",
+      "summary": "Breeding strategies are no longer simply about producing enough replacements or creating a salable beef calf. They are becoming about matching specific market opportunities and delivering cattle that perform throughout the beef production chain.",
+      "date": "2026-10-08",
+      "post_text": "A Texas Tech study found Charolais-Holstein crosses grew fastest and carried the heaviest carcasses among beef-on-dairy genetics.\n\nJeremy Howard, of Simplot Animal Sciences, writes in Progressive Dairy this week about new Texas Tech University research tracking more than 400 beef-on-dairy and straightbred beef calves from the calf ranch through finishing, under commercial dairy and feedlot conditions.\n\nThe breed comparisons split clearly. Charolais-sired cattle posted heavier birthweights, faster growth rates and heavier carcasses than the other groups. Charolais-Holstein crosses went further, reaching the highest average daily gain and the heaviest hot carcass weights in the study. Angus-influenced cattle took the opposite lane, with the clearest edge in marbling and carcass quality grade.\n\nFewer dairy herds need every pregnancy for replacements now, thanks to sexed sеmen and better herd longevity. That is turning a replacement decision into a market decision: which beef sire fits the buyer at the other end of the chain.\n\nA pregnancy used to be a yes-or-no question. This data treats it as a product spec.\n\nWhich trait would you select for first, growth rate or marbling?\n\n#beefondairy #cattlegenetics #dairybreeding #IVF #reproduction",
+      "image_url": "",
+      "added": "2026-10-09T06:33:45.000Z",
+      "author": "Jeremy Howard"
+    },
+    {
+      "id": 38,
+      "status": "ready",
+      "headline": "Ask a Vet: Metritis versus endometritis – what's the difference?",
+      "url": "https://www.agproud.com/articles/64082-ask-a-vet-metritis-versus-endometritis-whats-the-difference",
+      "source": "Progressive Dairy",
+      "category": "reproduction",
+      "summary": "Two conditions often mentioned after calving are metritis and endometritis. Although the names sound similar, they are not the same disease, and knowing the difference helps producers decide when a cow needs prompt veterinary attention.",
+      "date": "2026-10-06",
+      "post_text": "Metritis makes a cow look sick. Endometritis leaves her looking healthy while it quietly wrecks her fertility.\n\nDr. Athena Angela Gaffud, writing in Progressive Dairy this week, draws the line between two postpartum uterine diseases that producers often confuse.\n\nMetritis hits within the first 21 days after calving, usually the first 10, and involves the whole uterine wall. Watch for foul-smelling discharge, a fever at 103.5°F or higher, dropped appetite and a sudden drop in milk. That cow needs a vet now.\n\nEndometritis shows up later, past 21 days, and stays confined to the uterine lining. The cow eats, milks and behaves normally. The only signs are thick discharge weeks after calving, delayed breeding or repeat breeding despite looking fine. Some cases show no discharge at all, caught only during a reproductive exam.\n\nRetained placenta, dystocia, twins, milk fever and ketosis all raise the risk for both. Four weeks of normal behavior can still hide a cow that will not get pregnant on schedule.\n\nWhich of your fresh cows got a reproductive exam only after she failed to settle?\n\n#reproduction #cattlefertility #dairygenetics #herdhealth #cattlebreeding",
+      "image_url": "",
+      "added": "2026-10-09T06:33:45.000Z",
+      "author": "Athena Angela Gaffud"
     }
   ],
   "log": [
@@ -490,7 +532,7 @@
       "category": "reproduction"
     }
   ],
-  "nextId": 36,
+  "nextId": 39,
   "dismissed": [
     "https://www.beefmagazine.com/livestock-management/k-state-watershed-specialists-livestock-experts-emphasize-importance-of-water-sources"
   ]
