@@ -1,0 +1,47 @@
+Largely thanks to CBP blocks on some DJI shipments, sales of new spray drones in the US fell by 60% in 2025.
+Image credit: Russell Hedrick
+Ten months after the FCC’s bombshell decision to ban sales of new models of foreign made drones and critical components in the US, the US ag spray drone market is “very much in flux” as firms attempt to navigate the evolving landscape, says the American Spray Drone Coalition (ASDC).
+The challenge has been compounded by a recent FCC proposal to crack down on foreign-made “military grade” drones that could effectively ban sales of existing foreign-made models from top Chinese players such as DJI that have already been approved, says the ASDC.
+The changes follow a turbulent couple of years in a market that has already been roiled by import restrictions on shipments from DJI that have been periodically blocked  by US Customs and Border Protection (CBP) on the grounds that DJI may be using forced labor. DJI says these claims are “ categorically false .”
+Spray drone sales in US plunged 60% in 2025
+Largely thanks to CBP's interventions with DJI shipments, sales of new spray drones in the US fell by 60% in 2025, said ASDC president Eric Ringer.
+“What we've seen is that this [the blocks on DJI shipments] come in fits and starts," he told AgFunderNews . "Sometimes they get blocked and caught up in the ports, and sometimes they don't. And anecdotally, talking with some [US spray drone] operators, they're buying up any available existing DJI models [that are not caught up in the ban] because they don't know what they can expect yet from the American options as far as reliability and capability.
+“So I think overall, as an industry, it's just very much in flux. A lot of the established operators don't quite know who to trust for a tool that they rely on for their businesses. We've still got a number of operators that are like: What is the solution that I need to buy?”
+While other Chinese companies such as XAG, EAVision and Talos were able to pick up some of DJI’s slack, and US firms are beginning to build domestic manufacturing operations alone or in partnership with overseas firms, demand still exceeds supply, he said.
+“We went from 8,950 spray drones sold in 2024 to 3,711 in 2025. That was not because of a lack of demand. That was because of a lack of supply. I think a lot of us had hoped that US manufacturers would be able to pick up more of the slack, but it doesn't show in the 2025 data. In 2026, we may see a greater increase, but I'll hold off on commentary on that until I see the data [which the ASDC is currently collecting].”
+Building American comes at a price
+The FCC did provide guidance for US firms on how to apply for temporary exemptions to the ban on new foreign-made models and components. However, there is still a lot of confusion in the market as to what is allowed, said Ringer, who recently cofounded a new firm called American Autonomy Inc, which develops software for US drone makers.
+“What we're finding in talking with some of the US drone manufacturers is that they're only getting clarity when they can engage with the FCC directly through the conditional approval process. And even then, it’s very hard to make bill of materials decisions, for example trying to figure out which LiDAR system they need to use.
+“So when they're comparing a US-made version versus a Chinese made version, there's real trade-offs, and they're having to continually go back to the FCC and get clarification on what am I allowed to do here? Can I use this [Chinese component] for the next year and then switch, or is that just off the table? Do I just need to go with the US version?”
+Meanwhile, US-sourced components such as batteries and motors are “orders of magnitude more expensive” than Chinese-sourced products, he noted.  This makes it very hard for US firms to compete with existing Chinese models that for now at least are still permitted in the US.
+"US drone manufacturers are still trying to figure out how to produce drones at a cost that will work for the market."
+Fresh FCC proposal threatens existing drone models
+According to Ringer, "The additional challenge that we're now dealing with is this FCC proposal that came out in July to limit the import and marketing of foreign-made drones that are over 55lbs that use LiDAR.”
+The proposal is framed as targeting “military-grade” drones, he said. However, the FCC’s definition includes previously authorized foreign-made drones with thermal imaging, LiDAR sensing, swarming drones, drone docking stations, drones weighing 55lbs+ on takeoff, and aerosol drones capable of dispensing “economic poison.”
+The latter is defined as “any substance intended for preventing, destroying, repelling, or mitigating pests, viruses, or intended for use as a plant defoliant, or drying agent.”
+This, claimed DJI in its comments on the proposal, “is a roundabout way of describing every agricultural drone that can spray pesticides or spread seeds."
+While it is still just a proposal at this stage, "It's one that we take real seriously, because I don't think that we're yet at the stage where US drone manufacturers are able to fully replace the Chinese options,” added Ringer.
+“We agree that we need to establish our own US-made drone capability for national security reasons, and for global competitiveness reasons, but we disagree with the approach.”
+To make the switch to US-made drones work, he said, there needs to be a transitional period whereby US drone makers get support to help them transition and US farmers that have come to rely on foreign made drones are not put at a disadvantage vs their counterparts in other countries, who still have access to cheap, effective, Chinese-made drones.
+“We need to make sure that US farmers can remain globally competitive. Adoption of drones in Brazil in ag is now outpacing the US and we run the risk of being left behind.”
+ASDC calls for multi-year transition, buyer rebates
+In comments seen by AgFunderNews , the ASDC urges the FCC to “exclude FAA Part 137 agricultural spray drones from its proposed "military-grade" prohibitions and provide a structured, multi-year off-ramp. Safeguarding national security requires protecting food security by ensuring domestic supply can realistically scale before foreign alternatives are cut off."
+The ASDC added: “Survey data reveals that 49% of agricultural operators are unwilling to pay a price premium for US-manufactured hardware. To bridge this cost gap, the FCC should coordinate with federal partners to direct tariff revenues from foreign drone imports into a direct-buyer rebate program for compliant US technology.”
+Registrations rise 46% in 2025 despite sales slump
+While sales of spray drones plummeted last year primarily due to CBP’s blocks on DJI shipments, registrations of ag spray drones rose 45.6%, and the amount of US acreage sprayed rose by 58.7% to 16.4 million acres, according to a new report from the ASDC.
+The discrepancy reflects the fact that registrations typically lag sales, such that sharp declines in sales in one year often don’t show up in the registration data until the following year, noted the ASDC, which represents leading distributors in the ag spray drone market.
+"DJI's share of annual spray drone registrations fell from 83.8% in 2023 to 52.4% in 2025, as Chinese competitors XAG, EAVision, and Talos — the latter two entering the registered fleet for the first time in 2025 — gained significant ground."
+One other notable trend Ringer expects will also show up in 2026 data is a move towards larger tanks, increasing a drone’s productivity.
+Made in the USA?
+Some key players navigating the new landscape include:
+Exedy Drones:  A unit of EXEDY Globalparts (owned by Japanese firm Exedy Corp), Exedy Drones is  repurposing  Globalparts’ automotive engineering and Michigan manufacturing base to build US-made agricultural spray drones.
+Revolution Drones:  Founded by North Carolina farmer Russell Hedrick to create  domestically assembled spray drones  tailored for American farming.
+Hylio:  Texas-based drone maker accelerating “ Made in America ” spray drone production.
+Agri Spray Drones:  Missouri dealer turned manufacturer planning US production of spray drones originally designed by Chinese partner EA Vision under license.
+Ceres Air:  Vermont-based company beginning US manufacturing of Black Betty spray drones, redesigning a proven platform from Chinese firm  Vector AGR  to meet American farming needs with larger payloads, proprietary software, and radar/LiDAR.
+American Autonomy:  Software developer launched to build  US-centric drone operating systems  that keep flight and agronomic data onshore and integrate with farm systems; its first partner is Exedy Drones.
+Share this article
+Sign up for our weekly newsletter.
+AgriFood Signals: Edonia raises funds to scale spirulina protein, AI agents for restaurants, PepsiCo does VR
+Agtech
+FoodTech
